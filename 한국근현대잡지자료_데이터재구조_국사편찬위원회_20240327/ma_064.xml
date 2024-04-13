@@ -1,0 +1,2188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="ma_064">
+	<front>
+		<biblioData type="목차제공잡지">
+			<title>
+				<mainTitle>대중</mainTitle>
+			</title>
+			<binderPeriod begin="1933-04-00" end="1933-06-00"/>
+		</biblioData>
+	</front>
+	<level2 id="ma_064_0010">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="창간임시호">대중 창간임시호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1933-04-01">1933년 4월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_064_0010_0001" end="ma_064_0010_0056"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_064_0010_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>創刊辭</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金若水</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0007" end="ma_064_0010_0007"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">創刊辭</pTitle>
+						<name role="필자">金若水</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>術語 「大衆」의 階級的 意義</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>玄人 李甲基</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0010" end="ma_064_0010_0011"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">術語 「大衆」의 階級的 意義</pTitle>
+						<name role="필자">玄人 李甲基</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>消息</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>編輯部</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0010" end="ma_064_0010_0011"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">消息</pTitle>
+						<name role="필자">編輯部</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>黯然한 世界恐慌의 展望, 1932年의 決算中에서</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>愼鐵民</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0012" end="ma_064_0010_0014"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">黯然한 世界恐慌의 展望, 1932年의 決算中에서</pTitle>
+						<name role="필자">愼鐵民</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>日蘇關係의 새로운 展望, 日蘇不可侵條約이냐? 日蘇戰爭이냐?</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔鐵</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0015" end="ma_064_0010_0017"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">日蘇關係의 새로운 展望, 日蘇不可侵條約이냐? 日蘇戰爭이냐?</pTitle>
+						<name role="필자">崔鐵</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>日蘇不可條約의 經過에 對한 蘇聯側의 發表</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>리트뷔놉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0018" end="ma_064_0010_0019"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">日蘇不可條約의 經過에 對한 蘇聯側의 發表</pTitle>
+						<name role="필자">리트뷔놉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>中蘇國交의 回復顚末</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0019" end="ma_064_0010_0019"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">中蘇國交의 回復顚末</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>比律賓獨立案의 內容, 그에 對한 批判</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>元敬黙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0020" end="ma_064_0010_0021"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">比律賓獨立案의 內容, 그에 對한 批判</pTitle>
+						<name role="필자">元敬黙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>몰토프의 報告</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0023" end="ma_064_0010_0023"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">몰토프의 報告</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國際漫畵月史</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李甲基</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0008" end="ma_064_0010_0009"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國際漫畵月史</pTitle>
+						<name role="필자">李甲基</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>宗敎란 무엇인가?</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0022" end="ma_064_0010_0022"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">宗敎란 무엇인가?</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>火田民의 行方은 어대로</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0022" end="ma_064_0010_0022"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">火田民의 行方은 어대로</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 뉴스, 上海中心의 反X反X大會開催</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0026" end="ma_064_0010_0026"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 뉴스, 上海中心의 反X反X大會開催</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 뉴스, 産業別組織으로서 赤色勞組建設에 活動한 太平洋勞組事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0027" end="ma_064_0010_0028"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 뉴스, 産業別組織으로서 赤色勞組建設에 活動한 太平洋勞組事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 뉴스, 朝鮮XX主義者協議會中央 權大衡·徐寅植等公判</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0029" end="ma_064_0010_0030"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 뉴스, 朝鮮XX主義者協議會中央 權大衡·徐寅植等公判</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 뉴스, 李相北等協議會公判</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0030" end="ma_064_0010_0031"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 뉴스, 李相北等協議會公判</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 뉴스, 日本共産黨과 X旗再建</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0031" end="ma_064_0010_0031"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 뉴스, 日本共産黨과 X旗再建</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 뉴스, 定平農組事件과 覆審</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0033" end="ma_064_0010_0034"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 뉴스, 定平農組事件과 覆審</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 뉴스, 佐野鍋山의 轉向</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0034" end="ma_064_0010_0034"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 뉴스, 佐野鍋山의 轉向</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 뉴스, 濟州道協議會事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0035" end="ma_064_0010_0035"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 뉴스, 濟州道協議會事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 뉴스, 河上肇와 그 令孃의 黨活動</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0035" end="ma_064_0010_0036"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 뉴스, 河上肇와 그 令孃의 黨活動</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 뉴스, 滿洲XX黨의 指導問題</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0036" end="ma_064_0010_0036"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 뉴스, 滿洲XX黨의 指導問題</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 뉴스, 기타 우리들의 뉴스에로</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 뉴스, 기타 우리들의 뉴스에로</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國際뉴-스</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0024" end="ma_064_0010_0025"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國際뉴-스</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>노-트, 全鮮의 乞人總數</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0043" end="ma_064_0010_0043"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">노-트, 全鮮의 乞人總數</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0260">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>노-트, 農村의 沒落相</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0043" end="ma_064_0010_0043"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">노-트, 農村의 沒落相</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0270">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>노-트, 全鮮刑務所의 在監數</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0043" end="ma_064_0010_0043"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">노-트, 全鮮刑務所의 在監數</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0280">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>노-트, 各 刑務所 未決의 思想事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0037" end="ma_064_0010_0037"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">노-트, 各 刑務所 未決의 思想事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0290">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>노-트, 其他 統計 各種</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">노-트, 其他 統計 各種</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0300">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>米國資本主義의 軍備</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金基鐵</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0039" end="ma_064_0010_0040"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">米國資本主義의 軍備</pTitle>
+						<name role="필자">金基鐵</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0310">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>蘇聯의 地方行政組織</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張何鳴</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0041" end="ma_064_0010_0041"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">蘇聯의 地方行政組織</pTitle>
+						<name role="필자">張何鳴</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0320">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮小作契約의 例</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0042" end="ma_064_0010_0043"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮小作契約의 例</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0330">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>日本의 國粹團體와 勞組現勢</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0044" end="ma_064_0010_0045"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">日本의 國粹團體와 勞組現勢</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0340">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>現代의 戰爭과 兵器</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>孫基埰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0045" end="ma_064_0010_0046"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">現代의 戰爭과 兵器</pTitle>
+						<name role="필자">孫基埰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0350">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>日本의 重工業原料市場</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0047" end="ma_064_0010_0048"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">日本의 重工業原料市場</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0360">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>資本論은 이러케 읽어라</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李崑熙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0049" end="ma_064_0010_0052"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">資本論은 이러케 읽어라</pTitle>
+						<name role="필자">李崑熙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0370">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>辨證法과 自然科學</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李活</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0052" end="ma_064_0010_0053"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">辨證法과 自然科學</pTitle>
+						<name role="필자">李活</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0380">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>3月의 日誌</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>編輯部</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0048" end="ma_064_0010_0048"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">3月의 日誌</pTitle>
+						<name role="필자">編輯部</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0010_0390">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯後記</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_064_0010_0054" end="ma_064_0010_0056"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯後記</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_064_0020">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제2호">대중 제2호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1933-05-01">1933년 5월 1일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_064_0020_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>內外時評</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金若水</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">內外時評</pTitle>
+						<name role="필자">金若水</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>所謂 「經濟封鎖」는 可能한 것인가?</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>卓武鎬</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">所謂 「經濟封鎖」는 可能한 것인가?</pTitle>
+						<name role="필자">卓武鎬</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>委任統治問題에 對하야, 日本은 南洋群島를 返還식힐가</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金成熙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">委任統治問題에 對하야, 日本은 南洋群島를 返還식힐가</pTitle>
+						<name role="필자">金成熙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>米穀統制法案과 朝鮮米의 將來</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>靑愚</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">米穀統制法案과 朝鮮米의 將來</pTitle>
+						<name role="필자">靑愚</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>講座, 生理組織과 政治機構</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>澤鎬</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">講座, 生理組織과 政治機構</pTitle>
+						<name role="필자">澤鎬</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>蔣介石은 日本에 開戰할가?</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李允卨</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">蔣介石은 日本에 開戰할가?</pTitle>
+						<name role="필자">李允卨</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>日米兩國의 海軍의 勢力, 各個別的으로 본 兩軍의 現勢</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金基鐵</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">日米兩國의 海軍의 勢力, 各個別的으로 본 兩軍의 現勢</pTitle>
+						<name role="필자">金基鐵</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>六萬의 消防組員으로서 警察機能을 擴大强化</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">六萬의 消防組員으로서 警察機能을 擴大强化</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>協同組合運動論, 協同組合方面의 活動에 關하야</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">協同組合運動論, 協同組合方面의 活動에 關하야</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>講座, 팟시즘이란 무엇이냐?(1)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安岳</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">講座, 팟시즘이란 무엇이냐?</pTitle>
+						<name role="필자">安岳</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>辨證法的 唯物論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>愼鐵民</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">辨證法的 唯物論</pTitle>
+						<name role="필자">愼鐵民</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>傳記, 맑쓰와 따-윈의 合傳</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">傳記, 맑쓰와 따-윈의 合傳</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國際뉴-스</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國際뉴-스</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國內뉴-스</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國內뉴-스</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>1917년의 두 개의 論文</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>N·레-닌</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">1917년의 두 개의 論文</pTitle>
+						<name role="필자">N·레-닌</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>따윈이 맑쓰에게 보낸 片紙</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">따윈이 맑쓰에게 보낸 片紙</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社告</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社告</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>1932년 中 最近 蘇聯諸會議의 經過</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">1932년 中 最近 蘇聯諸會議의 經過</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>싸베-트同盟의 新聞</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">싸베-트同盟의 新聞</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>蘇聯의 X宗敎政策</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>元敬黙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">蘇聯의 X宗敎政策</pTitle>
+						<name role="필자">元敬黙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>中華싸베-트共和國의 發生과 現勢</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">中華싸베-트共和國의 發生과 現勢</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>資料, 資本主義産業의 基本構成</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">資料, 資本主義産業의 基本構成</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>稻作一段步收支計算法</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>全農山形聯合會</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">稻作一段步收支計算法</pTitle>
+						<name role="필자">全農山形聯合會</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>蘇聯에 잇서서의 反레-닌主義의 一系列, 主로 리야자높主義 批判</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>밤멜</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">蘇聯에 잇서서의 反레-닌主義의 一系列, 主로 리야자높主義 批判</pTitle>
+						<name role="필자">밤멜</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>宗敎批判에 對하야</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>梁輝明</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">宗敎批判에 對하야</pTitle>
+						<name role="필자">梁輝明</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0260">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>質疑, 資本主義와 原始的 蓄積</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>L生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">質疑, 資本主義와 原始的 蓄積</pTitle>
+						<name role="필자">L生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0270">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>藝術이란 엇더한 價値를 가젓느냐</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安含光</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">藝術이란 엇더한 價値를 가젓느냐</pTitle>
+						<name role="필자">安含光</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0280">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>戀愛의 階級性과 코론타이主義</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安德根</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">戀愛의 階級性과 코론타이主義</pTitle>
+						<name role="필자">安德根</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0020_0290">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯餘言</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯餘言</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_064_0030">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제3호">대중 제3호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1933-06-01">1933년 6월 1일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_064_0030_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>內外時評</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金若水</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">內外時評</pTitle>
+						<name role="필자">金若水</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>조선協同組合의 새로운 方向</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>黃郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">조선協同組合의 새로운 方向</pTitle>
+						<name role="필자">黃郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>民族改良主義 協同組合運動의 正體, 그 陣營의 하나인 平安協同組合의 醜惡한 內容을 暴露하야</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金平海</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">民族改良主義 協同組合運動의 正體, 그 陣營의 하나인 平安協同組合의 醜惡한 內容을 暴露하야</pTitle>
+						<name role="필자">金平海</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>小林多喜二(小話)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>林守弟</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">小林多喜二</pTitle>
+						<name role="필자">林守弟</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>資本主義 第三期와 石油, 石油을 支配하는 者는 世界을 支配한다.</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李靑垣</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">資本主義 第三期와 石油, 石油을 支配하는 者는 世界을 支配한다.</pTitle>
+						<name role="필자">李靑垣</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>1905年 露西亞革命 두 個의 모멘트</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>蘇因</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">1905年 露西亞革命 두 個의 모멘트</pTitle>
+						<name role="필자">蘇因</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>힛트러暴行의 眞相</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李廷鐸</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">힛트러暴行의 眞相</pTitle>
+						<name role="필자">李廷鐸</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>資本論은 이러케 읽어라</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李崗熙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">資本論은 이러케 읽어라</pTitle>
+						<name role="필자">李崗熙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>哲學과 無産階級</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安含光</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">哲學과 無産階級</pTitle>
+						<name role="필자">安含光</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>宗敎批判에 對하야</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張明</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">宗敎批判에 對하야</pTitle>
+						<name role="필자">張明</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>元始共産社會와 母系制度</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安德根</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">元始共産社會와 母系制度</pTitle>
+						<name role="필자">安德根</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>일본로동농민부인의 생활투쟁</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>오동안</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">일본로동농민부인의 생활투쟁</pTitle>
+						<name role="필자">오동안</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>産兒制限과 無産者</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>趙斌</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">産兒制限과 無産者</pTitle>
+						<name role="필자">趙斌</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>都市의 處女들은 어대로 가나</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朱澤</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">都市의 處女들은 어대로 가나</pTitle>
+						<name role="필자">朱澤</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>蘇聯의 靑年同盟의 發展</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李甲基</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">蘇聯의 靑年同盟의 發展</pTitle>
+						<name role="필자">李甲基</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>反싸베-트 陰謀事件의 眞相</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>林和</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">反싸베-트 陰謀事件의 眞相</pTitle>
+						<name role="필자">林和</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 太平洋勞組事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 太平洋勞組事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 工作委員會</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 工作委員會</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 再建協議送局</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 再建協議送局</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 佐野學轉向說</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 佐野學轉向說</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 永興農組事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 永興農組事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 海港赤化事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 海港赤化事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 米川等赤勞事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 米川等赤勞事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 奉化赤農事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 奉化赤農事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 咸興高興事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 咸興高興事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0260">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 申才弘事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 申才弘事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0270">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 十三十廣島事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 十三十廣島事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0280">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리들의 報道, 省鐵赤化事件</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리들의 報道, 省鐵赤化事件</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0290">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>戰艦 뜨세와 水兵暴動</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李箕永</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">戰艦 뜨세와 水兵暴動</pTitle>
+						<name role="필자">李箕永</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0300">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>小林多喜二의 沼尻村과 그 어머니</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>一田アキ</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">小林多喜二의 沼尻村과 그 어머니</pTitle>
+						<name role="필자">一田アキ</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0310">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(創作) 물</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金南天</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명"/>
+						<name role="필자">金南天</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0320">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>獄中通信</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>權大衡, 朴世用, 文道培</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">獄中通信</pTitle>
+						<name role="필자">權大衡, 朴世用, 文道培</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_064_0030_0330">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯室에서</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯室에서</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+</level1>

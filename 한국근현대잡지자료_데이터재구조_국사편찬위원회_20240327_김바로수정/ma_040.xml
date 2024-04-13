@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="ma_040">
+	<front>
+		<biblioData type="목차제공잡지">
+			<title>
+				<mainTitle>신문평론</mainTitle>
+			</title>
+			<binderPeriod begin="1947-04-17" end="1947-07-15"/>
+		</biblioData>
+	</front>
+	<level2 id="ma_040_0010">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1947년 4월(통권 1호, 제1권 제1호)">신문평론 1947년 4월(통권 1호, 제1권 제1호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1947-04-17">1947년 4월 17일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_040_0010_0001" end="ma_040_0010_0058"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_040_0010_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(卷頭言)創刊辭</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>主幹</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0005" end="ma_040_0010_0005"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명"/>
+						<name role="필자">主幹</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(卷頭言)現況에 必要適切하다(祝創刊)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安在鴻</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0006" end="ma_040_0010_0006"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명"/>
+						<name role="필자">安在鴻</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(卷頭言)文化向上에 큰 도움(祝創刊)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李甲燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0006" end="ma_040_0010_0006"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명"/>
+						<name role="필자">李甲燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(卷頭言)言論淨化의 推進隊(祝創刊)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>梁在廈</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0006" end="ma_040_0010_0007"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명"/>
+						<name role="필자">梁在廈</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(卷頭言)꾸준이 努力하라(祝創刊)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李瑄根</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0007" end="ma_040_0010_0007"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명"/>
+						<name role="필자">李瑄根</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮新聞小史(1)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安民世</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0008" end="ma_040_0010_0016"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮新聞小史</pTitle>
+						<name role="필자">安民世</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞과 新聞記者道(經營者의 自己反省도 要請)(新聞界의 時感)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>薜義植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0017" end="ma_040_0010_0018"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞과 新聞記者道</pTitle>
+						<name role="필자">薜義植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>各界 人士가 말하는 新聞에 對한 不平과 希望</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>吳基永 外 12人</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0022" end="ma_040_0010_0027"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">各界 人士가 말하는 新聞에 對한 不平과 希望</pTitle>
+						<name role="필자">吳基永 外 12人</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞은 모든 人民의 批評感情을 傳하는 것</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>미조리 大學新聞學部長</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0038" end="ma_040_0010_0038"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞은 모든 人民의 批評感情을 傳하는 것</pTitle>
+						<name role="필자">미조리 大學新聞學部長</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國新聞界의 現況</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金東成</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0019" end="ma_040_0010_0021"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國新聞界의 現況</pTitle>
+						<name role="필자">金東成</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>第一線記者에게 보내는 말</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李貞淳</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0032" end="ma_040_0010_0034"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">第一線記者에게 보내는 말</pTitle>
+						<name role="필자">李貞淳</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞記事의 新樣式論(從來의 倭式 漢學式에서 우리式으로)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>禹昇圭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0035" end="ma_040_0010_0038"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞記事의 新樣式論</pTitle>
+						<name role="필자">禹昇圭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>速記에 對하여</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張基泰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0052" end="ma_040_0010_0058"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">速記에 對하여</pTitle>
+						<name role="필자">張基泰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>올챙이 記者時節(見習記者時代의 追憶)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>宋志英</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0039" end="ma_040_0010_0041"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">올챙이 記者時節</pTitle>
+						<name role="필자">宋志英</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>잊혀지지 않는 雰圍氣(見習記者時代의 追憶)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>姜永壽</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0041" end="ma_040_0010_0042"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">잊혀지지 않는 雰圍氣</pTitle>
+						<name role="필자">姜永壽</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>쩌어날리즘·쩌어날리스트</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>趙容萬</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0043" end="ma_040_0010_0044"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">쩌어날리즘·쩌어날리스트</pTitle>
+						<name role="필자">趙容萬</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>하나 또 두世界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金起林</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0045" end="ma_040_0010_0046"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">하나 또 두世界</pTitle>
+						<name role="필자">金起林</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>號外</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金哲洙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0050" end="ma_040_0010_0051"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">號外</pTitle>
+						<name role="필자">金哲洙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞用語解說</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0047" end="ma_040_0010_0049"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞用語解說</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞界 消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0049" end="ma_040_0010_0049"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞界 消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0010_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>蘇聯邦新聞槪觀</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>咸大勳</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0010_0028" end="ma_040_0010_0031"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">蘇聯邦新聞槪觀</pTitle>
+						<name role="필자">咸大勳</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_040_0020">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1947년 7월(통권 2호, 제1권 제2호)">신문평론 1947년 7월(통권 2호, 제1권 제2호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1947-07-15">1947년 7월 15일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_040_0020_0001" end="ma_040_0020_0082"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_040_0020_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮新聞小史(2)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安民世</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0008" end="ma_040_0020_0015"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮新聞小史</pTitle>
+						<name role="필자">安民世</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>犯亞會議와 外國記者</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>河敬德</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0016" end="ma_040_0020_0017"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">犯亞會議와 外國記者</pTitle>
+						<name role="필자">河敬德</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞記者와 告發의 精神</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李甲燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0023" end="ma_040_0020_0025"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞記者와 告發의 精神</pTitle>
+						<name role="필자">李甲燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>저나리즘과 放送</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李啓元</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0052" end="ma_040_0020_0054"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">저나리즘과 放送</pTitle>
+						<name role="필자">李啓元</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>宣傳映畵</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安哲永</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0055" end="ma_040_0020_0058"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">宣傳映畵</pTitle>
+						<name role="필자">安哲永</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>經濟欄 設置를 提唱함</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>全弘鎭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0032" end="ma_040_0020_0033"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">經濟欄 設置를 提唱함</pTitle>
+						<name role="필자">全弘鎭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>記者品格과 社長地位</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李鍾模</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0034" end="ma_040_0020_0035"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">記者品格과 社長地位</pTitle>
+						<name role="필자">李鍾模</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>通信士의 使命</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>白南鐵</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0036" end="ma_040_0020_0037"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">通信士의 使命</pTitle>
+						<name role="필자">白南鐵</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞 編輯의 技術論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>禹昇圭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0038" end="ma_040_0020_0041"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞 編輯의 技術論</pTitle>
+						<name role="필자">禹昇圭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>政治와 新聞</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李瑄根</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0018" end="ma_040_0020_0022"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">政治와 新聞</pTitle>
+						<name role="필자">李瑄根</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>저나리즘과 文學</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>趙容萬</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0045" end="ma_040_0020_0047"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">저나리즘과 文學</pTitle>
+						<name role="필자">趙容萬</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>저나리즘과 演劇</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>咸大勳</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0047" end="ma_040_0020_0050"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">저나리즘과 演劇</pTitle>
+						<name role="필자">咸大勳</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>저나리즘과 映畵</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>徐光□</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0050" end="ma_040_0020_0052"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">저나리즘과 映畵</pTitle>
+						<name role="필자">徐光□</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>誤報論議論(新聞報道에 對한 誤報是非</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>鄭廣鉉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0059" end="ma_040_0020_0061"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">誤報論議論</pTitle>
+						<name role="필자">鄭廣鉉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>黨派 新聞의 運命</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔埈</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0062" end="ma_040_0020_0063"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">黨派 新聞의 運命</pTitle>
+						<name role="필자">崔埈</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞人論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>啞亭生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0066" end="ma_040_0020_0068"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞人論</pTitle>
+						<name role="필자">啞亭生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞硏究와 新聞學說</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>編輯部</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0069" end="ma_040_0020_0072"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞硏究와 新聞學說</pTitle>
+						<name role="필자">編輯部</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>木鐸</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>鄭飛石</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0073" end="ma_040_0020_0074"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">木鐸</pTitle>
+						<name role="필자">鄭飛石</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>별(프로방스 어느 牧童의 이야기)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>아르퐁스·도데 金秉達 譯</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0075" end="ma_040_0020_0082"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">별</pTitle>
+						<name role="필자">아르퐁스·도데 金秉達 譯</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>푸른하늘(再開 共委에 바치는 노래)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>呂尙玄</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0064" end="ma_040_0020_0065"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">푸른하늘</pTitle>
+						<name role="필자">呂尙玄</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞·自由朝鮮의 소리</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>죠세프·쟈곱스</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0026" end="ma_040_0020_0027"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞·自由朝鮮의 소리</pTitle>
+						<name role="필자">죠세프·쟈곱스</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞界 消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0027" end="ma_040_0020_0027"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞界 消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞記者가 되려면(先輩들은 이렇게 말한다)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安在鴻 外 23人</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0028" end="ma_040_0020_0031"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞記者가 되려면</pTitle>
+						<name role="필자">安在鴻 外 23人</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_040_0020_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美蘇共委 開會式 點描</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔命韶</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_040_0020_0042" end="ma_040_0020_0044"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美蘇共委 開會式 點描</pTitle>
+						<name role="필자">崔命韶</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+</level1>

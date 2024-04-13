@@ -1,0 +1,2598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="ma_081">
+	<front>
+		<biblioData type="목차제공잡지">
+			<title>
+				<mainTitle>아성</mainTitle>
+			</title>
+			<binderPeriod begin="1921-03-00" end="1921-10-00"/>
+		</biblioData>
+	</front>
+	<level2 id="ma_081_0010">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제1호">아성 제1호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1921-03-15">1921년 3월 15일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_081_0010_0001" end="ma_081_0010_0164"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_081_0010_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社告</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0006" end="ma_081_0010_0006"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社告</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>天性과 地性</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0013" end="ma_081_0010_0013"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">天性과 地性</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>三重危險과 自覺</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安廓</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0014" end="ma_081_0010_0018"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">三重危險과 自覺</pTitle>
+						<name role="필자">安廓</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新文化主義와 人類의 生活</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>岳裔</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0019" end="ma_081_0010_0022"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新文化主義와 人類의 生活</pTitle>
+						<name role="필자">岳裔</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社會生活을 對像으로 한 新道德의 樹立</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>解光</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0023" end="ma_081_0010_0027"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社會生活을 對像으로 한 新道德의 樹立</pTitle>
+						<name role="필자">解光</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>聯合會의 主義綱領</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>吳祥根</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0028" end="ma_081_0010_0034"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">聯合會의 主義綱領</pTitle>
+						<name role="필자">吳祥根</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>靑年會의 事業</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安廓</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0035" end="ma_081_0010_0042"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">靑年會의 事業</pTitle>
+						<name role="필자">安廓</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>배우라 鍊習하라 일하라</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張道斌</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0043" end="ma_081_0010_0050"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">배우라 鍊習하라 일하라</pTitle>
+						<name role="필자">張道斌</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>某英人의 丁抹視察記를 보고</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>吳祥根</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0051" end="ma_081_0010_0054"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">某英人의 丁抹視察記를 보고</pTitle>
+						<name role="필자">吳祥根</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>突進할 靑年의 不讓할 三要件</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金弼秀</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0055" end="ma_081_0010_0058"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">突進할 靑年의 不讓할 三要件</pTitle>
+						<name role="필자">金弼秀</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>自我創造</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>姜邁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0059" end="ma_081_0010_0061"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">自我創造</pTitle>
+						<name role="필자">姜邁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>時調三首</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>소야</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0061" end="ma_081_0010_0061"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">時調三首</pTitle>
+						<name role="필자">소야</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮文學史</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安自山</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0062" end="ma_081_0010_0067"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮文學史</pTitle>
+						<name role="필자">安自山</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>改造된 世界新地理</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>世觀</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0068" end="ma_081_0010_0083"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">改造된 世界新地理</pTitle>
+						<name role="필자">世觀</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>保險의 狼狽(逸話)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>文明鎭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0083" end="ma_081_0010_0083"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">保險의 狼狽</pTitle>
+						<name role="필자">文明鎭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>我人生觀</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金思國</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0084" end="ma_081_0010_0088"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">我人生觀</pTitle>
+						<name role="필자">金思國</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>唯物史觀要領記</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>尹滋瑛</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0089" end="ma_081_0010_0091"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">唯物史觀要領記</pTitle>
+						<name role="필자">尹滋瑛</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>英語工夫(其一)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>世觀</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0092" end="ma_081_0010_0092"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">英語工夫</pTitle>
+						<name role="필자">世觀</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>祝我聲創刊(漢詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>石塘子</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0093" end="ma_081_0010_0093"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">祝我聲創刊</pTitle>
+						<name role="필자">石塘子</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>賀我聲創刊(漢詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>北山 南廷八</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0093" end="ma_081_0010_0093"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">賀我聲創刊</pTitle>
+						<name role="필자">北山 南廷八</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>冬夜述懷(漢詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>南廷八</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0093" end="ma_081_0010_0093"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">冬夜述懷</pTitle>
+						<name role="필자">南廷八</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>雪(漢詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>海旅 林尙鍾</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0093" end="ma_081_0010_0093"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">雪</pTitle>
+						<name role="필자">海旅 林尙鍾</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>夢幼(詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>吳相淳</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0094" end="ma_081_0010_0095"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">夢幼</pTitle>
+						<name role="필자">吳相淳</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>回程(詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>소야</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0096" end="ma_081_0010_0097"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">回程</pTitle>
+						<name role="필자">소야</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>女息의 黃金花(逸話)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>文明鎭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0098" end="ma_081_0010_0114"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">女息의 黃金花</pTitle>
+						<name role="필자">文明鎭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0260">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>고생하는 언니와 외로운 아우에게</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>소야</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0115" end="ma_081_0010_0116"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">고생하는 언니와 외로운 아우에게</pTitle>
+						<name role="필자">소야</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0270">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>陽春과 祈禱</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>元友觀</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0117" end="ma_081_0010_0118"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">陽春과 祈禱</pTitle>
+						<name role="필자">元友觀</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0010_0280">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>聯合會彙報</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0010_0119" end="ma_081_0010_0164"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">聯合會彙報</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_081_0020">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제2호">아성 제2호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1921-05-15">1921년 5월 15일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_081_0020_0001" end="ma_081_0020_0128"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_081_0020_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社告</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0010" end="ma_081_0020_0010"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社告</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>不平論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>自山</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0012" end="ma_081_0020_0012"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">不平論</pTitle>
+						<name role="필자">自山</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>精神의 整理</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安廓</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0013" end="ma_081_0020_0014"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">精神의 整理</pTitle>
+						<name role="필자">安廓</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>一貧民</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>貧民OOO</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0015" end="ma_081_0020_0020"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">一貧民</pTitle>
+						<name role="필자">貧民OOO</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>現代思潮槪觀</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>岳裔</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0021" end="ma_081_0020_0029"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">現代思潮槪觀</pTitle>
+						<name role="필자">岳裔</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>敎人과 敎會(基督敎에 對하야)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>一笑 吳祥根</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0030" end="ma_081_0020_0033"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">敎人과 敎會</pTitle>
+						<name role="필자">一笑 吳祥根</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>式式式</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0033" end="ma_081_0020_0033"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">式式式</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>精神과 制度</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0033" end="ma_081_0020_0033"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">精神과 制度</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>批評과 時代的 人心</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>乙素夫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0034" end="ma_081_0020_0036"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">批評과 時代的 人心</pTitle>
+						<name role="필자">乙素夫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>世界文學觀</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安自山</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0037" end="ma_081_0020_0064"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">世界文學觀</pTitle>
+						<name role="필자">安自山</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>藝術이란 무엇인가</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>解光</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0065" end="ma_081_0020_0069"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">藝術이란 무엇인가</pTitle>
+						<name role="필자">解光</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>??의 眞面</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>吳祥根</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0070" end="ma_081_0020_0081"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">??의 眞面</pTitle>
+						<name role="필자">吳祥根</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>어린애의 王國을 OOOOO</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>吳相淳</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0082" end="ma_081_0020_0084"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">어린애의 王國을 OOOOO</pTitle>
+						<name role="필자">吳相淳</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>그리운 봄</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓用鎭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0085" end="ma_081_0020_0085"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">그리운 봄</pTitle>
+						<name role="필자">韓用鎭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>樂園의 新春</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金永雅</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0086" end="ma_081_0020_0086"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">樂園의 新春</pTitle>
+						<name role="필자">金永雅</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>戒花酒(漢詩)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0087" end="ma_081_0020_0087"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">戒花酒</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>公州懷古(漢詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>天外生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0087" end="ma_081_0020_0087"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">公州懷古</pTitle>
+						<name role="필자">天外生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>開城懷古(漢詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>圭園</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0087" end="ma_081_0020_0087"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">開城懷古</pTitle>
+						<name role="필자">圭園</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>夫餘懷古(漢詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>圭園</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0087" end="ma_081_0020_0087"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">夫餘懷古</pTitle>
+						<name role="필자">圭園</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮時調</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>旭圃</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0088" end="ma_081_0020_0088"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮時調</pTitle>
+						<name role="필자">旭圃</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>바다에서 靑年의게</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>車用運</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0089" end="ma_081_0020_0089"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">바다에서 靑年의게</pTitle>
+						<name role="필자">車用運</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>배곱하 우는 아우의게</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>소야</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0090" end="ma_081_0020_0095"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">배곱하 우는 아우의게</pTitle>
+						<name role="필자">소야</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>여름과 겨을</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>柳永模</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0096" end="ma_081_0020_0098"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">여름과 겨을</pTitle>
+						<name role="필자">柳永模</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>期成會의 胚胎된 內容</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李英</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0098" end="ma_081_0020_0101"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">期成會의 胚胎된 內容</pTitle>
+						<name role="필자">李英</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0020_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>地方團體消息</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>靑愚 李時琓</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0020_0101" end="ma_081_0020_0128"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">地方團體消息</pTitle>
+						<name role="필자">靑愚 李時琓</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_081_0030">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제3호">아성 제3호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1921-07-15">1921년 7월 15일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_081_0030_0001" end="ma_081_0030_0128"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_081_0030_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>肺病者의 叫號</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>一我</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0012" end="ma_081_0030_0012"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">肺病者의 叫號</pTitle>
+						<name role="필자">一我</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>覺醒한 靑年에게</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金明植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0013" end="ma_081_0030_0015"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">覺醒한 靑年에게</pTitle>
+						<name role="필자">金明植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>文化運動과 思想問題</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>岳裔</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0016" end="ma_081_0030_0019"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">文化運動과 思想問題</pTitle>
+						<name role="필자">岳裔</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>解放을 叫하는 女子</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>一笑</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0020" end="ma_081_0030_0024"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">解放을 叫하는 女子</pTitle>
+						<name role="필자">一笑</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>相互扶助論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>尹滋瑛</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0025" end="ma_081_0030_0031"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">相互扶助論</pTitle>
+						<name role="필자">尹滋瑛</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>漢詩</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0031" end="ma_081_0030_0048"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">漢詩</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>近代哲學과 뗌쓰</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金思國</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0032" end="ma_081_0030_0042"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">近代哲學과 뗌쓰</pTitle>
+						<name role="필자">金思國</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>近代思想과 文藝</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>YA生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0043" end="ma_081_0030_0048"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">近代思想과 文藝</pTitle>
+						<name role="필자">YA生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>人類壓迫의 過程</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>赫怒</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0049" end="ma_081_0030_0052"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">人類壓迫의 過程</pTitle>
+						<name role="필자">赫怒</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>鄕村에 歸하라</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>소야</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0053" end="ma_081_0030_0058"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">鄕村에 歸하라</pTitle>
+						<name role="필자">소야</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>봄노래</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0058" end="ma_081_0030_0058"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">봄노래</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>中國民族의 心理</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李命燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0059" end="ma_081_0030_0063"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">中國民族의 心理</pTitle>
+						<name role="필자">李命燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>最近 中國의 國情</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>尹穌野 金解光</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0064" end="ma_081_0030_0073"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">最近 中國의 國情</pTitle>
+						<name role="필자">尹穌野 金解光</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리 父兄에게 子女의 就學을 勸告</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>密陽 朴忠穆</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0074" end="ma_081_0030_0078"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리 父兄에게 子女의 就學을 勸告</pTitle>
+						<name role="필자">密陽 朴忠穆</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>猿의 言語</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0079" end="ma_081_0030_0079"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">猿의 言語</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新語校訂</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>世觀</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0080" end="ma_081_0030_0081"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新語校訂</pTitle>
+						<name role="필자">世觀</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>詞選</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>旭圃</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0082" end="ma_081_0030_0083"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">詞選</pTitle>
+						<name role="필자">旭圃</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>大地上의 奇聞과 異錄</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>四耳法師</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0084" end="ma_081_0030_0085"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">大地上의 奇聞과 異錄</pTitle>
+						<name role="필자">四耳法師</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>世界的 常識의 寶庫</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>黙巖</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0086" end="ma_081_0030_0089"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">世界的 常識의 寶庫</pTitle>
+						<name role="필자">黙巖</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新人이 座右銘</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>一書生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0090" end="ma_081_0030_0094"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新人이 座右銘</pTitle>
+						<name role="필자">一書生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>地獄</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>ㅅㅈ生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0095" end="ma_081_0030_0100"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">地獄</pTitle>
+						<name role="필자">ㅅㅈ生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>쏘피아小傳</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>SY生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0101" end="ma_081_0030_0105"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">쏘피아小傳</pTitle>
+						<name role="필자">SY生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>同情者</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>許竹齋</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0106" end="ma_081_0030_0116"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">同情者</pTitle>
+						<name role="필자">許竹齋</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮靑年會聯合會 第二回 定期總會順序</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0117" end="ma_081_0030_0118"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮靑年會聯合會 第二回 定期總會順序</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0030_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮靑年會聯合會 第二回 定期總會會錄</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0030_0119" end="ma_081_0030_0128"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮靑年會聯合會 第二回 定期總會會錄</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_081_0040">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제4호">아성 제4호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1921-10-01">1921년 10월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_081_0040_0001" end="ma_081_0040_0102"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_081_0040_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>財産의 頌歌</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>一我</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0008" end="ma_081_0040_0008"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">財産의 頌歌</pTitle>
+						<name role="필자">一我</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>民衆文化運動과 割據主義</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>黑鬼</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0009" end="ma_081_0040_0012"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">民衆文化運動과 割據主義</pTitle>
+						<name role="필자">黑鬼</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社會의 覺醒과 그 生活</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>岳裔</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0013" end="ma_081_0040_0016"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社會의 覺醒과 그 生活</pTitle>
+						<name role="필자">岳裔</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>出版言論權의 主張</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>解光</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0017" end="ma_081_0040_0021"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">出版言論權의 主張</pTitle>
+						<name role="필자">解光</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>現代思想의 硏究</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金明植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0022" end="ma_081_0040_0029"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">現代思想의 硏究</pTitle>
+						<name role="필자">金明植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>相互扶助論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>尹滋瑛</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0030" end="ma_081_0040_0036"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">相互扶助論</pTitle>
+						<name role="필자">尹滋瑛</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>人類壓迫의 過程</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>赫怒</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0037" end="ma_081_0040_0040"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">人類壓迫의 過程</pTitle>
+						<name role="필자">赫怒</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>産業組合槪論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>一書生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0041" end="ma_081_0040_0043"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">産業組合槪論</pTitle>
+						<name role="필자">一書生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>杜翁과 當時의 露國</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>一笑 譯</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0044" end="ma_081_0040_0049"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">杜翁과 當時의 露國</pTitle>
+						<name role="필자">一笑 譯</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리 頑固父兄네에게</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>三昧子</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0050" end="ma_081_0040_0056"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리 頑固父兄네에게</pTitle>
+						<name role="필자">三昧子</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리의 바벨塔과 시나城</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金基英</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0057" end="ma_081_0040_0063"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리의 바벨塔과 시나城</pTitle>
+						<name role="필자">金基英</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리의 經濟的 自覺</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金鐸</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0064" end="ma_081_0040_0067"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리의 經濟的 自覺</pTitle>
+						<name role="필자">金鐸</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>我靑年諸位에게 告함</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴瑛東</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0068" end="ma_081_0040_0070"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">我靑年諸位에게 告함</pTitle>
+						<name role="필자">朴瑛東</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>世界의 政治的 暗殺과 廢帝</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>黙岩</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0071" end="ma_081_0040_0072"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">世界의 政治的 暗殺과 廢帝</pTitle>
+						<name role="필자">黙岩</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>이편 저편의 鬼話</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>霽觀</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0073" end="ma_081_0040_0074"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">이편 저편의 鬼話</pTitle>
+						<name role="필자">霽觀</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>草堂夜에 聽蚊語</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>악예</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0075" end="ma_081_0040_0075"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">草堂夜에 聽蚊語</pTitle>
+						<name role="필자">악예</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>血潮</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>斗牛星</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0076" end="ma_081_0040_0077"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">血潮</pTitle>
+						<name role="필자">斗牛星</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>詞選</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>旭圃</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0078" end="ma_081_0040_0078"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">詞選</pTitle>
+						<name role="필자">旭圃</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>心臟肉의 斷片</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>소야</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0079" end="ma_081_0040_0080"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">心臟肉의 斷片</pTitle>
+						<name role="필자">소야</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>쏘피아小傳</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>SY生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0081" end="ma_081_0040_0083"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">쏘피아小傳</pTitle>
+						<name role="필자">SY生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>同情者</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>許竹齋</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0084" end="ma_081_0040_0098"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">同情者</pTitle>
+						<name role="필자">許竹齋</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_081_0040_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>世界各種一覽</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_081_0040_0099" end="ma_081_0040_0102"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">世界各種一覽</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+</level1>

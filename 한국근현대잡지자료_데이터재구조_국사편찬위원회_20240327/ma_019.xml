@@ -1,0 +1,2838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="ma_019">
+	<front>
+		<biblioData type="원문제공잡지">
+			<title>
+				<mainTitle>만국부인</mainTitle>
+			</title>
+			<binderPeriod begin="1932-10-00" end="1932-10-00"/>
+		</biblioData>
+		<description>
+			<biblioExplanation groupID="02" groupName="일제시기 잡지 해제" id="ma_019_exp" name="만국부인 萬國婦人">
+				<content>
+					<paragraph>1932년 10월 1일 삼천리사(三千里社)에서 발행한 월간여성잡지. 편집 겸 발행인은 김동환(金東煥)이며 창간호로 종간되었다. 1995년 김동환의 아들 김영식(金英植, 김동환의 3남)이 {삼천리}(해방이후 속간포함)와 {대동아}, {삼천리 문학}과 함께 {만국부인}을 도서출판 한빛에서 영인본으로 간행하였다.  창간호에는 김동환이 창간사를 쓰고 이광수가 「신여성의 십계명」이라는 제목의 글을 실었다. 책의 지면구성은 시(詩)와 소설, 수필 등 문예물과 여성관계 논설, 설문, 잡조 등으로 구성되었다. 주로 일제시대의 신여성(新女性)을 중심으로 한 여성들의 교양잡지로서의 내용을 보이고 있다. 「전위투사(前衛鬪士)도 애인을 가질까」하는 제목으로 김경재(金璟載, 일에 장애되면 無妻 可), 우봉운(禹鳳雲, 애인은 거부), 홍효민(洪曉民, 애인을 가짐은 당연), 박옥희(朴玉姬, 비밀을 위하여 불가), 임원근(林元根, 애인도 제일선이면 가) 등의 설문과 「신여성의 남장시비(男裝是非)」라는 제목으로 당시의 저명인사인 허헌(許憲, 씩씩하고 쾌활해서 좋아), 황애시덕(黃愛施德, 조선 옷이면 무필요), 유광열(柳光烈, 급변은 불가), 박희도(朴熙道, 남자와 여자는 달라), 윤백남(尹白南, 土耳其여자 모양으로) 등의 글을 보면 잡지의 성격과 방향을 짐작케 한다. {만국부인}이라는 잡지의 제목에서 추구하는 내용의 글로는 「만국직업부인전선」이라는 제목으로 미국의 여자 샐러리맨, 독일의 여교사, 아이슬랜드, 터어키 등의 여성직업에 대한 탐방, 각국 여학생의 기질이라는 제목으로 영국, 이태리, 러시아, 인도를 다룬 글이 있다. 대체로 1930년대의 신여성에 대한 담론을 중심으로 한 여성교양지의 성격을 가지고 있다.</paragraph>
+				</content>
+			</biblioExplanation>
+		</description>
+	</front>
+	<level2 id="ma_019_0010">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제1호">만국부인 제1호</mainTitle>
+				</title>
+				<publication>
+					<publisher>삼천리사(三千里社)</publisher>
+					<dateIssued date="1932-10-01">1932년 10월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_019_0010_0001" end="ma_019_0010_0110"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_019_0010_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>倉刊辭</mainTitle>
+						<alternative lang="kor">창간사</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>파인</name>
+							<name lang="kor">파인</name>
+						</author>
+					</creator>
+					<subjectClass code="ma11" scheme="madoc">시</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0009" end="ma_019_0010_0009"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">倉刊辭 (창간사)</pTitle>
+						<name role="필자">파인</name>
+					</paragraph>
+					<paragraph> 스콧트, 랜드 각씨들은 아츰마다 이러나면 서북풍이 잘 부러와 하늘 놉히 다라논 풍차가 소리치며 어서 도라가기를 고대한다는데 나의 이 반도의 모든 각씨와 색시들은 아츰마다 이러나 무엇이 오기를 기다리시는고?</paragraph>
+					<paragraph> 金가마인가, 銀轎子인가, 그러치도 안으면 님의 편지 물고 오는 제비떼인가, 기럭이떼련가 모다 아니고 오직</paragraph>
+					<paragraph> 「자유의 새」 오기를 원한다데.</paragraph>
+					<paragraph> 倉刊辭 - (파인) ＜1＞</paragraph>
+					<paragraph> ＜1＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新女性의 十戒銘, 젊으신 姊妹께 바라는 十個條</mainTitle>
+						<alternative lang="kor">신녀성의 십계명, 젊으신 자매께 바라는 십개조</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>李光洙</name>
+							<name lang="kor">이광수</name>
+						</author>
+					</creator>
+					<subjectClass code="ma15" scheme="madoc">잡저</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0010" end="ma_019_0010_0011"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新女性의 十戒銘, 젊으신 姊妹께 바라는 十個條 (신녀성의 십계명, 젊으신 자매께 바라는 십개조)</pTitle>
+						<name role="필자">李光洙</name>
+					</paragraph>
+					<paragraph> 1 건강하도록 위생, 운동, 영양, 생활의 규율에 주의하시기.</paragraph>
+					<paragraph> 2 조선역사, 조선어, 조선문학, 조선사정, 조선의 장래에 관하야 배우고 생각하시기.</paragraph>
+					<paragraph> 3 『첫사랑을 남편에게』라는 주의를 確守하시기.</paragraph>
+					<paragraph> 4 사치를 嚴戒하고 一身에나 가정에나 收支豫算을 세워 절약제일주의를 가지시되 민족경제에 유의하야 『우리 것』 주의를 지키시기.</paragraph>
+					<paragraph> 6 내우 수집음을 던지고 天然한 인격의 위엄올 지니시기.＜2＞</paragraph>
+					<paragraph> 7 개인생활, 가정생활, 사교생활, 단체생활 기타에 개선을 염두에 두어 날로 때로 향상의 노력을 쉬이지 마시기.</paragraph>
+					<paragraph> 8 신문, 잡지, 서적을 보시기.</paragraph>
+					<paragraph> 9 처녀여든 배우자 선택에, 안해여든 일하는 남편을 정신적 협조를 주기에 힘쓸 것.</paragraph>
+					<paragraph> 10 젊은 여성은 가정과 그 몸이 잇는 곳에 평화와 빗츨주는 것이니 天賦의 聖職이니 항상 유쾌와 자애와 겸손의 덕을 가지고 분노 질책, 질투, 분쟁의 형상을 보이지 마시기.＜3＞ ＜2-3＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>前衛鬪士도 愛人을 가질 것이냐</mainTitle>
+						<alternative lang="kor">전위투사도 애인을 가질 것이냐</alternative>
+					</title>
+					<subjectClass code="ma03" scheme="madoc">설문</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0012" end="ma_019_0010_0016"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">前衛鬪士도 愛人을 가질 것이냐 (전위투사도 애인을 가질 것이냐)</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>愛人도 第一線에 선 이면 可</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">林元根</index>
+					</paragraph>
+					<paragraph> 무엇보다도 나 자신을 이런 문제를 취급할 자격도 신념도 가지지 못하엿슴니다. 그러나 편집자의 말에 의하야 제3자로서의 입장에서 또는 보통 상식적 견해에서 이에 대한 약간의 의견을 진술할 뿐임니다.</paragraph>
+					<paragraph> 먼저 「前衛鬪士」와 「가정」이라는 術語의 내용을 闡明할 필요가 잇겟지요. 그리고 또 이런 문제는 그대로 관념만으로 贊否의 이론을 운운하기보다는 그야말로 실제 투사로부터서의 귀중한 체험에서 그의 핵심을 포착하는 것이 타당할 줄 암니다.</paragraph>
+					<paragraph> 前衛鬪士? 그는 엇던 형태의 정치운동에 잇서서나 그 집단 운동의 정치 이상을 실현식히기 위하야 또는 소기의 목적을 관철하기 위하야 이른바 제일선에 馳驅하면서 자기 개인의 사리사욕과 자기 개성의 존재까지도 부인하고 망각하고 전혀 심신의 희생을 懸念하지 안는 인물 다시 말하면 일을 위하야 목숨을 내여바린 사람을 가라침이겟슴니다. 그리고 가정? 이라는 것은 보통 한 제아비와 한 제어미의 한 쌍 부부로써 그의 구성 요소를 삼고 잇는 것이라고 보면 별스런 틀님이 업슬 줄로 생각됨니다. 그러나 가정의 형편을 따라서는 우흐로 늙은 부모와＜4＞ 형제들도 잇슬 것이며 아래로는 귀여운 아들과 딸이 수만히 동거할 수도 잇슬 것임니다.</paragraph>
+					<paragraph> 그러면 그가티 일을 위하야 목숨을 내여바린 사람들은 이런 가정의 생활을 엔쪼이 할 수가 업슬가요. 그들에게는 그러한 인간적 사회생활이 불필요한 금물일가요. 나는 이 질의에 대하야 두 가지 답변을 가질 수가 잇는줄 암니다. 제1은 경제문제요. 제2는 사랑문제임니다.</paragraph>
+					<paragraph> 경제문제라는 것은 말할 것도 업시 자기가 부담하고 잇는 자기 가정의 생활비를 가라침이외다. 그 가정의 가족 수효야 만커나 적거나 그것은 별문제로 하고 다만 한 사람의 愛妻나 愛子이라 할지라도 그에 대한 생활비를 자기가 전 책임을 가지고 잇는 이상 실제에 잇서서 자기가 하로 아참 零圄의 人이 되여바리거나 혹은 망명인이 되여바린다면 그 남은 가족의 생로는 보통 예에 잇서서는 苦境에 빠질 것이 사실임니다. 그리고 그에 따른 여러가지 부작용으로 인하야 이른바 가정비극이 만히 발생할 것도 예상됨니다. 다시 말하면 경제적으로 무능력한 자기의 안해나 늙은 부모나 어린 자녀들이 각기 집을 일코 팡을 차자 사방에 유리하며 걸식하는 비운에 빠질 것도 우리는 극단으로 예상치 안으면 안될 것이 현대 경제조직의 모순성이 암시하는 바이외다.</paragraph>
+					<paragraph> 그러나 이런 경제문제에 못하지 안는 중대성을 가지고 잇는 것은 또한 가정을 만들어가는 「사랑」문제일 것 갓슴니다. 「사랑」에는 여러가지가 잇겟지요. 父母에게 대한 아들로서의 사랑 안해에게 대한 남편으로서의 사랑 어린 아들에게 대한 아버지의 사랑 단난한 가정생활에 대한 여러가지 미련과 애착 등등. 세상에서 전하는 이른바 스윗홈 라이푸의 달콤하고도 연연한 일상생활의 경험은 그로 하야곰 좀처럼 과단잇는 행동을 취하지 못하게 할 것임니다. 즉 일을 위하야 목숨을 내여 바치도록 그러케 용감한 x士를 만들어 주지 못할 것임니다. 그가 오늘까지의 사랑?의 홋뻿인 가정을 박차버리고 일을 위하야 水火 속에 몸을 던지려 할 때 반듯이 그의 보통 안해나 늙은 어머니는 눈물을 흘리며 그의 옷깃에 매여달녀 哀訴할 것이외다. 그러면 어찌될 것일가요. 우리들은 생활 환경의 지배를 떠나서 살 수 업는 것이 사실임니다.</paragraph>
+					<paragraph> 요컨대 나는 우에 말한 두 가지 이유를 드러 前衛鬪士들에게는 가정- 보통 의미의 가정생활은 확실히 고려할 문제의 하나인 줄 암니다. 그야 또 다만 애인이자 동지인 두 사람만의 결합뿐이라면 그런 형태의 홈이라면 무관하겟지요. 가티 제일선에 馳驅하다가 언제나 가튼 운명에서 幕을 닷칠 것이니까요!＜5＞</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>愛人을 拒否</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">禹鳳雲</index>
+					</paragraph>
+					<paragraph> 前衛鬪士는 애인을 가지어서는 안 된다고 나는 굿게 주장함니다. 더구나 여성은 절대로 애인이나 가정을 가저서는 안될 것이라고 생각함니다.</paragraph>
+					<paragraph> 엇재 그러냐 하면 녀자는 남자와도 달너서 前衛에 서서 무슨 활동을 하자면 그 몸이 부모라든지 형제라든지 자녀들에게 多少라도 束縛밧게 되어서 일이 잘 안됨니다. 가렁 무슨 회합이 잇서 출석하자 하여도 머리도 비서야 하고 옷도 가라입어야 하고 몸 매무시도 하는데 시간이 만히 걸니는데 그 우에 또 가정이나 잇고 보면 이 까닭 처 까닭에 몸을 자유로 움지길 수 업게 되어버림니다.</paragraph>
+					<paragraph> 회합뿐님니까 어느 동지를 무시로 차자가야 할 일. 옥에 가친 분에게 차입 들릴 일. 어느 누가 병으로 눕엇다면 藥帖을 다러주어야 할 일 등. 여성으로 제일선에 나선다면 분주한 품이 如穻이 아니외다. 그런데 가정이나 잇서보십시오. 그는 아모 일도 못하고 맘니다. 현재 일하든 분도 결혼하여 가정의 사람이 된 이상 그만 그냥 모든 활동이 정지, 혹 불활발하게 되여지는 실례로 보아서도 이 말을 아실 수 잇슬 것이외다.</paragraph>
+					<paragraph> 그리고 비밀을 엄격하게 직허야 한다는 점에서 제 한 몸이 되는 것이 조흘 줄 암니다.</paragraph>
+					<paragraph> 그러나 이상의 말슴은 그 애인의 정의를 동지와는 딴 분으로 해석하는 때외다. 만일 자기의 사업을 이해하고 이해할 뿐더러 그 용기를 북돗게 하며 일심동체되어 목적하는 일은 가치하여 줄 그러한 이성관계라면 그러한 애인은 물론 가저야 할 바라고 생각함니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>일에 지장된다면 無妻可</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">金璟載</index>
+					</paragraph>
+					<paragraph> 前衛의 鬪士가 안해는 대동하여야 할 것이냐? 아니하는 것이 오르냐?고 그에 대한 시비를 무르나 자기의 또는 그 때의 경우를 따라서 가저도 좃코 아니 가저도 좃타고 대답하고 십소이다. 이럿케 말하면 「저 사람이 니희리스트가 아닌가」하고 생각할 이가 잇는지 모르나 안해가 잇서 일에 지장이 된다면 또는 그런 안해이면 차라리 업는 편이 헐신 나은 것이고 오히려 안해인 동시에 그가 동지가 되여서 보조(步調)를 갓치 하야주면 그는 반가운 일이겟지요. 지금의 조선 녀성은 전위투사의＜6＞ 안해가 되여 그를 도와주기는 커냥 리해라도 해주면 다행이겟슴니다. 언문도 모루는 이른바 구식(舊式)의 부인은 너무도 모루니 리해는 커냥 딱하기 짝이 업고 학교에 다니엿다는 세상에서 흔히 부르는 신녀성은 허영에 눈이 어둡고 안일(安逸) 형락(享樂)에 빠저서 금반지 침대 문화주택 피아노 후라스치마 등만 치어다 보고 다름질치니 퇴페의 구렁에 빠지고 잇는 무리들이외다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>愛人을 가짐이 當然</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">洪曉民</index>
+					</paragraph>
+					<paragraph> 前衛鬪士가 가정을 가저야 하는 것이냐 하는 문제는 생각할 여지도 업시 가저야 한다는 것을 주장함니다. 그것은 웨 그려냐하면 우리가 형이상학적으로 생각하야 개인이 잇고 가정이 잇고 사회가 잇다는 것으로 생각하여서가 아니라 사회가 잇다면 가정 그 물건이 반드시 잇서가지고 구성되는 것이라는 것이외다. 곳 이것은 무엇이야 하면 개개인이 모혀서도 사회가 될 수 잇겟지요. 그러나 개개인이 그대로 가닥가닥 떠러저 잇서서는 아니되는 것임니다. (此間7행 略-원문)</paragraph>
+					<paragraph> 이 점에 잇서서 前衛鬪士로 가정을 가저야 할 것은 물론이요. 둘재로 정서적 감정으로 보아서도 독신자들에게 잇서서는 유혹과 타락이 不絶히 딸흐고 잇는 것을 보게 됨니다.</paragraph>
+					<paragraph> 나는 가정은 鬪士들의 위안소이요. 잠간동안이라도 어느 정도의 안식을 주는 곳은 이곳에 잇다고 생각함니다. 딸아서 가정의 절대 필요를 역설함니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>秘密을 爲하야 不可</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">朴玉姬</index>
+					</paragraph>
+					<paragraph> 나는 솔직하게 제일선에 나선 전위되는 사람들은 일체 애인을 가지지 말 것을 주장함니다. 아니 이러케 말하면 조곰 어페가 잇슴니다. 애인은 만일의 경우에 가저도 조켓거니와 가정마는 제발 가지지 말기를 주장함니다.</paragraph>
+					<paragraph> 엇재서 그러냐? 전위투사는 첫재 사회 공중의 행복을 엇기 위하야 자긔 일생의 행복과 안낙을 히생하는 자외다. 이미 행복과 안낙을 히생하기를 각오하고 나안즌 사람이 자녀지락은 무엇이며 실가의 락은 무엇이겟슴니까. 그를 쫏는다면 그는 전위투사의 자리를 깨치고 사양하는 것이 올흘 것이외다.＜7＞</paragraph>
+					<paragraph> 둘재는 처자가 잇스면 그 사람의 용기가 꺽기어진다 하는 점이외다. 아모리 철석가튼 전위투사라도 그는 사람인 이상 역시 그에게도 눈물도 잇고 피도 잇슬 것이외다. 처자가 밥을 굶고 안젓고 부모도 옷을 벗고 안저서도 그에게 용맹매진할 용긔가 잇서지리까. 그리고 애인을 가진 사람은 비밀을 루설시킬 근심이 잇슴니다. 듯건대 광동서 긔를 들든 孫文은 행여 잠결에나마 자긔의 가슴속 맘을 발설치 안을가 하여 성사할 때까지 처자와 자리를 가치하기를 피하엿다고 함니다. 이 정신이 과연 올소이다.</paragraph>
+					<paragraph> 이러한 이유로서 나는 전위투사는 가정이나 처자를 가지지 마는 것이 원측인 줄로 암니다. 드르니 근래 경성제대 사건 때에 학생를은 비밀의 누설을 피하고저 안해와 한 방에 가치들지말기를 약속하엿다고 합데다.＜8＞</paragraph>
+					<paragraph> ＜4-8＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>萬國夫人싸론</mainTitle>
+						<alternative lang="kor">만국부인싸론</alternative>
+					</title>
+					<subjectClass code="ma04" scheme="madoc">소식</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0017" end="ma_019_0010_0020"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">萬國夫人싸론 (만국부인싸론)</pTitle>
+					</paragraph>
+					<paragraph> 유-모리스트로서 이 세상에 대단히 유괘하고 명랑한 존재인 <index type="이름">李瑞求</index>씨가 이상적 현대 미인을 구성하여 발표하엿슴니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>1 絶世美人構成案</pTitle>
+					</paragraph>
+					<paragraph> 이(齒)는......<index type="이름">朴仁德</index>양의 이로</paragraph>
+					<paragraph> 코는..........<index type="이름">宋桂月</index>양의 코로</paragraph>
+					<paragraph> 눈섭은.........<index type="이름">黃貴卿</index>여사의 눈섭으로</paragraph>
+					<paragraph> 눈은..........<index type="이름">張德祚</index>양의 눈으로</paragraph>
+					<paragraph> 귀는..........<index type="이름">崔貞熙</index>여사의 귀로</paragraph>
+					<paragraph> 입은..........<index type="이름">玄松子</index>양의 입으로</paragraph>
+					<paragraph> 이상으로 얼골을 만든 다음에</paragraph>
+					<paragraph> 손은..........<index type="이름">丁七星</index>여사의 손으로</paragraph>
+					<paragraph> 발은..........<index type="이름">金活蘭</index>씨의 발로</paragraph>
+					<paragraph> 키는.........<index type="이름">姜淑烈</index>여사의 키로</paragraph>
+					<paragraph> 다리는.........<index type="이름">崔承喜</index>여사의 다리로</paragraph>
+					<paragraph> 체격은.........<index type="이름">金源珠</index>양의 체격으로</paragraph>
+					<paragraph> 목소리는........<index type="이름">朴慶姬</index>여사의 목소리로</paragraph>
+					<paragraph> 이리하야 위대한 한 개의 종합예술품이 완성되엇슴니다.＜9＞</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 그러면 이러케 완성된 절세의 미인은 엇든 분에게로 시집을 보낼가 여기서 好男子한 분을 예술가로 일홈잇는 모씨가 구성하여 내엇슴니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>2 當代好男兒構成案</pTitle>
+					</paragraph>
+					<paragraph> 수염은...........<index type="이름">呂運亨</index>의 수염으로</paragraph>
+					<paragraph> 눈섭은...........<index type="이름">安在鴻</index>씨의 눈섭으로</paragraph>
+					<paragraph> 눈은............<index type="이름">尹致昊</index>씨의 눈으로</paragraph>
+					<paragraph> 귀는............<index type="이름">崔麟</index>씨 귀로</paragraph>
+					<paragraph> 코는............<index type="이름">申興雨</index>씨의 코로</paragraph>
+					<paragraph> 입은............<index type="이름">安昌浩</index>의 입으로</paragraph>
+					<paragraph> 이리하야 얼골을 완성한 다음에</paragraph>
+					<paragraph> 손은............<index type="이름">金燦</index>의 손으로</paragraph>
+					<paragraph> 발은............<index type="이름">元世勳</index>씨의 발로</paragraph>
+					<paragraph> 키는............<index type="이름">吳兢善</index>씨의 키로</paragraph>
+					<paragraph> 다리는...........<index type="이름">閔泰瑗</index>씨의 다리로</paragraph>
+					<paragraph> 체격은...........<index type="이름">許憲</index>씨의 체격으로</paragraph>
+					<paragraph> 목소리는.......<index type="이름">宋鎭禹</index>씨의 목소리로</paragraph>
+					<paragraph> 이리하야 반도의 당대 一好男兒가 1933년대의 톱푸를 끈엇슴니다.＜10＞</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>3 閣氏들의 動靜</pTitle>
+					</paragraph>
+					<paragraph> 성악가 <index type="이름">朴慶姬</index>씨는 지난 9월 16일에 大邱公會堂에 내러가서 큰 음악회를 하엿는데 上海 칼톤에서 露西亞의 유명한 성악가로부터 秘傳한 天才 音樂인만치 滿堂을 크게 뇌살식혓다 함니다.</paragraph>
+					<paragraph> 女醫로 한동안 서울 樂園洞에서 일홈을 날니든 <index type="이름">李德耀</index>여사는 망명한 부군을 따라 북경에 갓다가 지난 봄에 恨 만흔 세상을 여이고 말엇슴니다. 최근 북경에서 오신 <index type="이름">朴文憙</index>씨의 소식을 듯건대 그 부군 韓은 지금도 亡妻이약이를 하고 울더라고요.</paragraph>
+					<paragraph> 女시인 <index type="이름">毛允淑</index>양은 間島의 明信女學校에서 교편을 잡고 잇드니 제2학기부터 서울 培花여학교에 일보시게 되엇다 함니다.</paragraph>
+					<paragraph> 東亞日報 기자로 한동안은 문명을 날니는 <index type="이름">李賢卿</index>씨가 북경서 &#143;&#132;라왓다는 말이 선자하엿스나 확실한 방면에서 드르니까 그것은 거짓말이고 역시 부군 安의 겻헤서 지내더라고요.＜11＞</paragraph>
+					<paragraph> 名門이나 부호의 가정마다 엄격한 家規가 잇슴니다.</paragraph>
+					<paragraph> 商業銀行 頭取 <index type="이름">朴榮喆</index>씨는 남을 먹이거나 입히거나 하는 대접은 잘하지 만은 현금으로는 일절 주지 안는다 하며 그뿐더러 家計를 엄중히 하여 월말마다 마추는 一家收支가 단 돈 5전만 틀려도 밤을 새어가며 執事를 시켜 마추어 노케 한다고.</paragraph>
+					<paragraph>
+						<index type="이름">尹致昊</index>씨는 집안 식솔에게 전부 월급을 주는데 가령 마누라는 얼마 딸은 얼마 소학교 다니는 아들은 얼마...라 하여 그래서 월급 이외의 돈은 한 푼도 더 주지 안는다고.</paragraph>
+					<paragraph>
+						<index type="이름">韓相龍</index>씨는 겨을에 자기 집의 방방에서 쓰는 무연탄을 꼭 일정하게 분배한다는데 그 때문에 추운 날도 세 덩이 더운 날도 세 덩이씩이라고</paragraph>
+					<paragraph> 醫學搏士 <index type="이름">鄭錫泰</index>씨는 절대로 여름에 부채와 힌구두 힌모자 힌양복을 아니입으며 또 어린 아해들을 아모리 머러도 전차를 아니움운담니다. 지금 제2고보에 다니는 그 아드님도 그 먼 곳으로 도보를 식히지요.＜12＞</paragraph>
+					<paragraph> ＜9-12＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>約婚時代에 愛人에게 준(밧은) 선물</mainTitle>
+						<alternative lang="kor">약혼시대에 애인에게 준(밧은) 선물</alternative>
+					</title>
+					<subjectClass code="ma03" scheme="madoc">설문</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0017" end="ma_019_0010_0019"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">約婚時代에 愛人에게 준(밧은) 선물 (약혼시대에 애인에게 준(밧은) 선물)</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>아모 것도 업섯서요</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">獨鵑</index>
+					</paragraph>
+					<paragraph> 나의 이번 결혼은 시대를 역행하엿다 할가요. 결혼 전의 교제라고 별로 업섯서요. 그러기에 약혼시대에 내가 보낸 선물도 업섯고 또 그이로부터 밧은 「푸레센트」도 업섯슴니다.＜9＞</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>내가 밋젓지요</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">金東仁</index>
+					</paragraph>
+					<paragraph> 평양도 시골인지라 「수」를 놋는 숫실이 여염집에서는 어더보기 어러워요. 그러기에 나는 약혼시대에 벼개나 무엇에나 수 노을 때 쓰라고 숫실을 몃 탈애 사다가 주엇슴니다.</paragraph>
+					<paragraph> 그밧게 내가 보낸 「푸레젠트」라 하면 몃 낫 아니 되지만은 대개 실용품을 사서 주엇서요.</paragraph>
+					<paragraph> 그리고 내가 저편으로부터 밧은 선물을 언젠가 맛낫슬 때 손수건을 주드군요. 약혼긔간 동안에 전후를 통하여 나는 손수건 두 개를 밧엇서요.</paragraph>
+					<paragraph> 말하자면 내가 밋진 셈이지요.＜10＞</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>원악 가난햇스닛가요</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">沈薰</index>
+					</paragraph>
+					<paragraph> 약혼시대에 주고밧은 푸레쎈트요. 그것은 다 잇는 사람들이나 하는 일이지요.</paragraph>
+					<paragraph> 우리는 원악 가난해서 그런 즛을 통 못해 보앗슴니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>民籍謄本을 맛겻소</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">黃施德</index>
+					</paragraph>
+					<paragraph> 미국서는 보닛가요 약혼시대에 으레히 따이야 박은 반지를 주고 밧더군요. 그러나 우리는 구식으로 햇스니까 그런 푸레센트갓흔 것은 전연 업섯고 民籍謄本만 서로 주고 밧엇서요.＜11＞</paragraph>
+					<paragraph> ＜9-11＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>아-가을인가</mainTitle>
+						<alternative lang="kor">아-가을인가</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>尹福鎭</name>
+							<name lang="kor">윤복진</name>
+						</author>
+					</creator>
+					<subjectClass code="ma11" scheme="madoc">시</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0020" end="ma_019_0010_0020"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">아-가을인가 (아-가을인가)</pTitle>
+						<name role="필자">尹福鎭</name>
+					</paragraph>
+					<paragraph> 가을인가</paragraph>
+					<paragraph> 가을인가</paragraph>
+					<paragraph> 아-</paragraph>
+					<paragraph> 가을인가봐</paragraph>
+					<paragraph> 물동에 떠러진</paragraph>
+					<paragraph> 버들입 보고</paragraph>
+					<paragraph> 물깃는 저 아씨</paragraph>
+					<paragraph> 고개속이니-</paragraph>
+					<paragraph> -黃昏 시골길에서- ＜12＞</paragraph>
+					<paragraph> ＜12＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>叡智</mainTitle>
+						<alternative lang="kor">예지</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>李相和</name>
+							<name lang="kor">이상화</name>
+						</author>
+					</creator>
+					<subjectClass code="ma11" scheme="madoc">시</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0020" end="ma_019_0010_0020"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">叡智 (예지)</pTitle>
+						<name role="필자">李相和</name>
+					</paragraph>
+					<paragraph> 혼자서 깁흔 밤에 별을 보옴에</paragraph>
+					<paragraph> 갓모를 白砂場에 모래알 한아가치</paragraph>
+					<paragraph> 그리도 적게 끼인 나인 듯하야</paragraph>
+					<paragraph> 갑갑하고 애닯다가 눈물이 되네＜12＞</paragraph>
+					<paragraph> ＜12＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>떠나려가는 유서</mainTitle>
+						<alternative lang="kor">떠나려가는 유서</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>朴花城</name>
+							<name lang="kor">박화성</name>
+						</author>
+					</creator>
+					<subjectClass code="ma12" scheme="madoc">소설</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0021" end="ma_019_0010_0026"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">떠나려가는 유서 (떠나려가는 유서)</pTitle>
+						<name role="필자">朴花城</name>
+					</paragraph>
+					<paragraph> 은순이는 울음이 곳 터질 듯 하엿스나 입살을 깨밀며 참앗다. 그는 책보를 웅키듯이 쥐여 들고 빨니 교실 문으로 나왓다. 층게에 나려올 때까지도 동급생들의 숙은숙은 하는 소리가 들엿다.</paragraph>
+					<paragraph> 그의 발길은 바로 못끗흐로 향하엿다. 너무가 감정이 흥분되엿슴인지 항상 멀다고 생각하엿든 원둑 건너편 바다까에 니르기까지 그는 거의 무의식이엿다.</paragraph>
+					<paragraph> 그는 어떤 바위 우에 옷독 올나 안즈며 책보를 뒤 솔밧헤 휫 너엇다. 그러고는 참고 참엇든 울음을 내노앗다. 그는</paragraph>
+					<paragraph> 『아이고 옵바! 어대를 가시고 외로운 누의의 이 설음을 몰으서요.』</paragraph>
+					<paragraph> 하며 흙흙 늑겻다. 그의 울음소리의 전부는 『옵바』 『옵바!』 불으는 것이엿다. 그는 바위 우에 푹 업드려 무엇을 더듬는 듯이 손바닥으로 바위 우를 어루만즈면서 울고 울엇다.</paragraph>
+					<paragraph> 한참 후에 고는 눈물을 씻고 니러나서 바다 저편을＜13＞ 바라보앗다. 압해도를 향하는 풍범선들이 밋글어 지는 듯이 섬 그늘로 하나식 들어가기 시작한다. 물이 한창 들어서 은순이가 서잇는 바위 중턱까지 물결이 찰낭그렷다.</paragraph>
+					<paragraph> 은순이는 다시 주저안즈며 찰삭그리든 물방울을 손으로 웅켯다. 적어도 일주일에 한 번 식은 이곳에 오것만은 어머니의 일 시작한 후로는 밥부게 지나게되여 한 달 동안이나 와 보지 못하엿다.</paragraph>
+					<paragraph> 한 달 전에는 해변 돌맹이들이 니글니글 하는 듯 하엿다. 오후 네 시나 되여 왓섯것만 더위가 한나지나 갓치 바다 바람 한 점 업섯다. 하기야 그 때는 물이 들지 안어서 바다에는 게구멍이 방끗 방끗 하고 게들만 움을움을 하엿스닛가 더 더운 듯 하엿슬 듯도 하지만은 그  때는 대체 몹시도 더웟섯다. 그러드니 한달 후인 오늘은 완연한 가을이란 것을 숨길 수 입섯다.</paragraph>
+					<paragraph> 물도 더 파란 듯 생긔잇게 출넝그리고 하늘도 더 놉흔 듯 맑게 보엿다. 뒤 솔밧터에서 풀버러지가 별안간 요란스럽게 쪽쪽엿다. 은순이는 휙 돌아다 보앗다. 무성한 잡풀 사이에 야국이 나즈막하게 혹은 잡풀 우으로 하느적하게 웃는 듯이 피여 잇섯다.</paragraph>
+					<paragraph> 그는 자긔의 제일 조와하는 야국을 보자 빨니 뛰여 나려와 어루만젓다.</paragraph>
+					<paragraph> 『엇절가? 요것을 꺽글가? 말가? 애라 내버려두자.』</paragraph>
+					<paragraph> 하고 두어 나무의 꼿츨 만즐 때 무엇이 발에 밟혓다. 그는 깜작 놀라 나러다 보다가 픽 웃고 주으며</paragraph>
+					<paragraph> 『내 책보로구나 악가는 엇지 화가 나든지 그만...』하고 책보에 뭇든 마른 잔듸를 손으로 탈탈 떨엇다.＜14＞</paragraph>
+					<paragraph> 겨우 가라안젓든 그의 감정은 책보를 보자 다시 목구멍까지 쑥- 복밧처 올나왓다.</paragraph>
+					<paragraph> 두 시간 전이다. 은순이는 사무실의 소제를 맛추고 자긔 교실에 돌아가니까 그와 가장 절친한 동급생 네 사람이 무슨 론쟁을 하다가 은순이를 보자.</paragraph>
+					<paragraph> 『은순이 어서와. 지금 큰 문제가 하나 낫서. 어대 은순이는 어느 편인구?』</paragraph>
+					<paragraph> 하고 급장인 형애가 은순의 손을 잡어 겨테 안치며 동의를 구하는 듯이 드려다 보앗다. 은순이는 네 사람의 얼골을 번갈아 보며</paragraph>
+					<paragraph> 『무어? 무슨 큰 문제인대 응?』</paragraph>
+					<paragraph> 하고 좌중에 물엇다. 제일 활발한 은례가 두 손을 버리고 대여들며</paragraph>
+					<paragraph> 『지금 말이야. 하나님이 참말 게신가. 안 게신가 하는 토론이 낫지. 나하구 정숙이는 안 게신 것 갓더라 하구 형애하구 영애하구는 꼭 게시다 하구. 그래 이제 은순이 말만 드르면 어느편으로 든지 결정이 될 것이야. 은순이는 어느 편이야. 응?』</paragraph>
+					<paragraph> 하고 은례가 버렷든 두 손으로 은순의 두 무릅을 집흐며 물엇다.</paragraph>
+					<paragraph> 『글세...』</paragraph>
+					<paragraph> 하고 은순이는 입가에 쓸쓸히 웃음을 보엿다. 형애가 은순의 다리를 꽉 꼬집으며</paragraph>
+					<paragraph> 『어서 말해요. 능청구럭이가 또 엇저려구 이러고 잇서』</paragraph>
+					<paragraph> 하며 재촉하엿다. 은순이는 방글방글 웃고만 잇섯다. 은례하고 한 편인 정순이는 은순의 억개를 탁 치며</paragraph>
+					<paragraph> 『아이고 갑갑해. 어서 말해라. 무척 빼고 잇다이.』</paragraph>
+					<paragraph> 하고 눈을 흘겻다. 제일 나이 어리고 또한 이 지방의 사람인 만큼 은순이가 제일 귀여워하는 동무이엿다. 다른 성동무는 긔숙사에 잇는 몸인 만큼 교실에서만 맛나 볼 수 잇섯스나 좌우간 이 다섯 동무는 제일 친한 사이이엿다. 수석에서 다섯 자리까지 이 다섯 사람이 차지하는 만큼 또한 이 처녀들의 학급이 제일 인원이 만코 꼬릿꼬릿한 만큼 이 다섯 사람에게 대한 전교 학생의 흠앙은 컷섯다.</paragraph>
+					<paragraph> 은순이는 여전이 웃고만 잇섯다. 이번은 형애와 한 편인 영애가 은순의 당기꼬리를 쑥 잡아다리며</paragraph>
+					<paragraph> 『아이구 참 끈적그리기도 하네. 얼는 말해. 하나님이 게시나 안 게시나...』</paragraph>
+					<paragraph> 하고 은순의 몸을 흔들엇다. 은순이는 웃음을 끗치고 몸을 바로 안치며 긔침을 한 번 하고 긴장한 표정을 하엿다. 이것은 은순의 버릇이니 무슨 회합에서든지 은순의 말하기 전의 이 자태는 회중의 긔분을＜15＞ 집중식히고야 말엇다. 은순이가 말을 하랴고 하는 태도를 알아차린 네 사람의 눈은 반짝반짝 빗나면서 은순의 입을 주목하엿다.</paragraph>
+					<paragraph> 『나는 말이야. 하나님이 게시지 안은 것 갓다고 안이 보다도 게시지 안는다고 말하고 십허.』</paragraph>
+					<paragraph> 은순의 굵은 듯한 목소리는 힘잇게 이럭케 말하엿다. 은순의 입만 주목하고 잇든 네 사람의 표정은 은순의 이 말에 두 사람식 돌변하여젓다. 은례와 정순이는 자리에서 펼적 뛰여 니러나며</paragraph>
+					<paragraph> 『만세!』</paragraph>
+					<paragraph> 하엿다. 형애와 영애는 입을 빗죽하엿다.</paragraph>
+					<paragraph> 지고야 말엇다. 절망이 그들의 자존심을 꺽거준 것이엇다. 형애는 약간 떨리는 목소리로</paragraph>
+					<paragraph> 『모든 사람이 다 하나님을 배척할 지라도 은순이만은 그럿치 못할텐대 엇저면 그럿케 말해?』</paragraph>
+					<paragraph> 하며 은순을 노려보앗다. 은순이는 눈살을 집흐리며</paragraph>
+					<paragraph> 『응? 형애! 무어라고? 나만은 하나님을 배척 못한다고? 웨? 어찌해서?』</paragraph>
+					<paragraph> 그는 반쯤 웃으며 형애에게 질문하엿다.</paragraph>
+					<paragraph> 『은순이는 하나님의 은혜를 그만큼 밧고도 감사한 줄을 엇재 몰을가?』</paragraph>
+					<paragraph> 형애는 말을 던저버리고 자긔 자리로 가서 책보를 만즈작 그리고 잇다,</paragraph>
+					<paragraph> 『내가 하나님의 은헤를 만히 밧앗다고?』</paragraph>
+					<paragraph> 하며 은순이는 고개를 기웃그리다가 생각의 날낸 가시가 은순의 가슴의 깁피 박혀잇는 엇더한 원한의 뭉치를 칵 질으자 은순의 감정은 극도로 폭발되엿다.</paragraph>
+					<paragraph> 『알앗서. 내가 서양인의 도음 밧아서 공부한다고? 교장의 도음으로 공부를 게속하게 되엿다고?』</paragraph>
+					<paragraph> 은순이의 떨니는 목소리는 형애에게 공격적으로 대여 들엇다.</paragraph>
+					<paragraph> 『그것이 하나님의 은헤인가? 그러타면 더러웁다 하나님의 은헤가... 하나님은 내게 은헤를 준다는 것보다도 나의 행복을 빼앗어갓다. 영원이 내게서 나의 옵바를 유일의 희망을...』</paragraph>
+					<paragraph> 그는 더 말을 일우지 못하고 울음이 터지랴는 것을 겨우 참고 이곳까지 온 것이엿다.</paragraph>
+					<paragraph> 은순의 옵바는 스물 네 살이란 청춘에 페병으로 죽엇다. 남달니 재조잇섯고 침착하엿고 누의를 사랑하엿다.</paragraph>
+					<paragraph> 그는 상업학교를 맛춘 후 월급생활의 불편을 늑기고 적은 전방을 내여 겨우 생게를 지어갓다. 은순의 아버지는 란봉군이엿슴에 그들에게는 아버지 잇는 것이 업는 것보다 못하엿다. 그럼으로 그의 어머니는 고무공장의＜16＞ 녀직공이 되여 은순의 남동생의 학비를 대엿다.</paragraph>
+					<paragraph> 은순이의 생명이 되고 부모가 되고 희망이 되엿든 그의 옵바는 두 달 동안 병석에서 신음하다가 유서 한 장을 남기고 작년 겨을에 죽어버렷다.</paragraph>
+					<paragraph> 옵바의 동모 몃 사람이 전방을 정리하야 간단이 장례를 맛첫다. 그의 시체는 불살나 버리고 뼈는 돌에 갈아서 (지금 은순이가 와서 안젓든 바위에다가) 이 바다 물에 띄여버렷다.</paragraph>
+					<paragraph> 은순이는 옵바의 무덤이 업슴을 깁히 한하엿다. 옵바의 자최이란-이십 사년의 짧은 생명이 이 괴로운 세상에 존재하엿섯다는 아모런 흔적도- 영원이 업게된 것을 생각하고 혼자 울고 원망하엿다.</paragraph>
+					<paragraph> 그는 일주일에 한 번식 꼭 이 바위 우에 와서 옵바의 뼈가 흘너간 바다를 바라보며 울엇다. 이 바위는 옵바의 무덤도 되엿고 묘비도 되엿다.</paragraph>
+					<paragraph> 겨을 치운 날에라도 극한 고통이 잇슬 때는 이곳을 차자와 울고 갓다. 의론 한 마대 할 곳 업고 누구에게서 의견 하나 들을 수 업는 은순은 이 바위가 옵바의 깁숙한 가슴이나 되는 듯이 이 바위 우에 안저서 흔이는 어려운 문제를 해결하여 가는 것이엿다.</paragraph>
+					<paragraph> 마음이 외로울 때 슬플 때 답답할 때 이 바위는 그의 위안처이엿고 또한 말 업는 벗이엿다. 그는 옵바의 유서를 이 바다에 올 때마다 닑고 닑엇다. 옵바의 유서는 은순이를 녀공이 되라고 명한 것이엿다.</paragraph>
+					<paragraph> 사실 은순의 집안 형편은 말이 안이엿다. 그의 어머니의 하로 이삼십전의 삭전으로 다섯 식구가 겨우 입에 풀칠만 하면서도 그나마 공장이 휴업할 때는 이 집의 식구는 몃칠이라도 굴물 수 박게 업섯다.</paragraph>
+					<paragraph> 은순이는 여러 번 어머니에게 녀공이 되기를 간청하엿다. 그러나 은순이를 맛아들 겸으로 밋고 잇는 그 어머니는</paragraph>
+					<paragraph> 『어멈이 녀공된 것도 지지끗스러운데 엇지 너까지 녀공이 되랴.』</paragraph>
+					<paragraph> 고 굿게 거절하엿다. 은순이는 성적이 조핫든 만큼 교장의 도음(월사금만)으로 공부를 게속하게 되엿스나 날마다 여러 방면의 압박을 당하며 고통을 밧고 잇는 그의 개성은 구체적으로 눈뜨기 시작하엿다. 그는 홀로 옵바의 닑든 책을 꺼내여 독서하기를 게을니 하지 안엇다.</paragraph>
+					<paragraph> 추석이 림박하자 빗장이들이 밧삭 어머니를 졸으기 시작하엿다. 그의 어머니는 빗걱정에 또한 자녀들의 명절을 위하야 밤에도 잠을 못 자고 근심하엿다.</paragraph>
+					<paragraph> 실로 요사이 갓트면 하로 한 끼도 어려운 처지이엿다.＜17＞</paragraph>
+					<paragraph> 그는 언제든지 그의 결심을 실현할 긔회를 엿보고 잇섯다. 그러다가 오늘 학교에서 형애-적어도 자긔를 제일 잘 리해하여 주는 줄 알엇든 형애-에게 큰 모욕(그는 이상 더 큰 모욕은 업스리라고 생각하엿다)을 당하고 바로 이곳에 뛰여 온 것이엿다.</paragraph>
+					<paragraph> 은순이는 속치마 주머니에서 옵바의 유서를 꺼내엿다. 그 것은 그의 옵바가 죽기 전 닷새 전에 보통학교에 단이는</paragraph>
+					<paragraph> 남동생의 공책장을 뜨더서 연필로 써가지고 책갈피에 끼어 노핫든 것을 죽은 후 서책을 정돈하든 은순이가 발견한 것이엿다. 그는 유서를 소리내여 닑것다.</paragraph>
+					<paragraph> 『누의야! 너의 교육을 끗맛추지 못하고 가는 옵바는 네게 한마대 말을 남긴다. 너는 허위와 가장이 만흔 현재 학교의 교육만을 밧으려 애쓰지 말고 공장 내에서 친이 당하는 실제의 교훈이 절실이 필요함을 깨달어라. 너는 녀공이 되여라. 그리하야 두 아우를 무쇠갓치 키워다구 이것이 나의 부탁이다.』</paragraph>
+					<paragraph> 그는 닑기를 맛추고 그 조히를 얼골에 꽉 대엿다.</paragraph>
+					<paragraph> 옵바의 남긴 필적! 오직 하나인 옵바의 유적! 은순이가 옵바나 처럼 위하고 악기든 그 유서를 은순이는 물에 띄엇다. 바람이 휙 불어 조히가 멀슥이 흘너갓다. 그는 조히가 안보일 때 까지 입을 꼭 담을고 서 잇섯다.</paragraph>
+					<paragraph> 그가 휙 돌아슬 때 그의 눈에는 움죽일 수 업는 굿은 결심의 빗이 나타낫다.</paragraph>
+					<paragraph> 『옵바! 나는 오날까지 마즈막 옵바의 유서를 맛하 잇섯슴니다. 내일부터는 실행입니다. 누의의 이 뜻에 만족하여 주십시오. 아! 옵바!』</paragraph>
+					<paragraph> 그는 바위 우에 꿀어 안자 힘잇게 말하엿다. 그가 고개를 들 때 건너편 하날에는 석양이 붉게 타고 잇섯다. 끗</paragraph>
+					<paragraph> -1932. 9. 9- ＜18＞</paragraph>
+					<paragraph> ＜13-18＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>女性과 苦悶</mainTitle>
+						<alternative lang="kor">녀성과 고민</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>金東煥</name>
+							<name lang="kor">김동환</name>
+						</author>
+					</creator>
+					<subjectClass code="ma06" scheme="madoc">세태비평</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0027" end="ma_019_0010_0029"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">女性과 苦悶 (녀성과 고민)</pTitle>
+						<name role="필자">金東煥</name>
+					</paragraph>
+					<paragraph> 신라 古都 경주를 가려고 대구에서 기차를 잡어타면 세 정차장만에 「半夜月」이란 인가 5,60호 되는 소촌락에 다닷게 된다. 나는 일전에 불국사까지 가려고 기차로 이 압흘 지내다가 놀나운 모양을 보앗다.</paragraph>
+					<paragraph> 그것은 풍류객 李太白이나 지엇슬 뜻한 시적 일홈을 가진 이 촌락에 어듸를 돌아보아도 村人의 식량을 짓는 水田은 업고 주위마다 모다 사과를 심는 과수원으로 찻섯다. 과수원 속에는 반드시 석양에 반사하는 궁궐가튼 양철집웅이 드러안고 그러고는 신작로 큰길가에 치마를 재켜을닌 채 人糞담은 양철 肥料筩을 장대기에 께어 둘너메고 그 과수원을 향하야 땀을 씨스며 드러가는 여염집 부인들이 보이엇다.</paragraph>
+					<paragraph> 마츰 그 정차장에서 올나탄 초립 쓴 젊은 村人한태서 나는 이 촌락엔 3,40먹은 장정들이 거이 그림자를 볼 수 업게 사라젓다는 사실과 그 장정들은 대개 失農하고서 大阪에 가지 안엇스면 경상도 延日灣의 漁場人夫로 흐터저 갓다는 사실을 드럿다. 言畢에 그 亦 延日灣으로 가는 길이라 하며 후- 한숨을 내쉰다.</paragraph>
+					<paragraph> 나는 차창으로 이 촌락을 다시금 내어다 보앗다. 집집마다 둥그런 호박이 집웅에 달니고 키 큰 옥수장이 마당을 수북이 덥흔 꿈가튼 아름다운 이 「半夜月」의 촌락. 촌의 중앙 지점인 듯 한 곳엔 마을에서 공동사용하든 것인 듯한 石馬방아가 걸닌 채로 잇고 그리고 호미와 밧가는 보삽을 만들든 야장깐도 그대로 잇건만 그러컨만 이 마을엔 장정이 업고 그리고 水田이 업고 그리고 村閣氏들만 외로히 지터 과수원에 肥料桶을 나르고 잇다.＜19＞</paragraph>
+					<paragraph> 이것은 참으로 놀나운 사실이 아니랼 수 업다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 1930년대의 조선 부인은 「밥」을 위하야 지금 노동시장으로 작고 진출하고 잇다. 그래서 각처의 정미공, 연초회사 여직공, 뻐스 여차장 조곰 인테리급으로는 여교사, 여사무원 등으로 생활 전선에서 활약하고 잇다. 그러치만 이것은 누구나 상상하는 도회의 현상뿐이다. 여러분은 언제 촌락의 부녀들의 생활을 연상하여 본 적이 잇섯든가?</paragraph>
+					<paragraph> 거기에는 농사지을 땅을 일코서 夜半에 떠나는 남편을 보내고 저는 종묘장이나 과수원의 인부로 드러가 2, 30전의 삭전버리하는 촌부인들로 찻섯다. 촌부인들은 처음에 전토를 일고 고민하다가 이제는 남편마저 일코, 고민하고 잇다. 최초의 고민은 식량의 고민, 밥의 고민이요. 둘재의 고민은 가정 붕괴의 고민, 성의 고민이다. 무지하고 단순한 그네들은 祖失傳來의 전토가 과수원이 될 때에 그래도 과수원 인부가 되어 그 賃銀으로 사라갈 수 잇스리란 희망을 가지고 잇섯다. 그러다가 현대의 경제조직은 무산계급의 갈 길을-로 인도하는 것을 발견하엿슬 때 비로소 愕然하여 장정들이 큰 시장을 향하야 도시로 유출된 뒤 孤城落日의 殘疊을 연약한 부녀가 직히지 안느면 안되게 되엇다. 그래서 양식의 飢餓에다가 이제는 이중으로 性의에까지 飢餓울고 잇게 되엇다.</paragraph>
+					<paragraph> 촌락에서만 년 4백여 명의 불의한 嬰兒壓殺이 잇다 함이 저간의 소식을 전하는 바가 아니냐?</paragraph>
+					<paragraph> 이리하야 이기적이든 조고마한 가정이란 생활단위는 滔滔한 홍수에 붕괴되어 가고 지금은 그 자리에 새로운 모형이 드러안고 잇다.--</paragraph>
+					<paragraph> 그 모형의 일홈을 우리들은 아직 부르지 말기로 하자.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 詩的 촌락인 「半夜月」의 부인은 남편을 일코 남의 과수원의 肥料筩을 지금 메고 다닌다. 이와 가튼 「半夜月」의 광경은 西關에도 北關에도 잇슬 것이다. 밧흘 일코 그러고 그 밧과 함께 남편마저 일코 붕괴되어 가는 가정을 직히려고 날마다 肥料桶을 메고 다니는 부녀 그는 우리들을 만히 생각케 하는 조선 부녀의 자화상이다.</paragraph>
+					<paragraph> 지금은 추수철을 당하엿슴으로 농촌에서는 田園에레지가 새로 들니어올 때이다. 그 전원의 에레지는＜20＞ 흉년이니 풍년이니 하는 탄식의 문제가 아니다. 그러한 종류의 탄식은 벌서 벌서 과거 몃 해 전의 사실에 불과하다. 오늘날 반도의 처처에서 들려오는 에례지는 남의 과수원으로 비료통을 메고 가면서 밥과 성의 二重飢饉에 우는 촌부인들의 한숨이다. 눈물이다. 그네의 모양만이 어두운 밤에 燐火모양으로 반작어린다. 두러운 일이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 「半夜月」을 보고 그 때 나와 차를 가치탓든 동경잇는 외국어학교 독일인 교수는 독일 농촌 갓다고 한다. 이 말은 구주대전으로 장정은 모다 전장에 나가고 오직 부녀들만 촌락에 남어 잇서 거칠어가는 밧을 갈고 곡식을 거두고 잇는 광경을 지적한 말이다.</paragraph>
+					<paragraph> 독일 부인 역 남편을 일코 밥의 주림과 본능의 기근에 울고 잇다고 한다. 나는 그 말이 올흔 듯해서 苦笑하면서 고개를 끄덕이엇다.</paragraph>
+					<paragraph> 지금 농촌은 어듸로 가는고? 그보다도 전원에례지의 히로인인 시골 부인들은 어대로 가려는고? 다가치 크게 생각하여야 하겟다. ＜21＞</paragraph>
+					<paragraph> ＜19-21＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>萬國婦人싸론</mainTitle>
+						<alternative lang="kor">만국부인싸론</alternative>
+					</title>
+					<subjectClass code="ma07" scheme="madoc">회고·수기</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0029" end="ma_019_0010_0029"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">萬國婦人싸론 (만국부인싸론)</pTitle>
+					</paragraph>
+					<paragraph> 지금부터 15년 전인 1915년에 동경 여자 유학생들 손으로 <index type="단체">女子親睦會</index> 졸업생 축하회가 東京 麴町區 飯田町 敎堂 내에 개최된 바 녯날 일이나 퍽으나 희한하야 그 때의 式進行經過를 보도함니다.</paragraph>
+					<paragraph> 1, 개회사..........사회...<index type="이름">金瑪利亞</index>
+					</paragraph>
+					<paragraph> 1, 기도............<index type="이름">黃愛施德</index>
+					</paragraph>
+					<paragraph> 1, 축사 及 권면.....<index type="이름">玄相允</index>
+					</paragraph>
+					<paragraph> 1, 同.................<index type="이름">南宮薰</index>
+					</paragraph>
+					<paragraph> 1, 축가.............회원중 有志</paragraph>
+					<paragraph> 1, 졸업생 답사........<index type="이름">金德成</index>
+					</paragraph>
+					<paragraph> 1, 同...............<index type="이름">許英肅</index>
+					</paragraph>
+					<paragraph> 1, 同...............<index type="이름">羅蕙錫</index>
+					</paragraph>
+					<paragraph> 1, 秦樂..............<index type="이름">宋福信</index>
+					</paragraph>
+					<paragraph> 1, 폐회기도.........목사...<index type="이름">林鍾純</index>＜21＞</paragraph>
+					<paragraph> ＜21＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新女性의 男裝是非</mainTitle>
+						<alternative lang="kor">신녀성의 남장시비</alternative>
+					</title>
+					<subjectClass code="ma03" scheme="madoc">설문</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0030" end="ma_019_0010_0033"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新女性의 男裝是非 (신녀성의 남장시비)</pTitle>
+					</paragraph>
+					<paragraph> 새 시대의 여성은 활동하여야 한다, 거리에서 거리로, -그런데 지금의 의복은 지극히 불활발하다. 그러니까 신시대의 신여성들은 응당 남자가튼 복장을 하고 활동할 것이 안일가?...</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>씩씩하고 쾌할해서 조와</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">許憲</index>
+					</paragraph>
+					<paragraph> 좃켓지요.</paragraph>
+					<paragraph> 무엇보다도 씩씩하고 쾌활해 보혀서 좃슴니다. 내가 미국갓슬 때 얼마 동안 피서지에서 보려닛까 수영선수들이 남장한 것이 썩 조와 보이든군요.</paragraph>
+					<paragraph> 일상시보다 혹 전쟁이 난 때라든지 또 남녀가 동일한 직업선상에서 갓치 일하는 때에 더 조흘 것임니다.</paragraph>
+					<paragraph> 『여가가 남장한다.』는 것은 남자가 하는 일을 능히 할 수 잇다는 것을 표현하는 것 갓치 보임니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>조선 남자 옷이라면 남장할 필요가 업다</pTitle>
+					</paragraph>
+					<paragraph> 黃愛施德</paragraph>
+					<paragraph> 조선 사내 옷이라면 더 불편할 것 갓고 보기에도 우수울 것 갓해서 남장한다면 오히러 숭할 것임니다. 만은 양장으로 한다면 좃켓지요, 몸은 민첩하게 가질 수 잇스닛가요. 그런데 내가 미국 잇슬 때 연극하느라고 다른 사람 해를 잠깐 어더 입엇섯는데 엇더케도 끼우든지 진땀이 나겟지요.</paragraph>
+					<paragraph> 그러치만 제 것을 꼭 맛게 해 입는다면 그러치도 안을 것임니다만은 지금 표준하는 미관으로서는 좀＜22＞ 우수워 뵐는지 몰으지요.</paragraph>
+					<paragraph> 그러나 미의 표준도 작고 변해가는 것이닛까 그 것 때문에 남장 못할 필요야 업겟지요.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>반대함니다</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">金東進</index>
+					</paragraph>
+					<paragraph> 여자는 유방과 골반이 크기 때문에 퍽 보기 숭할 줄 암니다.</paragraph>
+					<paragraph> 말하자면 의복이란 것은 미를 낫타낼여고 입는 것인데- 더욱히 여성의 의복은 순전히 미술적으로 되여야 할 것임니다.</paragraph>
+					<paragraph> 혹시 카페- 웨트레쓰나 수영선수들이 해군복 갓흔 것을 입은 것을 보아도 별노 곱게는 보이지 안턴데요.</paragraph>
+					<paragraph> 례뷰-껄들이 입는 옷 갓흔 것은 별 문제지만. 그리 활동하는데 잇서서도 불편하다드군요. 녜전에 기생노릇하다가 사회주의자가 된 여자-<index type="이름">姜石子</index>-로부터 드르닛가 양복점에 가서 맛출 때도 불편하려니와 여기저기가 땡겨서 안끼에도 거북하드라는데요.</paragraph>
+					<paragraph> 어느 점으로 보든지 불편한 것만은 사실인 모양임니다.</paragraph>
+					<paragraph> 현재 조선 여성의 의복제도(신제도)가 美上觀으로나 활동 상에 잇서서나 나무람 할 곳이 업는데 하필 보기 숭하고 불편하기 짝 업는 남장을 식힐 필요가 잇슬가요.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>남장은 野蠻的이다</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">주요한</index>
+					</paragraph>
+					<paragraph> 남자옷이 야만적이라고 세계적으로 떠드는 지금에 와서 여자가 남장한다는 것은 찬성 못할 일이외다. 조선 여자로서 의복을 개량한다면 양장으로 하는 것이 좃치요, 여름 갓흔 때는 내의에 완피쓰하나만 걸치면 되는 것이닛가 좀 편함니까. 남자옷은 가지 수가 여간 만허야지요. 내의는 물론 와이샤쓰 넥타이 카라- 조곰만 분주하든가 부주의하게되면 이저버릴만치 만흔걸요.</paragraph>
+					<paragraph> 그보다 양복이 좁아서 불편한데다가 카라-를 들느고 넥타이로 잡어매노흐니 여간 답답한 것이 안임니다. 내 생각엔 여자가 남장하기보다 남자가 여장하는 편이 나을 것 갓슴니다.＜23＞</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>급격한 變裝은 불가 -진화의 역사를 무시함니다-</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">柳光烈</index>
+					</paragraph>
+					<paragraph> 여자가 남장을 하여요. 지금 당장에? 그 것은 부자연하다고 생각함니다. 의복이란 것은 그 것이 수백년간 여러 가지 진화의 계급을 거치어 오늘과 갓흔 현상을 자연적으로 이룬 것이니 一朝에 남장으로 고친다 하면 일반에게 미관상으로 심히 서투르게 보일 것입니다. 만일 일반의 사상이 격변하야 美에 관한 표준이 남장을 하는데도 동감하고 조와하게 된다면 그 때 가서는 별문제이겟지요. 그러니까 첫재 미관상으로 보아 남장이 불가하고 둘재 활동상으로 보아서도 여장보다 별로히 편리할 것이 업스리라고 함니다. 혹 남자의 양복을 입는다면 공장가튼데서 작업에 편리할 것이나 그런 사람은 극히 소수에 불과하니까 이 역 문제되지 안슴니다. 셋재 경제상으로 보아 여자의 옷갑보다 덜들뜻하나 여자의 因習 기타 감정관계로 보아 여자가 남장을 하게 된다면 지금의 남자옷보다 豪奢 한 감을 쓸듯함으로 이 역 별 이익이 업슬 것입니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>남자와 여자는 自體構造가 달나서</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">朴熙道</index>
+					</paragraph>
+					<paragraph> 남자옷은 남자 몸에 맛게 맨든 것이고 여자옷은 여자 체구에 적당하게 된 것인데 신체구조가 남자보다 달느게 생닌 여자로서 남장을 한다면 첫재 미관상으로서 조치 못할 것이고 또 활동하는데 잇서도 퍽 불편할 줄 암니다. 4, 5년 전에 明川女子가 남학생복 입은 것을 보닛까 몹시 흉하더군요.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>土耳其 여자들 옷처럼 개조하면 몰나도</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">尹白南</index>
+					</paragraph>
+					<paragraph> 『여자가 남자옷을 입는 것이 엇더켓느냐』는 이 설문은 실현되지 못할 문제인 줄 암니다.</paragraph>
+					<paragraph> 웨 그러냐 하면 여자는 유방과 골반이 평상스럽지 못하게 발달한 까닭에 좁은 양복을 입는다면 첫재 미관상으로 말할 수 업시 흉할 것이며 또 외관상으로 보드래도 남녀를 구별하기 어렵기 때문에 남녀에 관한 관념이 업서저서 가정에 잇서서도 콘트라쓰가 업서질 것이라고 생각함니다. 활동 상에 잇서서는 직업부인이나 또한 사회운동 선상에 나선 여성들이라면 현재 남자들이 입는 양복말고 土耳其 여자들이 입는-바지에다가 주름 잡은 -간단한 양복이라면 조흘 줄 암니다.</paragraph>
+					<paragraph> 지금 남자들이 입는 양복은 넥타이다, 카라다, 해서 오히려 복잡해서 여성들의 단순하고 美化한 현 의복제보다 퍽 좃치 못한 줄 암니다. 내가 3년 전에 전남지방을 순회하다가 구경한 일인데 엇던 지방에 갓드니 새로운 양복을 부녀들이 지어입고 일터에서 일하는 것을 보앗슴니다. 그 때도 늣긴 바지만 엇잿든 全鮮여성들이 죄다 그러한 양식으로 지은 옷을 직장에서 입는다면 좃켓다고 생각함니다.</paragraph>
+					<paragraph> 다시 말하면 직장에서 입는 옷은 단순한 남장으로 하고 訪問衣, 즉 예복등은 현재 조선여자옷 그대로 함이 훌융하다고 봄니다. ＜25＞</paragraph>
+					<paragraph> ＜22-25＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>校歌集(培花女子高等普通學校)</mainTitle>
+						<alternative lang="kor">교가집(배화녀자고등보통학교)</alternative>
+					</title>
+					<subjectClass code="ma14" scheme="madoc">문예기타</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0033" end="ma_019_0010_0033"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">校歌集(培花女子高等普通學校) (교가집(배화녀자고등보통학교))</pTitle>
+					</paragraph>
+					<paragraph> 1, 필운대에 새벽놉히 우는 종소래</paragraph>
+					<paragraph> 主에 딸들 깨여나니 우리 培花라</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 후렴</paragraph>
+					<paragraph> 培花培花 우리우리 培-花-</paragraph>
+					<paragraph> 은혜은혜 主의 길로 잇끄신 은혜</paragraph>
+					<paragraph> 사랑사랑 픔어길는 사-랑-</paragraph>
+					<paragraph> 일생 찬양하리 아- 培花야!</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 2, 三角山에 타오르는 붉은 구름은</paragraph>
+					<paragraph> 불길갓치 덥고맑은 우리발이라</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 3, 主의 빗헤 싸인 몸이 빗을 말하니</paragraph>
+					<paragraph> 어둔 강산 빗처임이 우리뜻이라</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 4, 큰 희망과 큰 뜻으로 배우고 닥고</paragraph>
+					<paragraph> 어린깃붐 뛰고 놀고 노래부르차＜25＞</paragraph>
+					<paragraph> ＜25＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>文士 金東仁氏 夫人 訪問記</mainTitle>
+						<alternative lang="kor">문사 김동인씨 부인 방문기</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>婦人記者</name>
+							<name lang="kor">부인기자</name>
+						</author>
+					</creator>
+					<subjectClass code="ma02" scheme="madoc">대담·좌담</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0034" end="ma_019_0010_0037"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">文士 金東仁氏 夫人 訪問記 (문사 김동인씨 부인 방문기)</pTitle>
+						<name role="필자">婦人記者</name>
+					</paragraph>
+					<paragraph> 벌서 가울이외다. 오늘 오후 넉점쯤해서 <index type="이름">金東仁</index>씨 부인을 방문하고저 시외 독립문밧게 나갓드니 엇더케도 선을한지 몰나요.</paragraph>
+					<paragraph> 서울 길에 별로 익숙치 못한 기자는 찻기 어러운 杏村洞 막바지에 金東仁씨 宅을 찻느라고 몃 시간을 仁旺山압 넓은 촌을 헤매엿슴니다.</paragraph>
+					<paragraph> 仁旺山으로부터 나러오는 바람은 몹시 싼을햇슴니다.</paragraph>
+					<paragraph> 싸늘한 바람을 헤치면서 이 골목 저 골목 헤매다가 간신히 김씨宅을 차저 드러갓섯지요. 마루에 안저서 겨울옷 준비하시는 나 젊으신 부인이 바로 東仁씨의 令夫人이엿슴니다.</paragraph>
+					<paragraph> 부인은 「東仁씨의 부인되시는 분을 차저왓슴니다」고 하는 기자의 말을 드르섯는지 말엇는지 안방으로 뛰여드러 가시드니 부군 東仁씨의 낫잠 주무시는 것을 깨우심니다. (나종에 아니 낫잠 주므시느라고 누운 것이 안이고 몸이 편치 안으서 누엇다고) 달게 즈무시는 것을 께우심에 미안스러워서</paragraph>
+					<paragraph> 「안이올시다. 金선생님 부인을 뵈올러고 왓슴니다」</paragraph>
+					<paragraph> 하고 소리를 놉히 첫섯슴니다.</paragraph>
+					<paragraph> 그제야 부인은 하얏코 오동통한 얼골에 순진하고 귀염성스런 우슴을＜26＞ 띄우면서 기자의 압헤 갓가히 와서 안즈라고 말슴하신담니다.</paragraph>
+					<paragraph> 자리가 정돈되자 방에서 「붓드러늣코 무슨 말슴이든지 물어보십시요」하는 부군의 소리가 들엿슴니다.</paragraph>
+					<paragraph> 물론 기자가 차저간 목적이 그것이엿슴니다 만은 金東仁씨가 겻헤 갓가히 게시니 말문이 맥혀도 지러니와 부인께서 대답해 주실 것갓치 안어서 기자는 「선생님은 어대 안가심닛가?」하고 말햇더니 「제가 업서야겟슴닛가.」하시고 東仁씨는 박그로 나가주섯슴니다.</paragraph>
+					<paragraph> 기자는 인상 조흔 부인과 (<index type="이름">金瓊愛</index>씨) 조용히 안저 이야기할 것을 퍽으로 몹시 깃버햇섯서요.</paragraph>
+					<paragraph> 「일긔가 퍽 싸늘해 젓서요. 겨울옷 준비하시는 것을 보니 더 싸늘한 긔분이 도는걸요.」</paragraph>
+					<paragraph> 「네! 퍽 서늘해젓서요.」</paragraph>
+					<paragraph> 하는 부인의 말세는 순전히 서도지방 사투리 그대로엿슴니다. 기자는 金東仁씨가 나가신 틈을 타서 속히 목적을 달할 양으로 다른 이야이는 거더넛코 물어보고 십던 몃 마듸 이약이의 첫 마듸부터 시작햇섯슴니다.</paragraph>
+					<paragraph> 「언제 결혼하섯슴니가?」</paragraph>
+					<paragraph> 「작년 4월에 햇슴니다.」</paragraph>
+					<paragraph> 「그런데 벌서 저럿케 큰 어린애가 잇슴니다.」</paragraph>
+					<paragraph> 「뭐 크나요? 작년 10월에 난는데요.」</paragraph>
+					<paragraph> 「물론 연애결혼이시지요?」</paragraph>
+					<paragraph> 「안이얘요. 부모님들께서 정해 주섯담니다.」</paragraph>
+					<paragraph> 「이 곳 오시기는 언제쯤 이심닛가?」</paragraph>
+					<paragraph> 「지난 4월에 왓슴니다.」</paragraph>
+					<paragraph> 「싀댁은 어듸신지요?」</paragraph>
+					<paragraph> 「평양임니다.」</paragraph>
+					<paragraph> 「친정은 이듸세요?」</paragraph>
+					<paragraph> 「평양서 좀 떠러진 싀골임니다.」</paragraph>
+					<paragraph> 「이 곳 올나오시기까지는 싀골에 게섯겟지요?」</paragraph>
+					<paragraph> 「네? 그랫슴니다.」</paragraph>
+					<paragraph> 「싀골에 게실 적보다 책임이 중하시겟지요?」</paragraph>
+					<paragraph> 「책임이 중하기도 함니다 만은 속이 편하닛까 호사하는 셈임니다. 싀골에 잇을 때는 아모리 편하게 해주신다고 해도 이쪽에서 엇전지 미안해서 늘 만이 편치 못하더군요.」</paragraph>
+					<paragraph> 「그런데 실예 말슴 갓슴니다마은 김선생님 전 부인 되섯든 이는 지금 어듸게신가요?」</paragraph>
+					<paragraph> 「글세요. 전에는 평양 잇다고 하드니 지금은 몰으겟슴니다.」</paragraph>
+					<paragraph> 「그 부인안태서 난 애기들이 몃 치나 됨닛가?」</paragraph>
+					<paragraph> 「열 세 살 먹은 오래비 한아와 열 한 살 먹은 누이동생이 잇슬 뿐임니다.」</paragraph>
+					<paragraph> 「네! 뎨가 이러한 말슴만 작고 물어서 안됏슴니다만은 거리낌업시 말슴해 주신다면 고맙겟슴니다. 저- 전 부인안테서 난＜27＞ 즉 전처 자식들에게 대해서 애착을 가지심닛가?」</paragraph>
+					<paragraph> 「...」 엇전지 瓊愛씨는 말슴하시기를 주저하엿슴니다. 그럼으로 기자는 또 다시 말을 돌여서 물엇슴니다.」</paragraph>
+					<paragraph> 「그 애들하고 또 경애씨가 나신 어린애와 어느 쪽이 더 사랑스렵슴닛가?」</paragraph>
+					<paragraph> 「저는 아직 나희가 어러서 자식 귀한 줄을 모르기 때문에 어느 것이 더 사랑스럽다든가 하는 생각이 업담니다.」</paragraph>
+					<paragraph> 「그러면 똑갓흐시다는 말슴임니다. 그런데 그 애들이 서흘어 하지 안슴닛가.」</paragraph>
+					<paragraph> 「인제도 말슴햇지만요 저는 어리기 때문에 부모의 책임을 다하지 못하고 애들안테 일을 식히든지 심부럼을 식혀도 농담으로 하닛까 애들도 저안테 농담적으로 대한담니다.」</paragraph>
+					<paragraph> 「애들이 뎌희 어머님 보고십허 하는 긔색이 뵈지 안슴닛까?」</paragraph>
+					<paragraph> 「속으로는 엇저는지 몰으지만 것츠로는 절대로 그런 눈치가 뵈지 안어요. 다른 애들 갓흐면 뎌의 어머니가 어대 잇다는 말을 드르면 보고 싶허 갈 것인데 도모지 그런 일이 업스니 그 것만은 정말 유쾌함니다. 그러고 장차 자라면 몰으지만 지금은 꼭 친어머니처럼 생각함니다.」</paragraph>
+					<paragraph> 「아버지가 애들을 사랑함닛가?」</paragraph>
+					<paragraph> 「네 사랑함니다. 어머니 업는 애들을 아버지까지 사랑하지 안으시면 어점닛가.」</paragraph>
+					<paragraph> 「내 동모 중에 남의 후처된 이가 잇는데 맛찬가지로 전처 자식이 잇지요. 그가 늘 하는 말인즉 자긔 남편이 전처자식들을 사랑하면 질투가 생겨나서 못살겟드라고 자긔가 그 애들을 사랑하든 맘까지 살작 도라서진다고 하더구만요. 참말 그럿슴닛가?」</paragraph>
+					<paragraph> 「그야 사람에 따라 다르겟지요 만은 혹 그러케 되는 때가 잇지요. 내 맘이 불쾌할 때 그 애들을 가지고 귀해하고 사랑하면 맘이 더 불쾌합듸다.」</paragraph>
+					<paragraph> 「김선생님이 전 부인을 생각하시는 때가 잇슴닛가?」</paragraph>
+					<paragraph> 「속으로는 생각하시는지 몰으지요. 남에 속에 안드려 가 바스닛가요.」</paragraph>
+					<paragraph> 「그런 긔분이 떠도는 때가 업섯슴닛가?」</paragraph>
+					<paragraph> 「글세올시다. 뎨가 볼 줄 몰나서 그런지요. 아작 그러한 긔분을 발견치 못하고 삼니다.」</paragraph>
+					<paragraph> 엇지햇든 氏는 말슴 한마듸에 주의에 주의를 가해서 말의 실수가 조곰도 업시 하느라고 퍽 애쓰시는 양이 보혓슴니다.</paragraph>
+					<paragraph> 「만약 김선생이 전 부인 일을 생각하시고 우울해 하신다면 맘에 엇더하시겟슴닛가?」</paragraph>
+					<paragraph> 「그컷케 하시지 안는 것만 못하겟지요.」＜28＞</paragraph>
+					<paragraph> 「김선생께서 전 부인 이약이를 끄집어 내시는 때가 잇슴닛까?」</paragraph>
+					<paragraph> 「제가 먼저 끄집어내면 이약이 나지요. 그 외에는 도모지 먼저 끄집어 안내심니다.」</paragraph>
+					<paragraph> 「경애씨는 엇재서 전 부인 이약이를 끄집어 내심닛가?」</paragraph>
+					<paragraph> 「우리가 전에는 재산이 잇섯다는데 지금은 업서젓서요. 그런 이약이를 하는 중이면 그이의 이약이가 자연 나오지요.」</paragraph>
+					<paragraph> 「또 실예의 말슴을 함니다. 용서하십시오. 저 혹씨 총각안테 싀집 갓더면 하시는 생각을 가젓슬 때가 업슴닛가?」</paragraph>
+					<paragraph> 「글세요. 제가 총각하고 살어 본 경험이 잇서야 알지요.」</paragraph>
+					<paragraph> 하는 氏의 명담에는 기자도 엇절줄 몰나서</paragraph>
+					<paragraph> 「참 그럴가요?」 하는 말 한 마듸 밧게 내놋치 못햇슴니다.</paragraph>
+					<paragraph> 「그런데 제 생각 갓해서는 꼭 한 가지 불편은 잇을 것 갓흔데요? 만약 애들이 잘못한 일이 잇을 제 꼭 책망하고 주의를 식혀야할 텐데 내가 나흔 자식이 안인 것만큼 남들이나 또 애들 자체가 오해할가바서 참으시는 때가 업슴닛가?」</paragraph>
+					<paragraph> 「물논 남의 후실 노릇을 하자면 거저 주의 주의하는 것이 제일 좃코요. 참는 것이 좃치요.」</paragraph>
+					<paragraph> 「애들 때문에 김선생과 싸흐신 일이 업슴닛가.」</paragraph>
+					<paragraph> 「애들 때문에 싸혼 일은 업지만 괴로운 세상을 살아갈여면 웨 싸홈이 업겟슴닛가닛?」</paragraph>
+					<paragraph> 「그런데 엇더한 것이 싸홈의 원인이 되심닛가?」</paragraph>
+					<paragraph> 「우리는 사실 말하자면 벌노 큰 문제도 업시 작난이 싸흠이 됨니다. 서로 자긔가 잘햇다고 욱이닛가요. 그 외에는 경제문제 때문이라고 할까요.」</paragraph>
+					<paragraph> 「결혼생활이 엇덧슴니가? 괴롭슴닛가? 즐겁슴닛가?」</paragraph>
+					<paragraph> 「처녀 때보다 괴로운 말이야 해서 무엇함닛가 만은 그래도 또 그 속에 樂이 잇스닛가 살지요.」</paragraph>
+					<paragraph> 「김선생님이 퍽 사랑하시지요? 쑥스런 말슴이오나!」</paragraph>
+					<paragraph> 「벌말슴 다-뭇슴니다. 그야 후처가 혹이라는 말이 잇지 안슴닛가. 먼저보다 물논 사랑하시기야 하지만 우리는 아직 경제적으로 안정이 되지 못한데다가 그이가 사철 몸이 약하서서 화가 나는 때가 만슴니다.」</paragraph>
+					<paragraph> 「김선생님이 어린애들 바주심닛가?」</paragraph>
+					<paragraph> 「밧부시지 안으면 바주주심니다.」</paragraph>
+					<paragraph> 「매일 외출하시는 가요?」</paragraph>
+					<paragraph> 「안이요. 2, 3일에 한 번식이나 하심니다.」</paragraph>
+					<paragraph> 「그 외에 시간엔 늘 원고를 쓰심니까?」</paragraph>
+					<paragraph> 「안이얘요. 늘 누어게시지요.」(第8頁에 續) ＜29＞</paragraph>
+					<paragraph> 「그러면 각 신문잡지에 죄다 소설을 쓰시는데 그 것은 언제 쓰심닛가?」</paragraph>
+					<paragraph> 「원악 빨니 쓰시닛가요. 원고 쓰시는 시간은 얼마 안되심니다. 신문에 두회분 식 써 주시는 것도 30분 이내로 써 주시는데 그 것도 고단하서서 야단이심니다. 몸만 건강하시다면 아모 걱정 업겟슴니다.」</paragraph>
+					<paragraph> 고 말슴하시는 부인의 얼골엔 가늘게 수심빗치 떠올낫슴니다.</paragraph>
+					<paragraph> 「싀댁에서 경제 보조가 잇겟지요.」</paragraph>
+					<paragraph> 「업슴니다.」</paragraph>
+					<paragraph> 「그러면 순전히 원고료로 생활하심닛가?」</paragraph>
+					<paragraph> 「...」 대답업시 거저 우서버리시는 부인의 양을 보아서 취측할 수 잇섯슴니다.</paragraph>
+					<paragraph> 仁旺山 밋 놉흔 언덕에 해볏이 엷게 빗칠 때 기자는 분주히 부인에게 인사를 고하고 杏村洞 꼬부랑 길을 터벅터벅 내리거럿슴니다. 氏의 宅을 차즐 때보다 더 한 층 가을 기분이 농후해젓섯슴니다.＜8＞</paragraph>
+					<paragraph> ＜26-29, 8＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>萬國職業婦人戰線</mainTitle>
+						<alternative lang="kor">만국직업부인전선</alternative>
+					</title>
+					<subjectClass code="ma04" scheme="madoc">소식</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0038" end="ma_019_0010_0043"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">萬國職業婦人戰線 (만국직업부인전선)</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>아메리카편</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>憧憬의 港口, 希望의 뉴-욕</pTitle>
+					</paragraph>
+					<paragraph> 「퓌푸쓰·아베뉴에 등불이 붉게 켜지면 다섯시와 여섯시의 한 때를</paragraph>
+					<paragraph> 무록드눈을 향하야 오늘도 가자.」</paragraph>
+					<paragraph> 이러한 노래가 잇는지 엄는지는 알 수 업스나 뉴-욕에서는 독신자로 나서고 사라리맨이면 엇던 남자든지 다섯시와 여섯시 사이의 복잡한 시간을 가을나무 입과 갓흔 쓸쓸한 맘의 위로를 엇으려고 푸-푸쓰, 아베뉴-를 향하야 가는 것도 무리한 일은 안이다.</paragraph>
+					<paragraph> 무삼 까닭으로?</paragraph>
+					<paragraph> 거기는 처녀들이 상점으로 사무소로 은행으로부터 쏘다저 나온다. 모-든 종류의 모든 교육 정도의 차이가 잇는 모-든 적은 직업 부인의 무리가 스카-드를 바람에 날니면서 자긔 집으로 여관으로 하숙으로 아파-트로 사랑하는 사람 안태로 극장으로 급히 달니고 잇다.</paragraph>
+					<paragraph> 지하철도로 뻐쓰로 택시로 이럿케 그들은 도라간다.＜30＞</paragraph>
+					<paragraph> 뉴-욕에서의 취직! 그 것은 공명에 불타는 녀인들의 빗나는 고-ㅅ이다. 나 어린 처녀들의 푸른 지평선이다. 전 아메리카 처녀들이 멀니 바-몬드 언넉을 넘어서 칸사쓰 농원에서 빠지니아의 산곡간에서 머시시비이의 삼각지대로에서 몬다나의 야원에서-허영과 성공의 꿈을 가삼의 가득히 안고 뉴-욕으로 달여온다.</paragraph>
+					<paragraph> 급 놉흔 월급, 살기 조흔 아파-트, 밤의 구락부 방문 도시의 유행 이것들은 그들에게 유일한 즐거움이엿다. 그러나...</paragraph>
+					<paragraph> 현실의 도시 뉴-욕은 무수의 직업을 허락해 주지 안는다.</paragraph>
+					<paragraph> 고향을 떠날 제는 상당한 여비를 가지고 나섯스나 아모리 차저바도 뜻 맛는 일자리는 업고 아파-트 室代와 도시의 유행으로 하야 소비생활 나종에는 먹을 것 좃차 업시 되면 직업 소개소 압헤서 긔절하고 만다. 이러한 연극이 해마다 해마다 연출된다.</paragraph>
+					<paragraph> 1929년 조사에 의하면 대략 8천인의 여성이 뉴-욕에 와서 잇섯다고 市局에서는 이 것을 엇지할 줄 몰나서 걱정되엿섯다.</paragraph>
+					<paragraph> 직업를 주어라! 그녀들의 눈엔 충혈이 되엇다. 최후에 일원도 업시 될 때까지 엇더케 되려니 하고 기다린다. 그들의 용긔는 육체의 힘보담 강하다. 한여름을 매일갓치 빠나나와 생쌀로 합계 10錢也로서 견대면서 일자리 생길 나를 기다리고 잇은 가련한 소녀가 잇섯슴으로 엇던 점주가 고용햇다는 이약이도 잇다.</paragraph>
+					<paragraph> 뉴-욕의 여성들 직업 上은 바-나-드, 카테-지 出로부터 無學의 가난한 가정의 딸까지에 개방된 직업이다. 엇잿든 世界一主義의 아메리카임으로 퍽 광범하게 되여 잇다.</paragraph>
+					<paragraph> 지금 잇서서는 녀성들이 못하는 「일」이 무엇인가 하고 목을 흔들면서 생각해도 얼는 생각키우지 안으리만침 되엿다.</paragraph>
+					<paragraph> 데파-트 경영 잡지경영 編輯結構 大회사의 선전광고게원도, 또, 신문기자 充分 은행원 株式중매업도 될 수 잇스며 가구장식품점 경영 賣藥店적당 영화, 토-키, 라지오 방송은 물론--뉴-욕은 그러기 때문에 그 여자들히게 잇서서--그러나 선택된 그녀들 몃 사람에게만 한하야 행복한 챤쓰를 준다.</paragraph>
+					<paragraph> 1920년 이후 市의 女子 직업전선은 훌윙하게 연장되엿다. 그 중에도 齒科醫와 철도사업참가가 특히 긔염을 토하고 이러섯다.</paragraph>
+					<paragraph> 「인명사전」 펴보면 이럿케 해서 뉴-욕에서 유명하게 된 여성이 5백명 이상이다.</paragraph>
+					<paragraph> 중에는 市의 官吏된 자도 잇고 大부인잡지사장 뉴-욕의＜31＞ 花屋의 주인 뿔조아의 女醫 등의- 성공녀의 기념비가 전세계 여인을 위하야 힘굿세게 빗나고 잇다.</paragraph>
+					<paragraph> 학교교원 다만 그것이 뉴-욕시 女에게 깃처준 유일의 직업이든 녯날의 그 面影은 지금 차저볼여고 해도 차즐 길이 업다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>獨逸編</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>學校出의 여교사들의 이야기</pTitle>
+					</paragraph>
+					<paragraph> 대전 후의 독일 전쟁에서 패하고 도라 온 병사의 안해들이 남편의 절망을 위로하며서 자긔들이 대신하야 농장으로 공장으로 알하려 간다.</paragraph>
+					<paragraph> 강력한 인종 불행과 실망에서 용긔를 뽐내는 그들의 딸- 그들이야말노 현재의 신흥 독일의 첨단여성으로서 빗나고 잇다. 그들은 직업전선의 몃 십파-센트를 점령하고 잇다.</paragraph>
+					<paragraph> 그들 중의 건강한 여성들은 化學熱 機械熱-여기서 첨단적 직업의 女技師가 만히 속출하게 된다.</paragraph>
+					<paragraph> 일즉이 여성의 사치한 머리로부터 머러젓든 수학을 긔게를 전기공학을 물리학을 비행긔의 製圖를 그를 근본적으로 공부하고 잇다.</paragraph>
+					<paragraph> 伯林고등공업학교 교실에는 남학생과 함께 초 모-던 여성들이 긔게 시대라고 하는 미혹적인 인스푸레-숀에 우기를 뽑으면서 한 개의 정열에 움죽한다.</paragraph>
+					<paragraph> 製圖室 들창은 깁흔 밤중이라도 등불이 환하게 비최여서 새 시대에 여명을 알외운다.</paragraph>
+					<paragraph> 갓가운 날엔 독일여성에게 잇서서 법률과 문학이 그들의 전지식이엿스며 극한점이엿다.</paragraph>
+					<paragraph> 여교사 그런 것은 과거의 지식적 여성의 종말로서 자랑햇섯다.</paragraph>
+					<paragraph> 强固한 의지 꾸준한 好學的 정열 데리케-트한 머리- 여기에 인테리 여성은 진정한 깃발을 날닌다. 명일의 母性, 연구와 직업의 리씀의 합치된 생활 二重奏, 명랑한 기계의 미소에 윈크하면서 그들은 이약이한다.</paragraph>
+					<paragraph> (1) 無線電信女技師의 이약이부터</paragraph>
+					<paragraph> 「처음에 웨 이런 직업을 택햇는냐고 동모들이 물어보겟지요. 하긴 여자의 직업으로서 좀 신기할지 모르지만 현재까지의 여성들이 웨 좀 더 빨니 이 직업에 손을 대지 안엇으냐고 말하고 십슴니다.</paragraph>
+					<paragraph> 거저 여자는 옙버야한다고 그 것은 남성들의 에고이씀에서 나온 말이라오. 나는 이 직업이 나에게 꼭 드러맛는다고 대답하고 십허요.＜32＞</paragraph>
+					<paragraph> 내가 취직하기 전엔 친족들과 동모들이 반대햇슴니다. 저의 어머님은 女技師라는 일홈만 드러도 골치가 아푸다고 그런 말광양이짓은 제발 그만도 달나고 하시겟지요.</paragraph>
+					<paragraph> 우리는 현재까지 남자들 자리를 침범하지 안으면 안됨니다. 아직도 뒤떠러젓지요.</paragraph>
+					<paragraph> 내가 단이든 伯林工藝學校에도 男生徒는 5천인이 되는데 女生徒는 겨우 백명에 넘지 못햇서요.</paragraph>
+					<paragraph> 그 여성 대부분은 건축기사가 되엿슴니다. 이럿케도 우리는 화학에 흥미를 가지게 된 것을 자랑하고 십슴니다.</paragraph>
+					<paragraph> 그러나 좀 섭섭한 것은 남성들의 胸量이 너무 좁은 것이예요. 아직까지도 녀자는 약하다고만 생각하니까요. 그러치만 나는 절망하지 안슴니다.</paragraph>
+					<paragraph> 우리들 女技師도 점점 만허가면 남성들과 대항할 수 잇슬 것이며 또 조합을 만들고 또 단결하야 女子 직업전선을 발전 확장식힐 것이라고 밋슴니다. 엇잿든 우리들은 한 개의 기술을 완전히 다-해서 엇더한 경우에라도 생활의 길을 세워가지 안으면 안될 것임니다.』라고 말햇다.</paragraph>
+					<paragraph> (2) 飛行機製作硏究家 W.S孃</paragraph>
+					<paragraph> 『나는 학교에서 수학과 물리학, 화학과 체조를 뵈웟슴니다. 엇잿든 퍽 열심으로 공부햇슴니다.</paragraph>
+					<paragraph> 그러기 때문에 3등 飛行士 免狀을 밧게 된 것임니다. 伯林대학의 학생 비행연맹에서는 여자부의 지도자격이라는 중한 책임까지 가젓슴니다.</paragraph>
+					<paragraph> 지금은 공업학교의 비행기 제작을 연구하고 잇지만은...그런데 학비가 퍽 만히 듬니다.</paragraph>
+					<paragraph> 처음엔 여러 가정으로 단이면 가정교사 노릇도 햇슴니다. 혹시 헌 자동차를 곤처주고 돈 밧은 때도 잇섯슴니다. 또 운전수 노릇한 때도 잇섯지요. 하는 소견들은 대개 남자들이여서 나에게 무한히 동정해주엇슴니다.</paragraph>
+					<paragraph> 때때로 배 이상의 대금을 주기도 햇스며 또는 편지든가 명함 갓흔 것 이쪽에서 요구하지도 안는 것을 주는 때도 잇섯슴니다 만은...』 쟈미잇는 이약이엿다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>아이스랜드 편</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>짜른 여름·긴- 겨울 北國, 아이스랜드 여성들의 애닯은 눈물</pTitle>
+					</paragraph>
+					<paragraph> 아이스랜드... 그런 나라가 어데 잇나? 하고 머리를 이리저리 흔들며 생각할 것이겟지.</paragraph>
+					<paragraph> 여러분 세계지도를 내놋코 저-북으로 또 북으로 ...북대서양과 北極洋 사이에 잇는 섬(島) 나라를 저＜33＞ 보십시오.</paragraph>
+					<paragraph> 무섭게 생긴 섬나라! 퍽도 추워보이더라. 산이란 산은 모다가 하얏케 본네를 쓰고 잇다. 영원의 雪 首府 라이캬윗크의 평균온도는 4.4도, 7월이 되여야 겨우 133도, 1월엔 영점하 1.7도에 내려간다고 하니 꼿향기는 맛허볼 수 업는 쓸쓸한 나라이다.</paragraph>
+					<paragraph> 섬의 면적은 잉그만은하다.</paragraph>
+					<paragraph> 봄도 가을도 모른다. 너무도 짜른 여름과 너무도 길고 기-ㄴ 겨울.</paragraph>
+					<paragraph> 아름다운 들꼿의 향기도 몰으는 그 나라 처녀들!</paragraph>
+					<paragraph> 아이스랜드의 찬바람과 어름은 여성들만 리롭게 하지 안는다. 남성들도! 안이 모-든 동물에게도 慘酷하게 해준다.</paragraph>
+					<paragraph> 여기의 남성들은 일생을 바다에서 산다. 그리고 여성들은 일생을 남편과 한가지로 일한다.</paragraph>
+					<paragraph> 그 여성들은 일생을 울고 지내게 된다.</paragraph>
+					<paragraph> 바다! 바다가 우서 본 적이 업는 무서운 바다- 어름이 그들에게 결코 우슴을 줄 리가 업섯다.</paragraph>
+					<paragraph> 인구가 11만 매년 바다에서 60여 인의 남자를-, 아버지를, 애인을, 남편을 빼앗서 간다.</paragraph>
+					<paragraph> 이 섬의 여인들은 부득이 버러야 한다. 어느 때에 자기의 남편이 자기와 자식들을 버리고 풀고바다 저쪽으로 사러질는지 몰은다.</paragraph>
+					<paragraph> 이 섬의 남녀는 전부 노동조합에 드럿다. 여성들의 대개는 공장에서 일한다. 이 공장은 근대적의 鐵과 鐵에서 불꼿츨 날니는 문명국의 공장이 안이다.</paragraph>
+					<paragraph> 해안의 적은 집에서 말업시 일하는 그녀들</paragraph>
+					<paragraph> 언제 웃지 안는 나 어린 처녀들.</paragraph>
+					<paragraph> 남편이 애인이 머-ㄹ니 북대서양의 바다에서 뉴-파운드-드에서 라부라도-ㄹ에서 그리-ㄴ드에서 잡어오는 고기를 鹽藏 燻藏혹은 乾藏한다. 그 것이 이 공장 안에서의 할 일이다.</paragraph>
+					<paragraph> 검고 적은 머리수건 둘너 난호아 뒤에 투리운 딴 머리 힌 색에 푸론 비단 스카-브 이럿케 맵시낸 그녀들은 무서운 파도의 소리를 듯지 안으려고 입 속으로 하나님을 얼마나 불르고 잇스랴?</paragraph>
+					<paragraph> 이 것이 그들의 하로 하로의 생활이다. 안이 그들의 전체의 생활이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>土耳古편</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>새 光明! 새 生活</pTitle>
+					</paragraph>
+					<paragraph> 언제나 검은 수건을 머리에 쓰고 집안에 들안저서 어머니＜34＞ 할머니와 신비한 이약이만 한다고 생각되는 구시대 여성들 그것이 금후 土耳古의 운명을 상징하고 잇다--고 생각하면 다른 나라 일이지만 한심하다고 하지 안을 수 업다.</paragraph>
+					<paragraph> 그러나 지금에 잇서서는 수건을 쓰고잇는 할머니나 어머니들이 봇부 헤아-에서 대담하게 베-ㄹ을 버서던지고 남자와 갓치 일한다는 것을 알어 두어야 하겟다.</paragraph>
+					<paragraph> 그럿타 그럿타 土耳古의 처녀들이 이러섯다. 벌서 「婦人房」이라는 녯날말은 이저버렷다. 서양화한 처녀들! 직업! 일을 구하는 정열의 빗나는 눈동자! 選擧--選擧權 政黨 婦選 議會 이러한 새로운 말!</paragraph>
+					<paragraph> 土耳古는 녯적뿌터 백힌 종교 계급제도 보수적 생활의 거문 구름에 싸혀 잇섯다. 그래서 남자나 여자나 잠자고 잇섯다.</paragraph>
+					<paragraph> 그랫더니 지금은 여성자유의 길 정치적 요구의 자각 소학교 졸업생 수도 극히 적든 빈약한 土耳古에 이-자유 동경의 念에 불타는 처녀- 여성들을 볼 줄이랴?</paragraph>
+					<paragraph> 이 훌융한 변화의 원천은 결혼 생활의 불만 결혼율의 저하 이혼수의 증가 그래서 부인의 경제적 독립과 정치적 각성 이러한 순서를 발버온다.</paragraph>
+					<paragraph> 거기서 직업전선으로?</paragraph>
+					<paragraph> 수년 전엔 女優 한나와 女醫 한 사람을 내엿섯다. 그것까지도 세계 각 국에선 거짓말이라고 생각하든 土耳古가 지금은 부인이 주장하는 영화회사를 가지고 잇다.</paragraph>
+					<paragraph> 1929년에 여러 女醫와 각 官省에 女官吏를 보내엿다. 市會議員 후보자도 상당히 만헛다. 오히려 司法省에서는 女判事를 구하고 잇섯다.</paragraph>
+					<paragraph> 그 외에 旅行局 助手 치과의사 이발사 전화교환수 자동차 운전수 변호사 다이피스트 직업 부인이 날이 갈사록 느러갓다.</paragraph>
+					<paragraph> 어느 나라나 맛찬가지겟지만 土耳古에서도 얌전하고 말 잘듯는 직업 여성의 평판이 좃타고한다.</paragraph>
+					<paragraph> 여자 직업 중 좀 珍奇한 것은 지방의 두 부인이 사진기를 가지고 여권용 사진촬영상을 시작한 것이라고 한다.</paragraph>
+					<paragraph> 자유의 빗나는 土耳古 처녀의 장래! 그 힘잇는 노력! 전세계 직업부인을 불너 일으킬만 용기까지 품고 잇다.＜35＞</paragraph>
+					<paragraph> ＜30-35＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>인테리 女性에게</mainTitle>
+						<alternative lang="kor">인테리 녀성에게</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>林元根</name>
+							<name lang="kor">임원근</name>
+						</author>
+					</creator>
+					<subjectClass code="ma01" scheme="madoc">논설</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0044" end="ma_019_0010_0045"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">인테리 女性에게 (인테리 녀성에게)</pTitle>
+						<name role="필자">林元根</name>
+					</paragraph>
+					<paragraph> 『인테리』라는 단어를 선택한 본의는 다만 그 말의 根本意인 지식층의 것보다도 先覺者라는 의미를 특별히 포함식히고 싶흔 까닭이다. 그러나 나에게는 인테리층의 조선 여성을 드러 더군다나 전체 조선 여성들의 선각자요 지도자라도 부를 만한 용기가 업다. 오즉 그리 될 만한 소질과 조건만은 다분히 가지고 잇다는 것이 해당한 言分가티 생각된다. 그런 까닭에 나는 그들에게 -현명한 그들에게 소위 走馬加鞭 격의 苦言으로써 名實相伴의 그의 완성을 企圖하려는 것뿐이다. (21행 略-원문)</paragraph>
+					<paragraph> 빈궁에 젓고 순간 향락에 도취하고 이기욕에 사로잡히고 시기와 無爲와 비겁과 배신에 충실하려는 이른바 조선인의 모뽀, 모껄 들에게는 모도가 잠고대가튼 수작이다. 그들의 신경은 꼬집어떼어도 통감을 아니 가질만치 그가티 완전히 마비되고 말앗다, 그들은 그런 류의 자극제로서는 도저히 현대문화생활의 만족을 (10행 略-원문)</paragraph>
+					<paragraph> 조선인의 언론기관은 문자가티 xx마랏다. 朝鮮日報는 이날까지도 끈임업는 紛糾의 와중에서 『被檢告發裁判』 등등 여러 가지 추태를 연출하면서 상말로 하자면 개싸홈가튼 싸홈을 거듭하고 잇다. 誰是孰非를 말할 것이 업다. 朝鮮日報는 임이 시회적으로 그의 권위와 신망을＜36＞ 타락식히고 그의 과거의 존재 가치를 완전히 소멸식히고 마랏다. 우리는 오즉 그의 죽엄을 슬퍼할 뿐이다. 中央日報는 아즉 것 갱생의 曙光이 眇然한 모양이다. 그러타고 오즉 한아 東亞日報는 그 스스로가 조선 신문계의 覇權을 자부하면서 오즉 합리화된 상품제조에만 급급할 뿐이다. 그리고 수십 종의 잡지 출판물은 우리의 생활의식과는 어지간한 거리를 가지고 잇는 것만이 오즉 그의 시원치도 아니한 풍전등화가튼 생명을 이어나갈 뿐이다.</paragraph>
+					<paragraph> 조선인의 일체의 XX는 굿게 핸드캅되고 마랏다. 우리들은 교회의 써몬이나 무녀의 狂言이나 遊女의 신세타령이나 그리고 또 저들의 파쇼 軍號이외에는 아모런 생기잇는 말과 미덤잇는 교훈을 들어볼 수 업다.</paragraph>
+					<paragraph> 침체! 정돈! 萎縮! 조선인의 사회는 임이 이러한 계급도 밟아넘엇다.</paragraph>
+					<paragraph> 생의 권태의 난무이다. 그러나 여긔까지는 너무도 필자의 신경과민이 아닐가. 비관론자의 병적 관찰이 아닐가. 갑싼 감상주의의 무용한 한탄이 아닌가.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 그러나 이는 결코 현실을 무시한 사대주의의 망론이 아니다. 허위가 아니다. 데마가 아니다. 우리는 여실히 이러한 눈물겨운 분위기 손에서 호흡을 마서가면서 그날 그날의 생을 이어 나가는 것이다. 그러타. 그러면 우리는 과연 엇더한 포부와 결심과 용기로써 이러한 국면에 임하여야 될 것인가.</paragraph>
+					<paragraph> 필자는 특히 조선의 신여성-현대 교육을 바든 지식계급 女性群에게 부르지즌다. 그대들은 좀 더 명확하게 조선의 현실을 인식하고 비판하고 그의 필연적 결과로서의 그대들에게 부과된 역사적 과제를 그대들의 독특한 사회적 입장에서 과단이 수행하라고.</paragraph>
+					<paragraph> 전반적 해방운동은 性의 구별을 불문하나 반듯이 그들의 공통된 이익을 위하야서의 보다 강대한 의식적 결합을 요구한다. 우리는 양보다 질을 그리고 또 허위에서 진실을 포착하여야한다. 우리는 일체의 거짓된 기분과 이른바 현대류의 浮華輕薄한 물질문명을 배격하여야 한다.</paragraph>
+					<paragraph> 우리들은 그와가티 여름철을 당하면 힌구쓰를 아니신어도 조코 배암껍질가튼 이상야릇한 스커트를 아니입어도 좃타. 그리고 밤이면 밤 낫이면 낫으로 이른바 홈메드 양키부부가 되여서 전 경성이 좁다고 휘돌아 단일 필요가 업다. 무지한 농촌의 부녀와 도시의 하층 『어멈』들은 모다 그대들의 충실한 벗이요 그대들의 지도를 바라는 분산된 군중이다. 그대들은 사회인인 동시에 『어머니』로서의 가정인 된 의무를 이저서는 아니된다.</paragraph>
+					<paragraph> (侫筆多謝)＜37＞</paragraph>
+					<paragraph> ＜36-37＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>世界女流作家 半生記 오-스트리아篇, 소설 = 『그랜드·호텔』의 著作者 뵈이쓰키바움 女史</mainTitle>
+						<alternative lang="kor">세계녀류작가 반생기 오-스트리아편, 소설 = 『그랜드·호텔』의 저작자 뵈이쓰키바움 녀사</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>崔露砂</name>
+							<name lang="kor">최로사</name>
+						</author>
+					</creator>
+					<subjectClass code="ma10" scheme="madoc">문예평론</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0046" end="ma_019_0010_0048"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">世界女流作家 半生記 오-스트리아篇, 소설 = 『그랜드·호텔』의 著作者 뵈이쓰키바움 女史 (세계녀류작가 반생기 오-스트리아편, 소설 = 『그랜드·호텔』의 저작자 뵈이쓰키바움 녀사)</pTitle>
+						<name role="필자">崔露砂</name>
+					</paragraph>
+					<paragraph> 뷔이쓰키·바움 여사가 세계적으로 일홈을 날니게 되기는 소설 그랜드·호텔을＜38＞ 쓰고 나서 부터여섯다.</paragraph>
+					<paragraph> 그는 오-스타리아 수도 뷘-나에서 탄생하엿다. 그에게 나희가 몃 살인가고 물으면 그는 언제나 이럿케 말한다.</paragraph>
+					<paragraph> 「나는 내 나희를 말하고 십지 안슴니다. 여러분이 너무도 알고 십허 하기 때문에요.</paragraph>
+					<paragraph> 그러나 이것만은 말해 두겟슴니다. 내가 나든 해가 즉 황제 푸란쓰·요셉 폐하가 세상에 강림하시든 해인 것을요! 그 때의 뷔-ㄴ 도시는 지금처럼 쓸쓸한 한숨 만코 눈물 만흔 도시가 안이엿슴니다.」하고만 이약이할 뿐이고 두 번재 입을 떼지 안슴니다.</paragraph>
+					<paragraph> 어린 때- 문예보다 음악을 즐기엿다. 물론 음악에 대한 소질도 잇섯겟지만 그 祖父와 또 어머니가 음악에 대단한 취미를 가지고 잇섯기 때문이라고 한다. 몹시 로맨틱해서 때때로 洋琴줄 우에 손을 날니고 잇다가는 끗업는 공상에 파무처서 흐륵흐륵 늣겨 우는 때도 잇섯다고.</paragraph>
+					<paragraph> 여덜쌀 적부터 벌서 가삼에 끌어으르는 공상을 노래로 시로 읇흘 줄 알엇다.</paragraph>
+					<paragraph> 14, 5歲時의 그는 한 사람 완전한 음악가로서 여기저기에 개최되는 음악회에 출연하게 되엿다.</paragraph>
+					<paragraph> 세월이 가서 그는 벌서 이성을 알게까지 되엿다. 누가 가라처 주지 안어도 자기 선생을 상대로 하야 연문을 몃 장이나 썻단다. 그러나 그 것을 선생안태까지 보낼 만한 용기는 가지지 못햇든 것이다.</paragraph>
+					<paragraph> 뷔이쓰키·바음은 극장에 드러갓섯다만은 그 곳에 오래 머믈지 안코 곳 그만두게 되엿단다.</paragraph>
+					<paragraph> 그런데 여기서 한 마듸 말해둘 것은 뷔이쓰키·바움 여사의 현재 남편은 그 당시에 한 극장에서 일하든 사람이라는 것이다. 그 당시의 현재 남편은 그곳에서 심부럼할 뿐이엿섯다.＜39＞</paragraph>
+					<paragraph> 그는 또 다시 엇든 가극단에 드러가섯다. 거기서 깁흔 뜻도 업시 엇던 남자와 결혼하게 되엿는데 그 남자는 뽀헤미아인으로 소설을 쓰고 잇섯다. 3년 간 그&#153;&#128; 同棲생활 하다가 중도에 서로 떠러지게 되엿섯다.</paragraph>
+					<paragraph> 결혼 생활에서 탈출한 뷔이쓰키는 뷔-ㄴ에 도시를 떠나서 다룸스탓트에 이르러 또 가극단에 드러갓는데 이번에는 악대원으로서 드러가계 되엿다. 그런데 여기서 놀날만한 이약이는 그 악대지휘장이 녯날 3년 전에 뷔-ㄴ 가극단에서 알엇든 청년- 현재 남편이엿다는 것이다.</paragraph>
+					<paragraph> 얼마나 이상한 해후이랴?</paragraph>
+					<paragraph> 그들은 친해서 동무가 되고 연인이 되고 또 부부가 되엿섯다.</paragraph>
+					<paragraph> 때 마츰 구주대전이 니러나는 때임으로 그들은 퍽으나 비참한 생활을 게속하게 되엿다. 그는 곳 劇界를 떠나서 창작에만 전력햇섯다. 거기에 훈련업섯든 그는 모조리 다- 조흔 작품을 쓸 수가 업섯다. 그는 만히 썻다가도 불에 집어넛는 것이 상례엿다. 하로는 불에 사르든 중 2, 3편를 남겨 두엇더니 동모가 읽고 보고 하도 좃타고 가지고 가서 엇던 서점과 출판하기로 약속햇섯다. 그것이 즉 여사의 處女集이엿다.</paragraph>
+					<paragraph> 그를 세계적 여류작가로 만드러 노흔 그랜드 호텔의 재료도 대부분은 그 處女集에서 취해 낸 것이란다. 「그랜드·호텔」은 그가 伯林에서 8개년간 고생하든 경험을 주제로 한 것이다. 그는 부리쓰톨·호텔에 하녀로 잇으면서 호텔에 투숙하는 손님들을 주의하야 관찰해보니 여러 가지로 인생관이 달느게 상상되엿섯다고 엇잿든 3년간 재료를 모아가지고 3주일간 내로 그랜드·호텔을 완성햇섯다.</paragraph>
+					<paragraph> 그것이 곳 脚本이 되여서 무대에 상연하게 되자 세상의 평을 말할 수 업시 좃왓섯다.(끗) ＜40＞</paragraph>
+					<paragraph> ＜38-40＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>世界名作(1) 카쥬-사</mainTitle>
+						<alternative lang="kor">세계명작(1) 카쥬-사</alternative>
+					</title>
+					<subjectClass code="ma12" scheme="madoc">소설</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0046" end="ma_019_0010_0048"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">世界名作(1) 카쥬-사 (세계명작(1) 카쥬-사)</pTitle>
+					</paragraph>
+					<paragraph> 카쥬-사는 가난한 농로(農奴)의 딸로 아버지업는 아히다. 그네들의 습관으로 소리업시 죽어버릴 아해로되 녀주인의 은공으로 목숨을 구하여 열여섯살까지 자라낫다. 그 때 녀주인의 족하로 공작인 네루톱이 녀름 방학을 아주머니 집에서 지내려고 이 마을에 왓다.</paragraph>
+					<paragraph> 가주-사는 곳 이 청년 공작과 연애하는 사이가 되엇다. 하로는 숨길 내기하는 대 숩풀 속에서 우연히 둘이 맛나 킷쓰한 것이 첫사랑의 시초엇다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 그 뒤 삼년 후 그 때 진순하든 청년은 학교를 나와 군대에 지원하여 휼용한 청년장교가 되엇다.</paragraph>
+					<paragraph> 공작은 얼골이 잘생기고 풍채가 훌용하엿슴으로 음탕한 상류사교게에서 환영을 밧엇다. 그래서 그는 타락생활을 하다가 네루톱은 전쟁에 나갈 차로 그 아지머니 집에 들넛다. 그 때 가쥬사는 붓그럽고 가슴이 떨니면서도 반가히 공작을 뵈엇다. 네루-톱이 이톨사이를 그 집에서 묵는 사이에 가쥬-사를 사모하는 마음은 더욱 열열하엿다. 그래서 부활제 날 밤에 끗끗내 네루톱은 가쥬-사의＜38＞ 깨끗한 몸을 범하고 말엇다. 갓쥬-사는 이미 처녀가 아니엇다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 그 이튼날 네류톱은 군대로 도라가면서 가쥬-사 손에 백원짜리 지페를 쥐어주엇다. 그리면서 흔히 세상에 잇는 일울 하엿거니하고 스사로 자긔 번명을 하면서-한편 갓쥬-사는 그 때문에 아해를 가젓다. 그래서 공작이 도라오기를 기다럿다. 그러나 영영 오지 안엇다. 가쥬-사는 벌서 넷날의 가쥬-사가 아니엇다. 아해를 나아서 양육원(養育院)에 맛기고 저는 할 수 업시 어두운 생활하는 녀자가 되엇다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 몃 해가 지낫다. 네루톱은 어머니가 죽엇슴으로 유산까지 상속밧고 그러고 엇든 공작의 따님과 혼약까지 성립되엇다. 이러한 때에 그는 배심원(陪審員)으로 임명되여 오늘 법정에 나갓다. 거기에는 손님을 독살(毒殺)하엿다는 죄명으로 가쥬-사가 잡히어 와섯다. 네루톱은 거기에서 비로소 십년 전에 자기가 한 행위를 크게 뉘우첫다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 재판의 결과 애매한 가쥬-사는 사년 징역이 되여 서백리아로 류형(流刑)이 되엇다. 내류톱은 이 일에 랑심상 큰 가책을 밧엇다. 술, 게집, 간통등 타락의 굴영에서 그는 큰 충동을 밧어 새사람이 되려고 결심하엇다.＜39＞</paragraph>
+					<paragraph> 그는 토지를 농민들에게 분배하여 주엇다. 그리고는 갓쥬-사와 결혼하려고 결심하엿다. 가쥬-사가 서백리아로 정배갈지라도 따라가서 결혼하려고 하엿다. 그는 감옥에서 가쥬-사를 면회 하엿스나 거기에는 발서 넷날의 가쥬사는 업고 오직 매음부가 잇섯슬 뿐이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 내루톱의 모든 운동이 효과도 업시 가쥬-사는 끗끗내 서백리아로 류형되엇다. 오백명에 각가운 국사법(國事犯)과 형사수(刑事囚)들이 무장한 옥리(獄吏)에게 끄을니어 저 먼 눈서리 찬 서백리아로 떠낫다. 두시간 뒤에 내루톱도 그 일행의 뒤를 따라 긔차를 탓다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 그러나 가쥬-사는 가튼 일행 중에 잇는 국사법「시은손」과 결혼하여 버리엇다. 내루톱은 모든 일이 이리되자 오히려 도로혀 용긔가 낫다. 그래서 이 사회의 죄악을 뿌리 빼고저 새로히 활동할 용긔를 어덧다. 그는 농민의 무지(農民無智) 하급관리(下級官吏)의 비굴 귀족의 안일한 생활 등 모든 부피한 사회의 가면을 곳치려고 감연히 이러섯다.</paragraph>
+					<paragraph> 가쥬-사을 위하여 부르든 노래로 마치자.</paragraph>
+					<paragraph> 가쥬-사 내 사랑아 이 리별을 어이해. ＜40＞</paragraph>
+					<paragraph> ＜38-40＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>麗人隨筆</mainTitle>
+						<alternative lang="kor">려인수필</alternative>
+					</title>
+					<subjectClass code="ma14" scheme="madoc">문예기타</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0049" end="ma_019_0010_0053"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">麗人隨筆 (려인수필)</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>滿足</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">金慈惠</index>
+					</paragraph>
+					<paragraph> 서울 구경하러 올나온 열살 난 동생이 사흘재 되는 날 돈 삼십전만 달나고 한다. 무엇에 쓰는 줄도 몰낫다가 저녁에 드러가니 동생은 불도 안컨 빈 건는방에 업듸려서 열심으로 무엇인지 읽는다. 뒤로 가마니 가서 보니까 무슨 잡지 세 권을 사다가 (나종에 드르니까 헌책사에서 십전짜리 少年俱樂部를 사왓다고) 너머 깁버서 엇절줄을 몰으고 읽는다. 밤에 자다 깨보니 동생은 그 귀한 헌 책 세 권을 가즈런히 베고 잔다. 제 딴에는 서울와서 산 책 세 권이 엄청나게 귀하고 만족인 모양이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 얼마전 동무G가 치마감 끈흐러 가자기에 P상회에 가서 8원짜리 크렙치마감을 끈어왓다. 몃 칠 후에 길에서 얌전하게 잡어서 치마를 해 입고 단이는 것을 보앗다. 한 달인가 후에 다시 G집에를 갓드니 그 8원짜리 치마는 못에 걸여서 촐촐이 더럽만 타고 잇다. 웨 안입느냐고 물엇드니</paragraph>
+					<paragraph> 「빗이 틀넛서! 처음 살 때는 조흔 것 갓트니 사람 만흔 데 입고 나가보니까 하모니가 잘 안되여서 다른 치마감을 골넛지만 맘에 드는 것이 업구면!」</paragraph>
+					<paragraph> 두 대조! 십전짜리 헌 잡지 세 권에 만족을 늣기는 아름다운 마음 깨끗하고 귀여운 행복과 8원짜리 치마 한 감을 헌신짝가치 역이고 불만을 늣기는 불평 주머니의 현대여성의 얄미운 마음을 비교해 보고 나는 빙긋이 웃엇다. 어지 그 녀자 뿐이랴! G가 가진 마음은 도시의 페이보면트를 지니는 이들이 다! 가젓슬 것이다.</paragraph>
+					<paragraph> 만족! 만족이 오는 곳이 반듯이 물질이나 문명에서가 안이다. 도시 중독증에 걸닌 현대인들은 만족을 차즈러 도시로만 모혀든다. 그러나 결국 찬란한 물질, 문명 눈이 부시는 문화생활들이 주는 것은 오직 불만, 불평, 염증, 허무뿐인 줄을 알지 못한다.</paragraph>
+					<paragraph> 「시골구석에서 나서 방아나 찟고 김이나 매다가 시집가서 두루뭉수리로 살다가 죽는 것이 제일 행복일거야.」</paragraph>
+					<paragraph> 나는 동창생들의 말이 생각이 낫다.</paragraph>
+					<paragraph> 깨끗한 행복-아담스런 만족에서 살고 십다. 내가 가진 모든 것을 다! 내여주고라도 맑은 행복과 만족에 싸히고십다.</paragraph>
+					<paragraph> 공자의 「一簞食, 一瓢飮, 曲肱而寢之, 樂亦在其中」이란 철학을 나도 가지고 십다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>내 리상하는 쓰웟 홈</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">張德祚</index>
+					</paragraph>
+					<paragraph> 「내가 어떤 가정을 바래고 잇소!」</paragraph>
+					<paragraph> 잠ㅅ걸에 사투리까지 굴러나오면서 머리를 조아리고 잇스랴니 건너편 책상 P씨가 보기에도 딱하든지</paragraph>
+					<paragraph> 「거짓말하시면 되나요? 얼는 하면 꺼내시는 『대답』과 『솔직』을 이런 기회에 한 번 리용해 보시지요.」 하면서 우슴인지 조롱인지 코끗흘 한 번 찡끗해 보인다. 그의 충고가 무슨 나의 오장륙부에 숨여든 것은 아니지만 사실 승락의 말슴까지 드린 일을 「미꾸라지」아닌 사람으로 그러케 살짝 빠저 달아 날 수도 업는 일이라 단연(?) 결심하엿다.</paragraph>
+					<paragraph> 그러나 아무리「솔직하게 대답하게」고백을 한데도 이것이야말로 무슨 큰 들은 보람이 잇슬 것 갓지 안타. 가령 자기 부모의 집을 뛰어나와 게급투쟁의 실제 운동에 참가한다든지 혹은 큼파니에트 메레-지의 실행에 착수햇다든지 하는 것이라면 고백을 하건 성명을 하건 얼마간은 제삼자의 흥미를 도들 수 잇슬 것인데 남의 처녀 색시에게 「리상의 스윗홈」을 쓰라는 것은 결국 엉터리박게 더 안될 것이다. -이러고 보니 사실 어떠케 해서든지 면해 나려는 수작인가?</paragraph>
+					<paragraph> 야- 영애 『하-ㅁ』이 업서젓서-』</paragraph>
+					<paragraph> 부엌에서 그의 처음 뻬쓰가 왼 집안에 울리럿다.</paragraph>
+					<paragraph> 「함이 업거던 샌드윗치를 만들려무나-그들은 아주 산중의 외딴 집 모양으로 소리소리 지르면서 오늘의 일은 정기 『픽닉』의 준비에 열심히엇다. 얼마 후-</paragraph>
+					<paragraph> 그들은 소학생 둘의 원족처럼 큰 소리로 노래하면서 한강 상류-＜43＞ 산보하는 사람도 업는 풀밧헤 책보를 깔아노코 가지고 온 음식을 먹엇다. 어데서인지 들려오는 새소리들이 두 사람의 마음을 끗업시 애상적으로 허트러 노왓다.</paragraph>
+					<paragraph> 「결혼은 련애의 무덤! 이란 말을 하는 자야 똥이나 실컨 먹어라-」 그들은 생각하는 것이엿다.</paragraph>
+					<paragraph> 그들의 집은 어젓한의 거리가 잇는 것도 아니요 훌늉한 장롱이 잇는 것도 아니요-첫재 그 귀찬은 결혼식을 한 것이 아니엿스니까-화로도 솟도 그릇도 하나 업는 신가정 그러나 그들의 밝은 감정과 삼감업는 노래가 집 안에 차고 잇다.</paragraph>
+					<paragraph> 남편 그는 조고만 월급쟁이 임으로 그들의 생활도 조고마코 가난한 그리고 집안에 살림이라곤 하나 업는 것이엿다. 찌저진 미닫이는 「크라라」나 「난시」 그리고 「짜넷트」「에스타-」등의 아름다운 우슴띄운 얼골이 이것을 가리워 주며 게란 하나 『뻐터』 칠한 빵 한 조각이 진수성찬을 대신한다.</paragraph>
+					<paragraph> 다만 한 개의 접시-이 것이 전 재산이다. 두 간 방이 맛붓터 잇는 집안에는 소제도 3분이면 넉넉하고 저금도 업는 대신 빗도 업다. 도적마즐 걱정도 업는 대신 생활을 위한 안타까운 한숨도 일체의 침침한 불유쾌한 그늘도 업다.</paragraph>
+					<paragraph> 명랑! 그리고 쾌활한 그들의 스윗, 홈-</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 제풀에 조와저서 억개춤까지 추엇는지(그 것은 모르거니와) 단숨에 여기까지 갈기고 보니 누구말맛다나 「우리 다와쉬취」들께서 보시엇다가는 「인식부족」이라고 팔자 업는 뺨 한 개 더 도라올찌 모르겟다. 그러나  것은-맛기 실흔 변명이 아니라. 아까 말한 「엉터리」고 내가 장차 「영애」가 될 념려(?)는 절대로 업스니까...</paragraph>
+					<paragraph> 그러타고 또 무슨 철저한 독신주의가 아닌 「처녀」 나에게는 이런 생활이 피곤한 날 꿈자리에 어쪄다가 차자오는 일까지야 업다는 것은 아니란 말이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>어머니된 感想</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">崔承喜</index>
+					</paragraph>
+					<paragraph> 「첫 어머니 된 감상」이요? 글세올시다.</paragraph>
+					<paragraph> 살틀하신 어머니 무릅 아래서 철업시 날뛰든 때가 어제갓치＜44＞ 생각되는데 어느듯 벌서 남의 안해가 되고 또 어머니가 되엿다고 생각하니 꿈갓기도 함니다.</paragraph>
+					<paragraph> 「어머니란 그 말이 나 안태는 너무나 녯 이약이갓치 인연이 머-ㄴ 것 갓드니 지금은 「어머니」란 그 명사가 나에게도 붓고 말엇슴니다.</paragraph>
+					<paragraph> 어린애를 안고 안저서 물끄럼이 듸레다 보면 하로 잇흘 달너저 가는 것이 귀여워서 애착을 늣기게 되기는 함니다 만은 밤잠도 못 자게 빽빽 울 때라든가 또 맘대로 외출도 못하게 되는 때는 귀치안타고만 생각됨니다.</paragraph>
+					<paragraph> 어런애 낫코 어적께 처음으로 외출햇는데 밧게 나가서는 온 정신이 어린애안태 잇게 되겟지요. 길에 걸으면서도 우지나 안는가 하는 생각만 가지게 되엿스며 어듸서 갓난애 우름소리가 들니면 죄다- 집에 애 소리 갓해서 정신이 산란햇슴니다.</paragraph>
+					<paragraph> 어린애 우는 것이 가엽기도 하겟지만 더구나 미안하기는 싀댁에서 분주하게 되면 엇질가 해서요.</paragraph>
+					<paragraph> 엇잿든 귓치안은 존재이지요. 더구나 우리는 아직 나희 어리고 또 각각 할 일이 엇는 것만큼 더 한 층 귓치안타고 힘잇게 늣기는 때도 잇서짐니다. 사실 이 가을에 동경 가서 그이는 남은 露語科를 마처앗치고 나는 舞踊을 할여고 햇는데 어린것이 너무 어리고 또 내 몸도 全快되지 못한 듯 십허서 못 가고 내년 봄으로 미루고 잇슴니다.</paragraph>
+					<paragraph> 그러타고 어린애 때문에 모-든 푸란이 어그러지리라고는 생각지 안슴니다.</paragraph>
+					<paragraph> 세상 사람들은 내가 결혼할 때부터 「인제 舞踊은 집어치우자.」 「그만두는 게 낫지.」 「여자는 싀집가면 그만이야」 등의 가지가지 말성이 만히 떠돌앗다는데 지금 어린애까지 나엇스니 인제는 정말 무용은 다-햇다고 생각할는지 물으겟슴니다만은 결코 어린애 때문에 그만두겟다는 생각을 가지지 안슴니다. 물론 조고만한 支障이 잇스리라는 것은 예측하고 엇슴니다.</paragraph>
+					<paragraph> 우리의 목적울 하로 밧비 달하자면 (勝子)가 하로밧시 얼는 자라야겟지요. 그럼으로 나는 쳘도 안든 갓난애를 하로에도 몃 번식 듸레다 보면서 어서 커달나고 부탁임니다.</paragraph>
+					<paragraph> 벌서 처음 날 적보다 차츰 사람의 허울을 써감니다. 四週日지나스닛까요.</paragraph>
+					<paragraph> 늙으신 부모님께서들은 女子라고 좀 섭섭해 하시는지 몰으겟슴니다만은 우리는 거기 대해서만은 조곰도 섭섭한 관념을 갓지 안슴니다. 그래서 나는 어린개 일홈을 勝子라고 지엇습니다. 男子보다 낫다고요.＜45＞</paragraph>
+					<paragraph> ＜41-45＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>歌劇團女王의 死 쩌른 그의 哀史</mainTitle>
+						<alternative lang="kor">가극단녀왕의 사 쩌른 그의 애사</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>李瑞求</name>
+							<name lang="kor">이서구</name>
+						</author>
+					</creator>
+					<subjectClass code="ma04" scheme="madoc">소식</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0054" end="ma_019_0010_0055"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">歌劇團女王의 死 쩌른 그의 哀史 (가극단녀왕의 사 쩌른 그의 애사)</pTitle>
+						<name role="필자">李瑞求</name>
+					</paragraph>
+					<paragraph> 1932년 9월 5일 下午 10시</paragraph>
+					<paragraph> 들국화의 청처한 꼿가지가 가을바람에 가련하게 흔들닐 때 우리는 압길이 만리가튼 「스타-」를 한 사람 이러바렷슴니다.</paragraph>
+					<paragraph>
+						<index type="이름">權三川</index>이가 죽엇다.</paragraph>
+					<paragraph> 얼마나 세상을 놀냇슴니가. 그 함박꼿갓치 풍연튼 자최 그 애교가 넘치든 음성! 우리는 다시 두 번 그의 화려한 무대를 대할 행복을 이럿슴니다. 이십일세 꼿가튼 나에 세상에도 애달분 페병에 사로잡혀 원통하고 애석한 청춘을 무덤자리로 옴겨간 그의 반생은 너모나 짤벗스며 너모나 눈물겨웟슴니다.</paragraph>
+					<paragraph>
+						<index type="이름">權三川</index>양은 임의 세상이 다 아는 바와 갓치 조선에는 한 낫 밧게 업는 삼천가극단의 녀왕이엇슴니다. 열살 되든 해 봄에 그리운 엄마의 품을 떠나 경도에 잇는 소녀 가극단 「영란좌」에 몸을 부처 그는 전후 칠개성상을 남의 곳 눈선 땅에 말못할 거름과 견대기 어려운 고초를 무던히 참고 형설의 공을 닥가.</paragraph>
+					<paragraph> 인제는 고국에 도라가서 능히 한 사람 목을 할 수 잇다는 선생의 허락을 밧고 십칠세 되는 해 가을에 고토에 도라와 오늘까지 오페라와 레뷰를 위하야 애를 써온 공로는 참으로 크다고 생각할 수도 잇섯슴니다. 녯 고향을 밋고 그리며 경성에 도라온 <index type="이름">권삼천</index>에게는 오직 적료와 실망이 잇섯슬 뿐이올시다. 무대에서 일생을 맛치랴면 배도 곱하야 하고 눈물도 흘녀야 하겟다는 비장한 결심이 업슬 수 업섯슴니다.</paragraph>
+					<paragraph> 그리하야 그는 제일착으로 조선극장 즉속레뷰-단에 가담하야 신인 지도와 무대 연출에 공현하얏스며 레뷰-단의 해산을 따라 자긔의 혼자 힘으로 <index type="단체">금성오페라단</index> 이라는 가극레뷰-단을 조직하야 스사로 단장이 되든 그 뜻은 가상하고 그 용력은＜46＞ 놀나올만 하얏슴니다. 시내 우미관에서 첫 공연을 맛치고 그는 지방순회의 길을 떠낫슴니다. 불행히 대구에서 내용이 불온한 각본을 상연하얏다는 리유로 단체의 해산을 당하니 그는 하는 수 업시 다시 자긔의 일홈을 삼천(三川) 이라고 곳치는 동시에 단체의 일홈도 <index type="단체">삼천가극단</index>이라고 곳처서 오늘에까지 이르럿든 것임니다. 꼿가튼 처녀 부드러운 성격의 주인인 <index type="이름">권삼천</index>에게는 이 모든 고란과 박해를 능이 물니칠 건강이 잇섯슬가. 그는 한 가지 파란과 한 가지 마음고생을 견듸어 참을 때마다 그의 건강은 날노 좀먹어 드러가고야 마랏슴니다. 원래가 풍연한 육체의 소유자이라 그래도 설마 페병에야 걸녓스랴 하얏섯슴니다. 그려나 사실은 어대까지든지 사실이엇슴니다. 작년 오월 스무날이엇슴니다. 삼천 가극단이 충주(忠州)에서 공연을 할 때 <index type="이름">권삼천</index>양은 「경성행진곡」의 주인공이 되야 남자 분장을 하고 무대에 나서서 연극을 무사히 마첫슴니다. 그리고 그 이튼날 (조치원)을 향하야 떠나랴 할 때 관객을 투서 한 장이 드러왓슴니다.</paragraph>
+					<paragraph>
+						<index type="이름">권삼천</index>양의 연극은 자미잇게 보왓슴니다. 그러나 연극을 하다가 가-금 기침을 하는데 그 기침 소리와 하는 태도가 수상하니 한 번 진찰을 밧아 보시는게 좃겟슴니다. 조선의 극게를 위하야 압흐로 큰 힘이 될 <index type="이름">권삼천</index>양의 건강을 위하야 한 말슴함니다.</paragraph>
+					<paragraph> 투서 한 사람은 무명씨이라 누고인지 몰으나 엇잿든 걱정이 됨으로 조치원에 도착하는 길로 의사의 진단을 맛핫드니 과연</paragraph>
+					<paragraph> 「페병제일긔」라는 선고를 밧앗슴니다. 그 즉시로 경성에 올나와 혹은 입원도 하고 혹은 전지료양도 하얏스나 약석이 무효하야 초승달이 구름 속에 눈물지울 때 그는 입정정 261번지 엄마의 품에 안겨 너모나 너모나 원통한 력사의 페-지를 덥허 바리고 마랏슴니다.</paragraph>
+					<paragraph> 조선에 태어난 사람이 누가 박영치 안으랴 그는 극단의 유지의 눈물과 악사들의 서름을 다하야 아레우는 애별곡에 싸혀서 새절화장장의 한 줄기 연긔로 화하야 하늘 놉히 사라지고 마랏슴니다.(끗)＜47＞</paragraph>
+					<paragraph> ＜46-47＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>車中所見, 北方旅行의 에피소-드</mainTitle>
+						<alternative lang="kor">거중소견, 북방려행의 에피소-드</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>兪鎭午</name>
+							<name lang="kor">유진오</name>
+						</author>
+					</creator>
+					<subjectClass code="ma05" scheme="madoc">기행문</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0056" end="ma_019_0010_0060"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">車中所見, 北方旅行의 에피소-드 (거중소견, 북방려행의 에피소-드)</pTitle>
+						<name role="필자">兪鎭午</name>
+					</paragraph>
+					<paragraph> 내가 關北地方을 가보고 십허 한 지는 벌서 오래다, 산 깁고 파도 험하고 물 맑은 關北 거대한 資本投下地로서 대규모의 공장과 광산이 해마다 느러가는 關北, 노동자의 巨群이 大海의 물결가치 밀니는 關北, 여인네가 사내가치 활발하고 사내가치 일한다는 關北, 여러 가지로, 駿馬가튼 意氣를 엿볼 수 잇는 절문이들의 關北-이 關北의 푸로필이 나에게는 몹시도 그리웟든 것이다.</paragraph>
+					<paragraph> 이번 夏休에는 기어코 갓다오랴든 것이 이 일 저 일에 妨害되여 어느듯 8월도 하순이 되어 이번에도 또 여러 해의 宿望을 이루지 못하는가 하엿다. 그리든 길에 맛침 寸暇를 어둘 수 잇게 되엇다. 만사를 제치고 나는 關北旅行의 길을 나섯다. 走馬看山이고 무엇이고 간에 엇잿든 關北의 풍물을 瞥見하자는 것이다.</paragraph>
+					<paragraph> 아흐래 동안의 여행에서 본 關北 풍물-유명한 文坪의 석유탕크를 비롯하야 흥남의 窒素肥料會社 대규모의 築港工事로 뒤잡어 업고 잇는 청진항, 吉州서 惠山鎭으로 壘壘한 큰산을 박차고 들어가는 森林철도의 精力的인 식컴언 레-일, 長汀曲浦에 點綴하는 황량한 어촌에까지 빗나고 잇는 전등-모든 것이 나의 예상을 數倍나 초월하는 驚異的의 것이엇다 약동하는 거대한 蛟龍! 이것이 내가 처음 보는 關北지방으로부터 박든 인상이엇다. 이 蛟龍의 躍動은 무심한 一時의 여행자의 가슴까지도 고동케 하고야 마는 것이엇다.</paragraph>
+					<paragraph> 그러나 이곳에는 이 모든 감격적 광경을 다 제처 노코-그 것을 모다 기록하자면 필요 이상으로 길어지겟스니-떠나는 날 차 속에서 본 조그마한 사건- ＜48＞ 싱겁다면 극히 싱거운 사건을 하나 소개하고 그만두랴 한다.</paragraph>
+					<paragraph> 8월 27일 여름도 다 간 이 철의 京咸線 찻 속은 쓸쓸하기 짝이 업다. 몃칠째 오락가락하든 비는 이 날도 개이지 아니하야 묵어운 구름이 하늘을 내리 덥고 안개가치 흐리는 가을비가 소리도 업시 차창을 때리고 잇섯다. 차가 한강을 끼도 돌 때 나는 바로 철도ㅅ둑밋까지 밀려 드러온 붉게 흐린 강물을 무심코 내다보고 잇섯다.</paragraph>
+					<paragraph> 마즌 편 좌석에는 스물 대 여섯 되여 보이는 절문 여인이 혼자서 역시 나모양으로 차 창 박글 내여다 보고 안젓다. 둥근 얼골 똥똥한 체격 어글어글한 눈 金으로 둘네한 니 인조견 치마 저고리 미인이라면 미인이나 그의 화장 其他로 보아 엇재 보통 사람은 아닌 것 갓허 보엿다.</paragraph>
+					<paragraph> 우리가 안저 잇는 저편 「뽁스」에는 악가 龍山서 탄 절문 日女 세 사람이 난잡하게 허트리고 안저 귀가 아푸게 떠들고 잇다. 비속한 유행가를 함부르 부르고 잇는 것이라든지 그들의 엽헤 그들을 인솔하고 가는 귀신가튼 노파가 직히고 안젓는 것이라든지 그들이 그 노파에게 인솔되여 어듸로인지 가는 여급의 一團이라는 것을 단번에 짐작되엇다. 그들의 말하는 것으로 보아서는 大阪 여자들인 것이 분명하다. 필경 大阪서 관북지방의 어느 「카페-」로 팔여가는 娘子軍의 一隊임에 틀님이 업다. 娼妓로는 天草지만 여급으로는 大阪이 「本場」이라 한다.</paragraph>
+					<paragraph> 비나리는 한강 西氷庫의 포푸라 숩이 한 폭의 수묵화 갓다. 주인업는 배가 저 혼자 쥴넝츌넝 강기슭에 매달여 잇다. 차창을 치는 소리도 업는 가을비 女給軍의 狼籍와는 대체 별세계다.</paragraph>
+					<paragraph> 「鏡城가시오? 이 차가 洗浦에 몃 시에 다음닛가?」</paragraph>
+					<paragraph> 별안간 마즘 편에 안즌 여자가 뭇는다. 나는 넘무나 의외에</paragraph>
+					<paragraph> 「네- 洗浦요.」</paragraph>
+					<paragraph> 하고 차창으로부터 고개를 돌니며 두 시 반 가량 해 닷지요.</paragraph>
+					<paragraph> 「네-」</paragraph>
+					<paragraph> 여자는 애교잇게 빙끗 우스며 고개를 끄덱끄덱하고 담배를 피어 물고 다시 창 밝을 내어다 보기 시작하엿다. 그러나 나는 그가 엇지해 내가 鏡城 가는 것을 알고 잇는지 퍽이나 궁금하엿다, 한참이나 주저하다가.</paragraph>
+					<paragraph> 「내가 鏡城가는 것은 엇더케 아심닛가?」</paragraph>
+					<paragraph> 「엇더케요?」하고 그는 작난군 갓치 싱끗 웃으며 「악가 정거장에서 친구 양반하고 이야기하시는 것을 들엇지요.」</paragraph>
+					<paragraph> 그리고 보닛가 악가 그가 정거장 대합실에서 나와 兩君이 이야기하는 엽헤 안젓든 것이 생각낫다. 알고 보니＜49＞ 퍽으나 싱거웟스나 하여간 이 것이 시작이 되여 그와 나와는 마침 다른 아는 사람도 업서 심심하든 터이라 이야기를 주고 밧고 하게 되엇다.</paragraph>
+					<paragraph> 그는 능난한 말솜씨로 내가 뭇지 안는 말까지도 더벅더벅 대답하엿다. 그의 말에 의하면- 그의 일홈은 <index type="이름">정한숙</index>이라 하엿다.- 그는 유명한 H판서의 손자와 살엇섯는데 그의 남편은 금년 4월에 스물 세 살의 젊은 나히로 요절햇다는 것이엇다.</paragraph>
+					<paragraph> 「스물 세 살요?」</paragraph>
+					<paragraph> 하고 내가 되뭇는 말에</paragraph>
+					<paragraph> 「네 저보다도 서방님이 나히가 어럿세요.」</paragraph>
+					<paragraph> 그는 단번에 내가 뭇는 뜻을 안 것 갓치 이럿케 대답하고서 그의 이약이를 게속하엿다.</paragraph>
+					<paragraph> 지금은 싀집에서 나온 황금정 x정목에서 혼자ㅅ 살님을 하고 잇는데 이번 길은 洗浦에 사는 자기 동생이 병이 들엇슴으로 그를 맛나보랴 떠난 것이라 한다.</paragraph>
+					<paragraph> 대체 그가 웨 그러케 뭇지도 안는 말까지-스물 다섯 살 먹은 유복스런 과부라는 것을 말하는가를 나는 알 수가 업섯다. 얼뜻 나에게는 일전에 신문에 낫든 금강산행 車중의 넌센쓰談이 생각낫다. 엇던 大阪 상인 하나가 만주視察로부터 도라가는 길에 금강산 구경을 하랴고 금강산 행 기차를 탓다. 차 중에서 그는 웬 조선 미인 하나이 차창에 의지해 깁흔 수심에 싸여잇는 것을 보고 친절하게(?) 웨 그렷케 수심에 싸엇나를 물어 보앗드니 그 미인은 자기는 이유가 잇서 금강산에 기도를 드러가는 길인데 路費가 부족해서 걱정이라고 대답하엿다. 측은심(?)을 이르킨 大阪 상인은 걱정말나고 위안한 후 자기가 비용을 담당해 그 미인을 금강산까지 더리고 가서 일류(?) 여관에 同宿하고 그리고도 측은심이 들 풀녓든지 다시 경성까지 동행하야 某 일본인 여관에서 몃 칠을 또 묵엇다. 그 때 그 大阪 상인이 자기는 천하의 미남자요. 手段客이요. 好運兒라고 내심 得意의 코우슴을 처슬 것은 설명할 필요도 업다. 그러나 이 곳에 의외의 벽력이 떠러젓다. 어느날 낫에 목욕을 하고 도라와보니 여자가 간 곳이 업다. 팔방으로 찻다가 못차진 그 日人은 내종에 자기의 돈지갑을 차젓드니 지갑도-현금 150원이 들어잇는 지갑도 간 곳이 업다. 大阪으로 드라갈 路費도 업서진 그는 샛파락케 질너 제가 한 짓은 엇잿든 간에 경찰로 달녀갓다. 그러나 여자는 아즉도 未逮捕라는 것이다.</paragraph>
+					<paragraph> 그 신문기사를 읽을 때 나는 조선에도 벌서 이련 여자가 생겨난나 하고 감탄(?) 不己하엿다, 우리는 日本의 넌센스 작가의 작품에서 이와 꼭 갓흔 이야기도 흔히 보는 것이다. 다만 다른 것은 여자가 다러날 때 조희조각에 남자를 우롱 조소하는 문구를＜50＞ 써놋치 안은 것 뿐이다. 써노앗드면 그대로 好個의 넉센스 작품이 될 것을 화룡점정이 빠진 세음이다. 그 여자가 제일 「똔퐌」의 고사를 알엇드면</paragraph>
+					<paragraph> 「바든 것만치는 드리엇노라 무엇을 중얼중얼 하시느요?」</paragraph>
+					<paragraph> 라고 적어 노앗을 것을. 그럼 엇지 햇든 狡猾한 상인의 낫작을 샛파라케 맨드러논 것만은 통쾌하기 짝이 업섯다.</paragraph>
+					<paragraph> -이 신문기사를 읽든 기억이 나에게 새로워젓다. 나는 혹시 지금 내 눈압헤 안즌 여자가 그 여자나 아닌가. 나를 제2의 大阪상인을 맨들랴는 것이 아닌가. 그러타면 이번에는 실패올시다. 생각하며 그의 얼골을 다시 들여다 보앗다. 그러나 그럴 것 갓지는 안엇다.</paragraph>
+					<paragraph> 나의 의심을 눈치채인 듯이 그는</paragraph>
+					<paragraph> 「웨 작고 보세요?」</paragraph>
+					<paragraph> 「아니올시다. 실상은 일전에 신문에 낫든 이야기가 생각이 나서-」</paragraph>
+					<paragraph> 해노코 나는 그 신문에 낫든 사실을 이야기 하엿다. 이야기가 끗나자 그는</paragraph>
+					<paragraph> 「호... 웨 제가 그 여자나 아닌가 하고 그리세요.」</paragraph>
+					<paragraph> 「아니요.」</paragraph>
+					<paragraph> 나는 아니라고 고개를 좌우로 흔들엇스나 그는 내가 자기를 보통 여자가 아닌 것으로 생각하는 것을 짐작하엿는지</paragraph>
+					<paragraph> 「하기는요.」하고 빙끗 웃고서 「저도 무어 그 녀자와 그리 달을 거야 잇슴닛가. 사실은 사월에 홀로 된 후 날마다 집에 혼자 안저 속은 상하고 무어 할 일이 잇서야지요. 그래 오월부터 집에서 술을 팔기 시작햇담니다. 물논 저는 나가 팔지 안치만요. 서울 도라오시거든 차저 오세요.</paragraph>
+					<paragraph> 말을 맛치고서 그는 본색을 탄로내인 어색한 얼골로 쓸쓸하게 고개를 돌니엇다. 나도 처음부터 대강 그러니 하고 짐작은 한 것이지만 그래도 그 말을 듯고 나니 얼마쯤 현실폭로의 비애를 늣기지 안을 수 업섯다.</paragraph>
+					<paragraph> 그 때엿다. 저편에 안저 잇는 女給軍의 한 사람이 별안간 소매를 눈에 대고 가늘게 늣겨 울기 시작한 것이다.</paragraph>
+					<paragraph> 「웬일일가?」 하는 눈치로 나는 정한숙 녀사의 얼골을 보앗다. 그는 어색한 얼골을 다시 곳치어 웃으며.</paragraph>
+					<paragraph> 「악가부터 웬 남자의 사진을 께내 보고 잇드니 그래요.」</paragraph>
+					<paragraph> 하하-나는 그 여자의 우는 이유를 알엇다. 그는 필연 大阪근교의 농촌의 딸일 것이다. 고향에 그리운 남자를 남겨 두고 大阪으로 팔녀와 다시 北鮮지방-머나먼 식민지의 끗으로 팔녀가는 그는 별안간 고향 생각 님 생각이 간절히 터진 것이다. 소리업시 내리는 가을비에 황량한 沿線의 풍경 식민지의 들판을 달니는 기차 박휘의 규칙적 고동 그 중에 그는 나와 마조 안즌 여자를 무슨 다정한 부부사이로 오해한 듯도 십헛다. 악가부터 그가 타는 듯한 羡望의 눈으로 우리 두 사람을 건너다보든 것이 생각이 낫다.＜51＞</paragraph>
+					<paragraph> 「아마 우리 둘을 무슨 다정한 내외로나 안가 보오.」</paragraph>
+					<paragraph> 「글세요.」</paragraph>
+					<paragraph> 우리는 승거운 우슴을 교환하지 아니할 수 업섯다. 그러나 생각하면 우리는 지금 그 여자의 눈물을 一笑에 부처 버려도 올흘 것인가? 아니다. 멀니 식민지 끗단 곳까지 팔녀 나와서 고향에 남겨 둔 애인의 사진을 껴내 보고 눈물짓는 팔녀가는 여자! 우리는 엇더케 그를 웃서버릴 것인가. 이 것도 또한 농촌을 파멸케 한 지금의 사회제도의 지은 죄이다.</paragraph>
+					<paragraph> 그리고 이런 광경은 우리 조선에서는 일본보다도 몃 배나 몃 십배나 더 심한 것이다.</paragraph>
+					<paragraph> 만주 넓은 천지에 퍼진 조선 娼妓는 이리해 생겨난 것이다.</paragraph>
+					<paragraph> 마즌 편에 안즌 여자가 별안간 저것 보라고 눈짓을 한다. 눈을 돌니니 지금까지 울든 그 여급은 지금 바야흐로 명함 반족만한 그 애인의 사진을 가만히 입술에 갓다 대인 판이다. 그의 마음에는 지금 아모도 자기의 하는 것을 보지 못하는 것으로 생각하는 듯 십다. 2,3차 입에 갓다 대이드니 최후로 그는 정열적으로 사진에 接吻하고 그만 도로 넛기 시작하엿다. 동행 두 여자는 몰으는 체 하고 「잘 잇거라 上海야.」의 유행가를 을푸며 창박을 내여다보고 잇섯다.</paragraph>
+					<paragraph> 그 사건 이후 나는 그 여급을 작고 주의해 보앗다. 10분에 한 번 식은 지갑 속으로부터 그 명함 반족만한 사진을 꺼내 둘여다 보고는 비죽 비죽 우는 것이엇다.</paragraph>
+					<paragraph> 나의 마즌 편에 안젓든 여자는 예정대로 洗浦서 나려갓다. 여자가 나려가는 것을 그 여급은 의외의 눈초리로 나와 그 여자의 얼골을 번가러 보앗다.</paragraph>
+					<paragraph> 기차가 떠나자 마자 그는 나에게</paragraph>
+					<paragraph> 「あの方は 途づれでしたの?」</paragraph>
+					<paragraph> 하고 얼든 얼골에 웃슴을 띄우며 뭇는다.</paragraph>
+					<paragraph> 「ええ」</paragraph>
+					<paragraph> 「そうでしたか」</paragraph>
+					<paragraph> 의외라는 듯이 그는 대답하고 또 한 번 빙그레 웃섯다.</paragraph>
+					<paragraph> 비는 종일 如一하게 내렷다. 그러나 洗浦서부터는 그 여급은 다시는 애인의 사진을 꺼내지 아니하고 다른 동모들과 함게 누어자다가 잡지를 닑다가 유행가를 불으다 하엿다.</paragraph>
+					<paragraph> 女給軍은 함흥서 나렷다. 나도 일이 잇서 함흥에서 도중하차 하엿다. K씨가 일부러 비가 오는데도 나를 마지하러 역까지 나와 잇섯다. 驛頭에는 여급 일행을 마지하려 그들을 인솔하고 온 노파의 남편인 듯한 식민지에서 10여 년 콜너먹은 듯한 흉악한 상판을 한 늙은 자가 여급 수인을 더리고 나와 잇섯다.(끗)＜52＞</paragraph>
+					<paragraph> ＜48-52＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>米國 컬넘비아大學, 米國의 男女共學은 엇더케 하나</mainTitle>
+						<alternative lang="kor">미국 컬넘비아대학, 미국의 남녀공학은 엇더케 하나</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>黃愛施德</name>
+							<name lang="kor">황애시덕</name>
+						</author>
+					</creator>
+					<subjectClass code="ma07" scheme="madoc">회고·수기</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0061" end="ma_019_0010_0063"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">米國 컬넘비아大學, 米國의 男女共學은 엇더케 하나 (미국 컬넘비아대학, 미국의 남녀공학은 엇더케 하나)</pTitle>
+						<name role="필자">黃愛施德</name>
+					</paragraph>
+					<paragraph> 「컬넘비아」대학은 미국 뉴욕에 잇슴니다. 저보다 여러분이 더 잘 아실 것임니다 만은 전 미국 대학 중에서 제일 큰 학교 임니다. 미국 뿐 아니라 전 세계에서 제일 크다고 해도 과언이 안일 걸요. 역사는 길지 못하지만 학생 수효는 10만 명에 달함니다.</paragraph>
+					<paragraph> 한 가지 결함이 잇다면 복잡한 뉴욕 도시 한 폭판에 위치를 점령한 까닭에 자연풍경이 좃치 못한 것이라고 하겟슴니다 만은 그 것도 아프로 곱게 흐르는 「헛썬」강이 잇서서 도음을 줌니다.</paragraph>
+					<paragraph> 내부 설치에 잇서서도 各部마다 각각 도서관을 두엇스며 또 其外에 따로 독립한 도서관-중앙관도 두엇슴니다. 학교가 너무 크고 또한 部가 너무 만허서 죄다 단여보지 못햇슴으로 자세한 이야기를 기록 못함이 유감이외다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>各部 중에서 제일 범위 넓은 교육부에 62國의 외국 학생</pTitle>
+					</paragraph>
+					<paragraph> 컬넘비아 대학 중에서 제일 큰 部門을 점령하고 잇는 部가 교육부인데 여기에는 예순 두 나라에서 모여 온 남녀 학생들이 한 데 모혀서 學을 닥고 잇슴니다.</paragraph>
+					<paragraph> 거기엔 우리의 기억에 좃차 남어잇지 안는 저 북국의 조고만 나라-아이스랜드인도 잇고. 熱帶地-南洋諸島 사람도 석기워 잇섯슴니다.</paragraph>
+					<paragraph> 어느 나라 사람이나 물론하고 교실에서 보면 다-가티 거저 배움에 갈망해 하는 빗만 엿보엿슬 뿐임니다 만은 우리들 조선 사람 눈에는 다른 나라 사람은 모다 걱정 업는 것 갓 햇스며 모다 씩씩한 긔운을 가진 것 갓햇슴니다.</paragraph>
+					<paragraph> 더구나 우리들은 돈도 업고 또 語學에 부자유햇슴니다. 남들이 한 번 읽을 것이면 열 번을 읽어야 깨달엇스며 남이 10분간에 할 것이면 우리는 한 시간이 걸려야 하게 되엿슴니다. 그러기 때문에 남이 보기엔 동양 그 중에도 조선 사람이 제일 열심하는＜53＞ 것 갓햇슬 것임니다.</paragraph>
+					<paragraph> 사실에 잇서서는 아마 독일 남녀 학생들일 것임니다. 「빌닙빈」이나 그 외의 몃 나라 사람들 가티 놀기만 조와하는 학생들도 잇섯지만은 대개는 工夫에만 열중하더이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>미국교육제도와 컬넘비아 대학</pTitle>
+					</paragraph>
+					<paragraph> 몰론 외국에 유학하는 학생은 자기 나라에서 배우지 못한 것을 연구하고저 가는 것임으로 그 자신들이 열심으로 공부할 것은 말할 것도 업겟지만은 학생보다도 학교 당국에서 더구나 성의잇게 가라치는데는 謝意를 표하지 안을 수 업섯슴니다. 미국에 잇는 유명한 교육기관이란 기관은 모조리 견학하게 되엇슴니다. 개인으로서는 도저히 구경할 수 업는 곳까지 학교에서 여비를 써가면서 견학식혓담니다.</paragraph>
+					<paragraph> 그런데 한 가지 이야기할 것은 미국의 교육제도임니다. 그 나라의 교육제도는 10년 만에 한 번식 개정된다는 것임니다.</paragraph>
+					<paragraph> 10년간 실시한 교육법의 장점, 단점을 조사해서 다음에 개정하는 교육법에 참고하는 것이람니다.</paragraph>
+					<paragraph> 이 교육 법령은 당연히 學務課에서 할 것이겟지만 미국서는 정부에서 하는 것보다 민간에서 설립한 교육협회에서 이 교육제도에 대한 것을 취급함니다. 물론 정부에서도 하지만은 민간교육협회에서 하는 것보다 일반 국민에게 효과를 주지 못함으로 필연적으로 민간 교육협회에서 실시하는 것이 세력을 펴게 되엿슴니다. 그러타고 정부에서 민간교육협회를 해체하라거나 하는 일도 업담니다. 그만큼 국민에게 자유를 주더이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>2년 간의 학창생활</pTitle>
+					</paragraph>
+					<paragraph> 나는 교육부에서 연구햇슴니다. 그런 까닭으로 이 우에 교육부에 대해서만 만히 쓰게 된 것임니다. 여러분도 아시겟지만 대학에서는 과목제로 하기 때문에 재조잇고 부즈런한 사람은 속히 졸업할 수 잇는 것임니다. 그려나 나는 그러케 빨리 한 편은 못됨니다. 먼저도 말슴햇거니와 경제적 고통과 어학의 부자유한 관계상 도저히 남에게 초월한 기록은 가질 수 업섯슴니다. 교사가 강의할 때 학생이 그 자리에서 깨닷도록 하는 것이 안이고 단지 書籍만 소개해 줄 다름임으로 휴식시간만 되면 다른데 삷필 틈도 업시 도서관으로 뛰여 갓슴니다. 그 때의 일을 지금 머리에 그려보면 자미잇고도 우수워저서 혼자 빙글빙글 웃는 때가 만슴니다.</paragraph>
+					<paragraph> 엇지햇든 죽기를 限하고 공부만 햇스니까요. 그럼으로 기숙사에 잇스면 시간상 부자유한 점이 만허서 국제관이란-(아메리카 석유왕 락키펠노씨가 긔부해준 집)-데서 留宿햇슴니다. 그 국제관엔 엇던 나라 사람이든지 공부하는 학생이면 투숙할 &#136;&#152; 잇섯슴니다. 나라가 다르고 말이 다르고 또 風俗人도＜54＞ 다른 여러 나라 사람들이 한 집에 모혀 사는 맛도 조왓슬 것이지만 그 당시에는 여러 나라 사람들을 친할 기회가 허락되지 안어서 그냥 지내왓슴을 지금와서 후회한담니다.</paragraph>
+					<paragraph> 컬넘비아 대학에서의 두 해ㅅ 동안 학창생활! 그것은 그저 분주하게 지낸 것 뿐이람니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>여롬방학과 컬넘비아 대학의 여름학교</pTitle>
+					</paragraph>
+					<paragraph> 방학중에 여름 방학이 제일 길엇슴니다. 본국 학생들이나 또 미국어 잘하는 학생들은 방학이면 죄다-놈니다. 산에도 가고 또 바다에도 온천에도 감니다. 만은 나는 하로도 그러한 호화로운 생활이라곤 업섯담니다.</paragraph>
+					<paragraph> 물론 돈도 버러야 겟지오. 또 그보다 더 緊切한 것은 夏期學校를 해야 하는 것이엇슴니다.</paragraph>
+					<paragraph> 夏期學校는 7월부터 8월말까지 하는데 그것은 현직에 잇는 -즉 학교선생이든가 사무원들을 여름 동안의 휴가를 이용해서 공부하도록 하자고 만드러논 것이엿슴니다. 나도 거기에서 배웟슴니다. 배워가지고 하로래도 속히 귀국하는 것이 제일 나흔 방침이엿기 때문에요.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>펜설베니아 주립대학</pTitle>
+					</paragraph>
+					<paragraph> 이럭저럭 하는 사이에 어느듯 두 해가 가버리고 졸업이란 영광을 즐기게 되엿슴니다 만은 좀 더 보고십고 좀 더 듯고 십허서 나는 졸업식에도 참가하지 안코 펜셀베니아로 갓섯슴니다.</paragraph>
+					<paragraph> 거기에 주립대학에서는 농촌에 대해서 만히 충실햇섯슴으로 남달리 농촌사업에 흥미를 가 &#147;스며 뜻을 가진 나로서는 그 곳을 차즘이 적당한 줄 알엇슴니다.</paragraph>
+					<paragraph> 내가 펜셀베니아에 이르럿슬 때는 여름이엿슴니다 만은 그 곳 가서 얼마 안되여 여름 더위는 물러가고 서늘한 긔분 조흔 가을이 차저왓섯슴니다.</paragraph>
+					<paragraph> 가을의 나의 하로 생활은 퍽도 취미 백파-센트의 생활이엿슴니다. 물론 들에 무르녹는 곡식도 조왓지만은 그것을 거두어드리는 농부들의 식-크한 생활이 더욱 보기 조왓슴니다. 나도 그들과 한 가지로 견습햇슴니다. 나는 벌서 농촌생활에 무한히 취해 버렷섯슴니다. 그러나 그곳에 잇는 것이 내 뜻이 안이고 목적이 안이엿슴으로 나는 1928년 12월 눈보라 치는 겨을날에 고국에 발을 돌렷슴니다.</paragraph>
+					<paragraph> -(끗)-＜55＞</paragraph>
+					<paragraph> ＜53-55＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新女性의 新生活論 No.1</mainTitle>
+						<alternative lang="kor">신녀성의 신생활론 No.1</alternative>
+					</title>
+					<subjectClass code="ma01" scheme="madoc">논설</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0064" end="ma_019_0010_0067"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新女性의 新生活論 No.1 (신녀성의 신생활론 No.1)</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>新女性이여 舞踊하라(여학교에 무용과 설치의 제창)</pTitle>＜56＞</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<index type="이름">崔承喜</index>
+					</paragraph>
+					<paragraph> 우리 생활에 잇서서 무용이 필요하다는 것은 벌서부터 늣기고 잇는 바임니다. 만은 아직 조선에 잇서서 더구나 일반 여성들에게 무용을 하라고 말슴하고 십지는 안슴니다.</paragraph>
+					<paragraph> 그러기 때문에 나는 가정에 드러안진 여성들은 제외하고 다만 바라기는 각 여학교에서 학생들에게 무용을 성의잇게 가라처 주섯스면 하는 것임니다.</paragraph>
+					<paragraph> 현재 여학교 학과 중에 체육 딴쓰시간이 잇기는 하지만 엇전지 다른 학과시간보담 등한시하지 안는가 하는 늣김을 가지게 됨니다.</paragraph>
+					<paragraph> 남자에게도 무용이 필요하겟지만 여자에게 잇서서는 더 한층 필요함니다. 무용은 신체를 건전하게 할 뿐 안이라 동작을 敏活하게 하며 또한 동작 식히기 때문에 무용할 줄 아는 사람은 잘 너머지지는 일도 업스려니와 혹 너머지더라도 어듸 닷치거나 하는 일이 업슴니다.</paragraph>
+					<paragraph> 그도 그럿켓지만 여자로서는 무엇보담도 동작을 곱게 하여야 될 줄 암니다. 손 하나 놀니드래도 가법게 엡부계 놀님으로서 여성미를 낫타낼 수 잇는 것이라고 생각함니다.</paragraph>
+					<paragraph> 내가 만히 지내보앗지만 동작이 낫부고 거름거리가 우습든 사람도 무용을 배움으로 말매암아서 점점 미화하여 가는 것이엿슴니다.</paragraph>
+					<paragraph> 무용이란 결코 스테-지에서 관객의 마음을 끌키 위해서만 필요한 것이 안님니다.</paragraph>
+					<paragraph> 우리의 생활을 좀 더 아름답게 빗나게 하는데 잇서 긴요한 것인 준 암니다.</paragraph>
+					<paragraph> 그리고 또 한 가지 무용의 대중화에 대하여 나는 이러케 생각함니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 예술이라 하면 물론 그 엿던 종류의 것을 불문하고 그 것이 보통화하고 대중화하는 데에 그의 완전한 생명이 잇고 그의 건전한 성장이 잇는 것임니다. 그러나 오늘에 잇서는 모든 것이 상품화 하여가는 까닭에 예술 그 물건도 저들 부르주아 계급들에게 독점되여 잇는 感이 不無함니다. 예술 중에도 특히 지금 내가 專攻하고 잇는 무용예술 갓흔 것이 尤甚한 것 갓슴니다. 그래서 나는 일즉이 <index type="이름">石井漠</index>씨의 문하에 잇슬 때부터도 늘 이 점에 대한 불평과 불만을 가젓섯슴니다. 조선과 달니 일본 갓흔데만 하야도 아조 완전한 左翼劇場-例하자면 동경의 築地新劇場 갓흔 것이 잇서서 늘 푸로적 경향을 주제를 삼아 공연을 하게 되는 것이며 그를 보는 관중들도 조선과 갓지 안케 아조 계급적 분야가 선명해가지고 거의 근로계급의 대량관객들로만 만원을 일우는 성황임니다. 그런 까닭에 스테지 우에 낫 하나는 배우들의 태도와 기분이라는 것도 더 한 층 긴장하여지고 열혈이 充溢하게 됨니다. 그러나 우리 조선에서는 다른＜57＞ 불리한 객관적 정세와 한 가지로 예술에 대한 그것도 너무도 한심스러울만 함니다.</paragraph>
+					<paragraph> 이번에 團成社에서 공연을 한 것은 임이 회수로 제5회를 거듭하게 되는 것인데 지난 제3,4 공연 때부터 내 딴으로는 首題에 더욱 치중해서 될 수 잇는대로 대중 층의 생활의식에 적합한 것으로 공연 푸로그람을 만들엇슴이다. 그래가지고 지난번에 지방 순회를 좀 하여 보앗슴이다마는 그 결과 예기치 안는 불행을 늣긴 일도 한 두 가지가 아니엇슴니다. 일반 관객들이 그대로 정숙하게 연주를 翫賞하지 안고 흥분된 발성과 행동을 간간히 가지는 까닭에 이 곳 저 곳에서 민중에게 자극을 주고 그를 선동한다는 이유로 혹 경찰에 동행도 되고 간섭도 만히 바닷슴니다. 그러나 이는 모도가 예술에 대한 그들의 인식 부족으로 박게 생각되지 안슴니다. 그러타고 또 서울갓흔 도회처에는 엇던가 하면 관객의 대부분이 거의 인테리나 소뿌르층들인 까닭에 모처럼 선택한 대중적 푸로그람도 고만 그의 관람 대상이 밧구어 지는 까닭으로 그가 발휘할 예술의식을 일어바리고 그저 「춤」을 위하는 「춤」이 되고 공연을 위하는 공연만이 되여바림니다.</paragraph>
+					<paragraph> 내가 압서 경영하고 잇는 무용연구소에는 연구 인원이 불과 8명 내외엇니다 만는 그의 역사는 임이 3년이나 되엿고 나로서는 하여간 압흐로 부족하게 생각하는 점을 어듸로나 만족식혀 줄가하야 압흐로라도 엇던 기회만 잇다면 따로 독립된 소규모의 극장이라도 소유하고 예술의 대중화를 철저히 부르짓고 십슴니다. 그러나 조선 현실의 객관정세가 그 것을 허락할는지도 역시 한 가지 의문으로 생각됨니다. 지금 현상 갓해서는 아모리 대중화를 부르짓는다할지라도 일반 푸로 계급에게 예술관념이 보급되여 잇지 안 것만콤 스테지에 나설 때도 긴장미가 업슴니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>女性體育에 대하야</pTitle>
+					</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<index type="단체">朝鮮體育硏究會</index>主事 <index type="이름">金保榮</index>
+					</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>1,머리말</pTitle>
+					</paragraph>
+					<paragraph> 우리는 항상 건강한 사람! 튼튼한 사람! 원기잇는 쾌할 勇狀한 사람!을 요구합니다.</paragraph>
+					<paragraph> 이것은 2천3백만의 우리들이 이구동성으로 욋치는 큰 소리입니다. 그러하면 이것은 엇더한 방법으로＜58＞ 실현할 수 잇겟습닛가? 나는 단언합니다. 『체육의 보편화』에 잇다고!</paragraph>
+					<paragraph> 우리의 자매들 중에는 체육에 대하야 전연히 몰이해하신 분이 만흔 것은 속힐 수 업는 사실이겟습니다. 舊女性들은 말할 것도 업거니와 신교육을 밧은 신여성들 중에도 무관심한 분이 적지 안타고 생각합니다. 재학시대에는 체육운동에 특히 취미를 가지고 열심히 체력을 단련하든 누님들도 교문을 떠나오면 규중처녀 노릇을 하거나 또는 가정부인 노릇을 하노라고 운동에 등한하게 되는 것도 사실임니다. 그리하야 깜짝히 몸이 쇠약하야 독서와 운동에 충실하든 그 몸이 一朝에 병원과 약으로 벗(友)삼는 분도 적지 안슴니다. 비참한 경우를 당하는 일 이것은 현실의 환경이 그러하게 만드는 것도 피치 못할 사실이나 그러타하야 언제든지 여성은 약자 노릇을 하고 남성에게 떠러진 자로 지낼 수는 업는 것이외다. 1천1백5십만이라는 半數를 점령한 우리의 자매들은 하로밧비 몸을 튼튼히 하고 정신을 유쾌하게 할 방법을 실행하지 안흐면 안되리라고 생각합니다. 필자는 淺知薄識이나마 이에 뜻을 두어 그에 대한 이론과 방법을 써서 자매 제씨에게 推獎하고저 하나이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>2, 체육의 의의</pTitle>
+					</paragraph>
+					<paragraph> 체육이라 함은 교육의 기초 근저로써 인류생활의 향상 발전을 목적으로 하는 신체 교육의 全野를 의미하는 바임니다. 知育, 德育, 美育과 공히 인간교육의 4대 요건의 1로써 육체의 건강 증진과 정신의 건전 활동과의 진보 향상을 圖키 위하야 行하는 수양 연마를 말함이외다. 즉 말하면 건전한 육체와 건전한 정신을 수련하야 시대에 적응한 자를 만드러 그 활동을 크게 하게 하고 능률의 향상을 謀하는 신체적 교육을 말함니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>3, 체육의 목적</pTitle>
+					</paragraph>
+					<paragraph> 체육은 인간의 건전한 심신을 육성함으로써 목적하는 바 그 要項을 摘記하면 如左합니다.</paragraph>
+					<paragraph> (1) 신체의 各部를 생리적으로 발육케 함</paragraph>
+					<paragraph> 즉 신체의 내장과 근육 골격 어느 부분이든지 圓滿均齊적으로 발달식힌다는 의미로써 부분적 발달를 피하고 전체 균형적 발달을 圖하는 것이외다.</paragraph>
+					<paragraph> (2) 동작을 機敏케 함</paragraph>
+					<paragraph> 즉 근골이 의지의 명령을 從하야 정확 敏速히 동작함을 의미함으로써 인간생활에 불가결할 근육과 신경과의 조화를 圖하야 심신의 통일과 동작의 敏捷을 체득케 함이외다.</paragraph>
+					<paragraph> (3) 정신을 쾌할케 하고 剛毅케 함</paragraph>
+					<paragraph> 즉 쾌할이라함은 心中이 항상 생기발랄하야 유쾌한 기분이 충만한 것을 말함이외다. (이하 次號續-원문) ＜59＞</paragraph>
+					<paragraph> ＜56-59＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>小說 非情都市</mainTitle>
+						<alternative lang="kor">소설 비정도시</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>崔貞熙</name>
+							<name lang="kor">최정희</name>
+						</author>
+					</creator>
+					<subjectClass code="ma12" scheme="madoc">소설</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0068" end="ma_019_0010_0072"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">小說 非情都市 (소설 비정도시)</pTitle>
+						<name role="필자">崔貞熙</name>
+					</paragraph>
+					<paragraph>
+						<pTitle>第1景 街頭</pTitle>
+					</paragraph>
+					<paragraph> 겨울이 갓가운 가을날의 태양이 떠러질녀고 한다. 건축 중에 잇는 T관청 놉흔 첨탑에 반쯤 걸여잇는 태양이 샛빨갓케 되여서 한양 장안을 내려다본다.</paragraph>
+					<paragraph> 싸늘한 바람은 겨울바람에 지지안케 부러서 길바닥에 수지쪼각을 가법게 날닌다.</paragraph>
+					<paragraph> 도시의 거리는 복잡하다. 회사에서 은행에서 관청에서 터저나오는 군중 근대 자번주의에 의하야 편성된 싸라리-맨- 돈 잇는 사람을 태운 자동차, 인력거, 전차, 뻐쓰, 그리고 애인을 기다리는 모-던 껄, 엇잿든 거리는 물끌 듯이 뒤끌엇다.</paragraph>
+					<paragraph> 이럿케 뒤끌는 그 속엔 또 한 게급의 인간들이 잠재하엿스니 축 처진 억개에 지게 진 자유 노동자도 잇섯고 통행자를 귀찬케 하는 거지들도 잇섯다만은 그들의 존재는 누가 인정해 주지 안엇다. 해여진 옷을 걸치고 「돈 한 푼 줍시요.」하며 애걸하나 그들에게 동전 한 푼 더지는 자가 업섯다. 그들은 은행 철문 압히나 큰 상점 압 움측에서 추운 밤이 닥처옴을 근심하고 잇다.</paragraph>
+					<paragraph> T관청-건축 중에 잇는-압헤도 그들의 무리가 모혀잇다.</paragraph>
+					<paragraph> 「여보! 김서방!」</paragraph>
+					<paragraph> 「웨 그리우.」</paragraph>
+					<paragraph> 「대체 이런 비러먹을 세상이 어대잇담. 뒤백겨저도 분수가 잇지.」 안질방 영감은 또 신세타령을 시작한다.</paragraph>
+					<paragraph> 「글세 그런 말을 지금해서 무엇하우?」</paragraph>
+					<paragraph> 「그래요. 젊은 때는 돈푼이나 쥐고 썩드니 늘그막에 이게 무슨 짓이란 말이우. 그 놈 아들연석이 애비 신세를＜60＞ 이럿케 만드럿지. 그 놈이 안이면 내 다리가 웨 이럿케 되엇겟소-?」</paragraph>
+					<paragraph> 「안이 아들이 다리를 엇더케 햇길네?」</paragraph>
+					<paragraph> 「글세 풍병이 낫는데-돈이 잇서야 곳치지 안소. 그양 버려두엇드니 이럿케 되엿구려.」</paragraph>
+					<paragraph> 「세상이 다 그런 것이라오.」 김서방은 긔운업시 처벅 처벅 걸이오는 아들을 발견하자 안질방 영감에겐 이럿케 짤막한 대답을 던질 뿐이다.</paragraph>
+					<paragraph> 「아버지 얼마나 시장하심닛가. 오늘도 하로 종일 도라단엿스나 일자리라고는 업슴니다.」 일병은 자긔 아버지 시장해 하는 얼골을 듸려다 보면서 이럿케 말한다.</paragraph>
+					<paragraph> 「맘대로 안 되는 것이 세상일인데 엇더케 하니?」</paragraph>
+					<paragraph> 그는 안질방영감보다 세상을 리해할 줄 알엇다.</paragraph>
+					<paragraph> 그는 일병이가 열 아홉먹든 해까지 S쳘공장의 진실된 순시 겸 감독이엿스나 노동자와 자본가 그 사이를 잘 알고 잇섯든 까닭이다. 그의 나희가 만허 가고 긔운이 짓처지니 그는 공장에서 나오고 일병이를 대신 듸려보냇섯다.</paragraph>
+					<paragraph> 일즉이 마누라를 일허버런 김서방은 귀여운 일병이가 버러오는 돈으로 단 한간의 셋방살님이나마 다시 업는 즐거움으로 알엇섯다만은 그 살님도 오라지 안어서 깻트려지고 말엇스니 그것은 일병이가 스물 한 살 먹든 해 봄에 그 공장에서 스트라이크를 이르기엿섯다. 여러 불상한 동무를 대신하야 일병은 퇴직을 당하엿든 까닭이다.</paragraph>
+					<paragraph> 「야-일병아 저쪽에 또 순사가 온다.」</paragraph>
+					<paragraph> 안질방 영감은 여기서 또 쫏기면 이번에는 어듸를 간단말인가? 하며 혼자말노 중얼거린다.</paragraph>
+					<paragraph> 일병이 아버지를 잇끌고 순사의 눈을 피할여할제 뒤에서.</paragraph>
+					<paragraph> 「동무」하는 소리가 들엿다. 그는 박훈이다. 엇던 녀자 한 사람을 다리고 이쪽으로 급히 달녀온다.</paragraph>
+					<paragraph> 「아 이게 얼마만인가. 일병군.」</paragraph>
+					<paragraph> 「참 오래간만일세!」</paragraph>
+					<paragraph> 「자네를 차즈려고 요새 엇더케 도라단엿는지 아나?」</paragraph>
+					<paragraph> 「난 요새 일시 먹을 것을 엇으려고 거리를 도라단엿스니까-그러지 안어도 오늘 전녁에 자네를 차즈러고 햇네.」</paragraph>
+					<paragraph> 「들엇나? 내일 일을」</paragraph>
+					<paragraph> 「암 들엇지. 만히 일하세.」</paragraph>
+					<paragraph> 「좀 도아주게. 그런데 그 때의 자네들이 하든 그대로 해볼가 하네.」</paragraph>
+					<paragraph> 「글세 엇재든 내일 아츰 일즉이 만남세.」</paragraph>
+					<paragraph> 「그런데 일병군 우리 공장 동무들이 자네를 위해서 긔금 모은 것이 십오원가량 잇는데 지금 자꼴 주군이 맛허가지고 잇네.」</paragraph>
+					<paragraph> 「고마우이.」</paragraph>
+					<paragraph> 일병은 박훈의 손을 꼭 붓잡으면서 내일의 성공을 약속하엿다.</paragraph>
+					<paragraph> 「그런데 이 사람 훈군- 저 녀자는＜61＞ 누군가. 애인인가?」</paragraph>
+					<paragraph> 저쪽을 향해 서 잇는 주리애가 혹시 훈군의 애인이냐 아닌가 해서 일병은 물어보앗다.</paragraph>
+					<paragraph> 「이 사람아 내게 문슨 애인이 잇겟나?」</paragraph>
+					<paragraph> 「고맙네. 내일 맛나세.」</paragraph>
+					<paragraph> 일병은 박훈과 굿게 약속한 후 아버지를 일끌고 주군의 집을 차저갓섯다.</paragraph>
+					<paragraph> 박훈을 맛나지 안엇드면 다른 길인 한 가지로 일병도 정 업는 도시의 그날 밤을 밧게서 지냇슬 것이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>제2景 公園</pTitle>
+					</paragraph>
+					<paragraph> 노동자가 모은 긔금의 가치를 아르겟소? 일병과 헤여진 박군은 C공원 벤취에 안즈면서 주리애에게 뭇는다.</paragraph>
+					<paragraph> 주리애는 붓그러운 듯이 허공만 처다보며 대답이 업섯다.</paragraph>
+					<paragraph> 「웨 대답이 업소? 모른단 말인가요.」</paragraph>
+					<paragraph> 「안이얘요.」</paragraph>
+					<paragraph> 「그럼 엇던 이미에서 대답을 주저하심닛가?」 박훈은 주리애의 맘을 시험하고저 이럿케 연이어서 뭇는다.</paragraph>
+					<paragraph> 「저는 웬일인지 말문이 막힌 것 갓해요?」</paragraph>
+					<paragraph> 「무슨 까닭으로?」</paragraph>
+					<paragraph> 「그것은 제 자신도 잘 알 수 업서요.」</paragraph>
+					<paragraph> 「그게 무슨 말삼이오? 그런 애매한 말투가 어듸잇단 말이요?」</paragraph>
+					<paragraph> 「그러치만 엇떡함닛가? ...말하자면 가을의 이 밤이 ...그리고 저 달이 저로 하여곰 풀죽게 만드러요.」</paragraph>
+					<paragraph> 「네. 알엇소. 그것이 못쓰는 거요. 아직도 주리아는 몹시 약함니다. 좀 더 힘잇는 사람이 되여 주지 못하시겟소. 웨 이러케 조용한 긔회를 헛되히 보내려고 한단 말이요.」</paragraph>
+					<paragraph> 「용서하십시오. 강한 사람이 되려고 애는 씀니다만는...아니 제 자신으로 이전 보다 강한 녀성이 된 줄을 인식하고 잇슴니다.」</paragraph>
+					<paragraph> 주리애가 박훈이 단이는 P철공장 녀사무원이 되기는 작년 봄 녀자 모직업 학교를 졸업하고 즉시엇섯다. 어머니 업는 불상한 두 어린 동생을 공부식히기 위하야 철보다도 구든 결심을 가지고 중역들의 「히히거리는 우숨소래조차 귀에 바다들지 안앗던 그가 웬일이엇든지 그 봄이 지나가고 녀름 되엇슬제 돈 잇는 지배인보다 사장보다 어둠 컴컴한 공장 안에서 섯건 언쇠몽치만 두다리고 잇는 헐벗은 박훈이에게 맘을 쏘치게 되엿다.</paragraph>
+					<paragraph> 그는 아름다웁다. 사장 이하 중역들의 시선이 항상 머물어 잇슬만한 열 아홉된 어엽분 처녀다.</paragraph>
+					<paragraph> 박훈은 주리애에게 가는 마암이 적지 안엇다마는 그는 언제나 주리애를 애인이라기 보다도 동지가 될 만한 소양을 너어주려고 애쓴다.</paragraph>
+					<paragraph> 주리애는 박훈의 지조를 아든지 임이 석달 넘어엇슴으로 소뿌르근성은 완전히 청산한 셈이다. 그래서 지금은＜62＞ 박훈의 하는 일을 배후에서 끔직이 도아주는 사람의 하나이엿다.</paragraph>
+					<paragraph> 싸늘하게 불든 바람이 끈치고 잇다금식 부러오는 약간의 바람은 두 사람의 몸덩이를 서늘하게 씨처준다. 달빗츤 해빗과 달나서 두 사람의 얼골을 곱게 만드러 주엇스며 또한 가삼을 울넝거리게 하엿다.</paragraph>
+					<paragraph> 주리애는 참다 못해서 박훈의 가삼에 머리를 파무덧다. 그런즉 박훈은 벌덕 일어낫다.</paragraph>
+					<paragraph> 그에 머리에는</paragraph>
+					<paragraph> 이때의 일꾼은 애정문제를 초월해야 한다-는 생각이 머리끗까지 소사올낫다.</paragraph>
+					<paragraph> 「주리애! 내가 늘 말하기를 내 애인이 되여 주기보다 먼저 동지가 되여 달나고 하지 안앗소?」</paragraph>
+					<paragraph> 「잘못햇슴니다...그러면 박훈씨! 동지간에는 애정문데를 전혀 떠나야 한단 말슴임니가?」</paragraph>
+					<paragraph> 「그런 것이 아니지요. 완전한 동지가 된 후에 일이겟지오.」</paragraph>
+					<paragraph> 「박훈씨는 어듸까지던지 저에게 동지의 자격이 업다고 보심니다. 그려!」</paragraph>
+					<paragraph> 「엄정하게 말하자면 그러치요. 장차는 모르지마는 이려케 말함을 들은 주리애는 너무나 억율해서 벤취에 안 즌채 눈물을 철철 흘니고 잇다.</paragraph>
+					<paragraph> 박훈은 주리애를 이르켜서 아모 말업시 눈물을 닥가주엇다.</paragraph>
+					<paragraph> 「훈씨! 저를 그러케 못밋겟서요?」</paragraph>
+					<paragraph> 「웨 안밋긴! 아즉도 주리애의 맛을 더 잘 알고 십허서...나는 어느 정도까지 주리애씨를 신님하지만 동무들은 내가 당신을 여기까지 방향 전환식혓다는 것을 알지 못하닛가!」</paragraph>
+					<paragraph> 「고맙슴니다. 그러나 알게 될 때가 오라지 안아서 도라올 것임니다.」</paragraph>
+					<paragraph> 「임박하지 안앗소...래일이...」</paragraph>
+					<paragraph> 「네 잘 알고 잇슴니다. 꼭 실행하겟슴니다... 훈씨! 제가 전과 달나젓다는 것만 알아주시오. 애정으로 인한 동지의 행동은 멀니 떠낫슴니다.」</paragraph>
+					<paragraph> 「주리애씨! 고맙슴니다. 나는 벌서부터 그 말을 들을냐고 하엿든 것임니다. 자! 두말할 것 업시 사랑에 대한 문제는 몃 해 후에 숙데도 줍시다.」</paragraph>
+					<paragraph> 「네. 그 때까지 참지요.」</paragraph>
+					<paragraph> 두 사람의 가장 뜻잇는 시간이 기러저서 밤도 임이 깁허 젓슴으로 C공원 안에는 순회경관의 구두발소리가 군도소리와 함께 들녓다. 박훈과 주리는 느진 밤 달빗츨 곱게 안고서 층대로 나란히 걸엇다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>제3景 工場</pTitle>
+					</paragraph>
+					<paragraph> 아츰해가 도닷건만 S철공장 굴둑에 연긔는 나오지 안앗다.</paragraph>
+					<paragraph> 공장 안의 강당에는 긴장된 직공들이 팔장을 부르찌르고 서잇섯고 사장은 직공들을 상대로 하야 단상에 올나섯다.</paragraph>
+					<paragraph> 「여러분의 요구를 드러주고 십흔 생각은 잇슴니다마는 여러분도 아시다십히＜63＞ 불경긔는 날이 갈사록 혹심해서 우리 공장에서도 말할 수 업는 경제적 타격을 밧고 잇슴으로 도뎌히 실행할 수 업다는 말임니다.」</paragraph>
+					<paragraph> 이 말을 듯는 직공들의 눈에 빨간 피줄이 이러섯다.</paragraph>
+					<paragraph> 싯커먼 군중 속에서 튀여나오는 자가 잇섯스니 그는 박훈이다.</paragraph>
+					<paragraph> 「사장! 그것이 정말이지요?」 박훈의 소리는 떨엿다. 소리뿐만 아니라 전신의 고기 덩어리가 풍증이르킨 사람 모양으로 벌벌 떠렷다.</paragraph>
+					<paragraph> 「내! 사실임니다. 여러분의 요구와 반대로 이쪽에서는 로동시간을 연장식히고 임금은 내리며 또 일을 추릴여고 생각햇든 것임니다. 공장 문을 닷친대도 여러분의 요구는 못듯겟소.」</paragraph>
+					<paragraph> 사장 뒤의 여러 중역들과 석겨 섯든 주리애는 참을 수 업다는 듯이 사장 압흘 뛰여나오며 반년 총결산 총계표를 내놋는다.</paragraph>
+					<paragraph> 「이것이 증명함니다... 이 공장의 금년 육개월 총결산 결산표에 의하면 리익이 사만원에 갓갑슴니다. 그러면서도 이쪽 측에서는 앗가 사장이 말에도 그대로의 방책...」 쏜살갓치 말하는 주리애를 힛듯힛듯 처다보고 잇든 사장은 큰소리로 「해애」이라고 고함첫다. (중략)</paragraph>
+					<paragraph> 이외에도 주리애의 힘굿센한 행동에 전직공들의 맘은 더 한층 움죽엿다.</paragraph>
+					<paragraph> 몃 츨이 지나고 두 주일이 지나서도 S철공장 연돌에선 연긔가 나지 안엇고 무겁게 도라가던 거대한 긔게 녹쓸기 시작햇다.</paragraph>
+					<paragraph> XX의 행를은 가추어서 S철공장 압까지 다다랏다. 선두에는 박훈 주리애 그리고 일병이가 잇섯다. 그들의 굿세인 발거름은 무겁게 움즉엿다. ＜64＞</paragraph>
+					<paragraph> ＜60-64＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>思君</mainTitle>
+						<alternative lang="kor">사군</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>趙靈出</name>
+							<name lang="kor">조령출</name>
+						</author>
+					</creator>
+					<subjectClass code="ma11" scheme="madoc">시</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0072" end="ma_019_0010_0072"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">思君 (사군)</pTitle>
+						<name role="필자">趙靈出</name>
+					</paragraph>
+					<paragraph> 東離에 숨은 菊花 피어 다시 시들만 것</paragraph>
+					<paragraph> 옵아 가신 님은 千里박 구름임을</paragraph>
+					<paragraph> 바람에 꼿입이 지자 내 눈물도 지옵네</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 그 산이 千이런들 그 물이 萬이런들</paragraph>
+					<paragraph> 기럭이 등을 밀어 가자면 못가련만</paragraph>
+					<paragraph> 지척에 둔 님이 오라 이애 더욱 어이네</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 삽작문 고히 열고 드시는 님에 반겨</paragraph>
+					<paragraph> 맨발로 뜰에 날여 덤비다 꿈을 깨어</paragraph>
+					<paragraph> 깬 꿈이 안탁가운 마음에 벼개 안고 울엇네</paragraph>
+					<paragraph> 1932.9.11 ＜64＞</paragraph>
+					<paragraph> ＜64＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>各國女學生氣質論</mainTitle>
+						<alternative lang="kor">각국녀학생기질론</alternative>
+					</title>
+					<subjectClass code="ma04" scheme="madoc">소식</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0073" end="ma_019_0010_0076"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">各國女學生氣質論 (각국녀학생기질론)</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>(1) 英國班 『자진하야 고난을 경험해』</pTitle>
+					</paragraph>
+					<paragraph> 영국 여학생의 기질은 일반적으로 견실하고 침착한대가 잇다. 아메리카 여학생이 華美를 즐기고 호사하는 것과는 딴판이다. 일례를 드러서 말하면 영국 여학생에게는 피서나 避寒이 업시 오히려 자진하야 더위와 싸우고 추위와 대항한다는 전통적 정신이 잇다.</paragraph>
+					<paragraph> 여름이 되면 제일 더운데로-自炊도구를 가지고 가서 苦境을 인내하는 훈련을 식히고 잇다.</paragraph>
+					<paragraph> 영국은 녯날부터의 습관이 유산계급의 가정은 특히 월사금을 만히 지불하야 私摯을 식힌다. 여름에는 학생 전체가 다 각기 단체를 만드러서 수학여행을 하는대 압서도 말하얏거이와 제일 더운 장소를 골나서 자리를 잡는다. 그런 곳만은 러시아 여학생 비슷하며 행선지는 대개 스콧트랜드 지방이라고...그리고 여행를 가지 안은 사람은 켄푸릿치 대학 등의 하기학교에 다니며 열심히 선생의 강의를 드르나 아메리카와 갓치 학위를 엇을냐는 준비가 아니고 실력을 엇기 위하야 강의를 들을 뿐이다.</paragraph>
+					<paragraph> 피서를 하거나 명예욕을 위하는 것이 아닌 것과 영국류의 침착성과 견실한 특색이 그 나라 여학생의 조흔 기질이라고 보겟다.＜65＞</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>(2) 伊太利班 『不名譽로 살여면 죽는 것이 좃타!!』</pTitle>
+					</paragraph>
+					<paragraph> 팟쇼의 나라 이태리의 여핫생은 용감한 기상이 풍부하고 不名譽로 살냐면 오히려 죽는 것이 낫다고 한다. 팟쇼의 소녀 등이 하기휴가에 캽푸생활이나 해수욕에 가는 것은 다른 나라와 다름이 업다.</paragraph>
+					<paragraph> 그러나 北歐의 여학생들과 달너서 여름이라고 영국 여학생처럼 억지로 더위와 싸와서 훈련을 밧을냐고 하지 안는다. 다만 각 도시의 여학생들이 훈련하기 위하야 여행대를 조직하야 이태리의 유명한 고성이나 녯 영웅이 잇는 산에 가 야영을 한다.</paragraph>
+					<paragraph> 그리고 유명하팟씨트의 諸士가 京鄕을 漠論하고 여학생과 남학생이 석겨서 대열을 짓고 뭇소리니를 崇拜하는 이태리 국가를 소리처 부르며 村村으로 행진을 한다. 廣場에서는 일대분열를 지어서 뭇소리니 수상의 마쓰크를 들고 그들의 諸士를 환영한다니 이야말노 이태리의 여학생이 아니면 볼 수 업는 독특한 자랑거리겟다.</paragraph>
+					<paragraph> 또 말할 것은 6월 學試驗에 불합격한 학생은 하기휴가에 고생을 공부한다. 곳 웨 그러냐하면 다음 학기까지 엇덕케 하든지 합격하지 안으면 얼골 못 들고 단인다는 풍속이 잇다. 灼熱의 8월 태양빗으로 草木의 입사귀가 축축 느러진 때 시험에 합격할냐고 정신업시 공부하는 것은 시험지옥이 아니고 무엇이랴.</paragraph>
+					<paragraph> 이태리에 빗나는 년중행사가 잇스니 그 것은 바도바 여자대학의 학년말 가장행렬과 보리를 수확한 후 농촌의 豊年 舞踏을 하는 것이다.</paragraph>
+					<paragraph> 바도바대학에서는 여름 휴가가 시작될 때 제각기 가장에 학술별로 색다른 삣죽 모자를 쓰고 村村으로 행진한다. 이 행진은 여학생 자신보다도 街里 兩便에서 구경하는 남자들이 열광한 여학생들 중 아는 사람을 찻을랴고 소동하는 광경이 더욱 滋味가 잇다 한다.</paragraph>
+					<paragraph> 豊年 舞踏도 달밤에 경치 조흔 장소에 모혀서 노래하고...춤을 춘다고 팟소로써 사회과학을 연구하는 학생들은 여름 휴가에 공장에서 근육노동을 체험하야 남자직공 갓흔 생활을 하고 잇다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>(3) 소벳트 露西亞班 『노동자 농민과 조곰도 다름이 업서』</pTitle>＜66＞</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 勞農 러시아의 여학생은 타국의 여학생에게 보히는 華美와 豊麗 그리고 명랑한 기질이 업고 노동자 농민으로써 진실한 백파센트의 여학생 자격이 잇다.</paragraph>
+					<paragraph> 여름에는 百度의 炎天下에서 벌엇케 타가지고 勤勞를 하며...모스코나 레닌그라-드의 女學들은 캅푸 생활이나 해수욕갓흔 것은 꿈에도 생각하지 안는다.</paragraph>
+					<paragraph> 아무 사람의 지도도 밧지안코 학생 자신만이 집행기관을 조직한다는 자치훈련에 노력을 한다. 남녀 석겨서 20명 식의 단체를 만든 후 수학여행이나 농사의 실지연습을 하러간다.</paragraph>
+					<paragraph> 그래서 각 단체에는 4, 5명의 집행위원이 잇고 그 一名의 집행위원장이 잇서서 단체생활을 지도한다. 농사의 견학에는 복장이나 식사까지 전혀 농민과 갓치 하지 안으면 안된다. 百度가 넘는 炎天下에 맨발노 일하는 여학생은 아마 러시아 이외 또 업슬 것이다.</paragraph>
+					<paragraph> 이러한 일을 할 수 업는 허약한 여학생은 죄다 시골 별장으로 간다. 노동자 농민의 사회주의 국가에서 여학생이 별장으로 避暑避寒을 한다면 엇던 모순이 잇슬 것이라고 생각할 것이나 러시아에서는 어린애나 노인 그리고 병든 사람은 특별대우를 하는 것이다. 그럼으로 약한 여학생에게 몸을 튼튼히 식히기 위하야 건강치료법이 실행이 되여잇다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>(4) 印度班 『인도 再興의 운동을 双眉에 지고 활약</pTitle>
+					</paragraph>
+					<paragraph> 열대에서 오랜 역사를 가젓스며 취근의 세계적 巨星간듸와 나이두 여사를 나흔 인도는 오래동안 미신과 인습에 자기 자기들을 閉込식헛스나 新時代의 우렁차게 울리는 鍾소래에 인도의 신여성들도 해방전선에서 활동을 하고 잇다.</paragraph>
+					<paragraph> 인도의 여자는 열 살에 결혼을 한다. 그런데 그 式은 대규모이엇다. 먼저 엄장한 음악대를 선두로 하며 적은 新婦와 新郞이 큰 코키리 (象)에 탄다.</paragraph>
+					<paragraph> 그 뒤 長行列에 게속되며 아세지링까쓰의 일미네이숀이 번적이고 잇다. 이러한 비용에 인도인은 전 재산의 半分까지도 꺼리김 업시 投出한다고 12, 3세의 색시는 어머니가 되여 「엿」을 먹어 가며 갓난애를 보고 잇다.</paragraph>
+					<paragraph> 인도 여자의 복장은 다만 한 장의 長布가 머리에서 전신을 둘둘 쌋슬 뿐이다.</paragraph>
+					<paragraph> 도시에는 그 우에 한 벌 더 입는데 色은 紅色이나 靑色의 無地로써 地質은 몹시 사록 고급품이라 한다. 예를 들면 ＜67＞ 其布木이 『반지』의 손이 뻐치는 것을 말함니다. 이 웨에 장식은 首輪腕輪鼻輪이 잇는데 그 것이 여자의 전 재산이다. 그리고 돈 잇는 여자는 足輪을 두게 가지고 소리를 내며 것은 것이라 한다. 퍽 우리로써 기묘하게 보이지 안을수 업다.</paragraph>
+					<paragraph> 여자는 남편이 죽어서 미망인이 되면 밝은 생활에 인연을 끈코 검은 옷을 입고 깁흔 집 속에 드러안저서 사람도 만나지 안코 죽을 때까지 기다린다고.</paragraph>
+					<paragraph> 이럭케 인도의 여자들은 현 사회의 변천에는 세계의 사조에는 접촉하지 안은 경우에 잇서 왓스나 지금의 모든 여성들 이 자기들의 구슬푼 오랜 역사를 알엇슬 때 긴 동안의 미신과 인습을 타파하러고 蹶起하여젓다.</paragraph>
+					<paragraph> 인도의 여학생은 절문 인도의 운명을 자기들의 双眉에 擔負한 늣김으로 열심히 그의 대책을 연구하고 잇다.</paragraph>
+					<paragraph> 인도에서는 여자가 돈을 내서 남자에게 가는 것임으로 인도에 여자는 사람으로써 대우를 밧지 못하는 형편에 잇섯다.</paragraph>
+					<paragraph> 그러나 최근의 여학생 기질은 그럿치 안타. 누구보다도 前衛에 서서 약소민족을 부르짓으며 인도 再興을 期約하고 잇다 한다.</paragraph>
+					<paragraph> -(끗)-＜68＞</paragraph>
+					<paragraph> ＜65-68＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0260">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>참새 放送室</mainTitle>
+						<alternative lang="kor">참새 방송실</alternative>
+					</title>
+					<subjectClass code="ma04" scheme="madoc">소식</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0076" end="ma_019_0010_0076"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">참새 放送室 (참새 방송실)</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>노총각(?) 노처녀(?)의 결혼식</pTitle>
+					</paragraph>
+					<paragraph> 前中央日報 영업국장으로 잇든 <index type="이름">金贊成</index>씨와 <index type="단체">槿友會</index>의 간부 <index type="이름">姜貞任</index>씨는 8월 31일에 동대문박 淸凉舘에서 결혼식을 거행햇다고.</paragraph>
+					<paragraph> 드르니 신랑은 40줄에 든 노총각(?) 신부 역시 30줄에 든 노처녀(?)이라나.</paragraph>
+					<paragraph> 결혼식장에 「金贊成군 姜貞任양 兩人의 결혼식」이라고 크다-랏케 써붓친 것도 보기에 그럴 듯 하엿지만 웨-병맛취가 울여나오자 의복 입은 신랑과 면사프 쓴 신부에 남녀 둘너리 여섯이 일렬로 느레서서 식장으로 향하는 양 그 중에도 신부 <index type="이름">姜貞任</index>양(?)은 눈을 네려깜고 웨-딩맛취에 발마추느라고 고심 고심 하는 양도 참석인의 눈을 번득이게 햇다한다. ＜68＞</paragraph>
+					<paragraph> ＜68＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0270">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>前夫人을 相對로 法廷에 선 챠푸링</mainTitle>
+						<alternative lang="kor">전부인을 상대로 법정에 선 챠푸링</alternative>
+					</title>
+					<subjectClass code="ma04" scheme="madoc">소식</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0077" end="ma_019_0010_0077"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">前夫人을 相對로 法廷에 선 챠푸링 (전부인을 상대로 법정에 선 챠푸링)</pTitle>
+					</paragraph>
+					<paragraph> 챠푸링의 愛子 쟐-쓰·스펜사(六才)와 시도니-·아-ㄹ은 리혼한 전 부인이 푹쓰 영화회사와 약속하기를 두 아들노 하여서 다섯 편의 영화에 출연하기로 햇는데 챠푸링과는 아모 상의도 엄시 하엿다. 챠푸링은 愛子가 영화계에 발듸레노흠을 극력 반대하야 전 부인 리타·그레-와 契約이 잇는 폭쓰회사와 드듸여 정식 계약 파기의 재판까지 하게 되엿다.</paragraph>
+					<paragraph> 챠푸링의 辯論?</paragraph>
+					<paragraph> 챠푸링이 전부인과 이혼할제 두 아들에게 대한 것만은 자기와 상의가 잇어야 한다는 조건을 부찻다는데 이번 영화회사 입사은 전 부인이 혼자서 하엿으니 一世의 영화왕 쓸쓸한 희극배우 챠푸링이 웨 가만 잇을 수 잇으을까? 챠푸링의 말은 이러하다.</paragraph>
+					<paragraph> 『어러서 영화계에 드러가는 아희처럼 물상한 것이 업다. 내 아들들이 지금 불행한 구뎅이에 드러갈여고 하는 것을 보고 내가 엇지 가만 잇을 수 잇겟슴닛가? 어릴 때부터 영화배우가 되면 천진한 성품을 발휘치 못할 뿐 아이라 어린애로서 맛보아야 할 즐거움도 맛보지 못한다. 나는 두 아들의 자연으로 발생함을 바라고 기다림니다.</paragraph>
+					<paragraph> 나는 지금 최대의 희망은 두 아들에게 달엇슴니다.</paragraph>
+					<paragraph> 그 애들이 생장해서 상당한 년령에 달하면 저희들노 조흔 직업을 택할 것이 겟지요.』이라고 말햇다.</paragraph>
+					<paragraph> 챠푸링은 매월 두 아들에게 양육비로서 1천돌식 보내 준다. 그리고 전달 23일에도 그들의 25才까지 생활하기에 충분할 막대한 금액을 은행에 저금햇다고 한다.＜69＞</paragraph>
+					<paragraph> ＜69＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0280">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>海外에 빗나는 朝鮮女俳優艶史</mainTitle>
+						<alternative lang="kor">해외에 빗나는 조선녀배우염사</alternative>
+					</title>
+					<subjectClass code="ma07" scheme="madoc">회고·수기</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0078" end="ma_019_0010_0083"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">海外에 빗나는 朝鮮女俳優艶史 (해외에 빗나는 조선녀배우염사)</pTitle>
+					</paragraph>
+					<paragraph> 조선에 극게나 영화게 무용게를 살펴보면 한심하기가 짝이 업다. 한심한 첫재 조건은 돈 업는 것이다. 누구나 굿은 결심을 가지고 극게 영화게에 발을 듸려노치만은 결국에 잇서서는 방향을 밧구게 만드는 것이 조선 극영화게의 비참한 현상이라고 한다.</paragraph>
+					<paragraph> 더욱히 잇때까지의 긔록을 본다면 녀배우들의 변절은 더 한 층 심하다. 그리하야 그들은 세상 사람의 말성거리가 되며 그 자신들이 점점 타락의 구덩이를 차저간다.</paragraph>
+					<paragraph> 무엇이 그들을 그러케 만드느냐? 「돈이 그들을 그러케 만든다.」고 대답할 수 밧게</paragraph>
+					<paragraph> 가을에 떠러지는 누런 입사귀 모양으로 그 존재까지 미미한 자도 잇다 만은 또한 이리로 저리로 다니면서 세상의 쓴 맛 단 맛올 맛보고 가는 자들도 잇다.</paragraph>
+					<paragraph> 나종에는 조선 나라를 떠나서 멀-니 현해탄을 건너서 활해를 건너서 이역(異域)에 까지 흘너가는 자도 잇다.</paragraph>
+					<paragraph> 이제 여기에 그 몃 사람의 현재와 과거럭사를 소개하겟다. 그들의 반생을 살펴보면 소설보다도 자미잇고 영화보다도 더 한 층 드라마틱하다 여러분은 끗까지 다 읽고 동정할 것이 겟는지?</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>(1) <index type="이름">金一松</index>孃</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>椿姬의 희로인으로 映畵팬에게 사랑밧든</pTitle>
+					</paragraph>
+					<paragraph> 조선영화 「춘희」(椿姬)의 희로인으로 영화팬에게 사랑을 밧든 <index type="이름">김일송</index>양의 반생-파란만흔 그의 로맨쓰를 여기에 긔록하야 공게하련다.</paragraph>
+					<paragraph> 김일송 사진</paragraph>
+					<paragraph>
+						<illustration>
+							<image src="man0107101" type="gif"/>
+						</illustration> 그는 삼남의 적은 항구(港口)-군산(群山)에서 세상을 처음 본 후 그닥지 어렵지 안은 가정에서 압날의＜71＞ 행복을 눈압에 그리면서 얼골에 미소도 띄여보앗을 것이다. 그 곳 보통학교를 졸업한 후 원대한 포부를 가지고 서울에 띄여 왓섯다.</paragraph>
+					<paragraph> 그는 경성 숙명녀자고등보통학교(京城淑明女子高等普通學校)에 입학하야서 남달은 미모와 재조의 소유자엿슴으로 여러 선생과 동무 사이에 귀염을 밧엇다. 남학생들에게서 밧은 연애 편지도 헤일 수 업슬 지경이엿다고 한다.</paragraph>
+					<paragraph> 길죽한 얼골 콧날은 기리샤의 조각갓치 쪽섯고 남성을 끌만한 얌전한 맵시에다 다리가 길고 키도 알마젓섯다.(학생 때의 일송은 姬貞이엿다.)</paragraph>
+					<paragraph> 어릴 때붓터 목소리가 고와서 음악을 잘 햇으며 그의에도 에술의 천분은 한 몸의 소유한 천재(天才)엿섯다.</paragraph>
+					<paragraph> 영화게에 발을 밟기는 열우홉살 때엿다.</paragraph>
+					<paragraph> 그가 영화게를 밟게된 원인은 사해(四海)에 일홈을 날니랴고 허영심에서 나온 것이엿는지도 몰으겟다.</paragraph>
+					<paragraph> 벌서 열일곱에 가젓든 연인은 오라지 못해서 차버리고 때마츰 락화유수(落花流水)를 금강키네마에서 촬영할 때 엿다.</paragraph>
+					<paragraph> 이 영화에 잠간 출연한 후에 다시 그로 하여금 사용할 만한 조선영화가 나오지 안엇섯다.</paragraph>
+					<paragraph> 그 때-<index type="이름">유봉열</index>이란 사람이 자긔를 감독 하에 일송을 쓰겟다고 약속하고는 영화에 출연한 후에 손과 손을 맛접고 서로 강바람 들바람만 마시엿다고.</paragraph>
+					<paragraph> 또 타이들맨이든 <index type="이름">김상진</index>과도 사랑이 깁허서 일반 영화인과 팬들에게 실망을 주엇든 때도 잇섯다.</paragraph>
+					<paragraph> 이리저리 고생하다가 <index type="이름">리경손</index>군의 도음을 바듬으로 평야에 나러가서 『춘희』에 주연을 하게 되엿다. 그 때에 사랑하는 사람이 잇섯스니 그는 자긔의 상대역을로 하는 정긔택(<index type="이름">鄭基鐸</index>)군이엿다. 여름밤 남모르게 나리는 이술에 옷을 눅여가면 대동강변에서 한 밤을 새운 때도 한 번이나 두 번이 안이엿다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>遠大한 抱負를 가지고 愛人과 함께 上海로</pTitle>
+					</paragraph>
+					<paragraph> 춘희가 끗난 뒤 정군과 김양은 멀니멀니-만국인의 물끌는 상해로 몸을 옴겻섯다.</paragraph>
+					<paragraph> 부모도 업고 동무하나 업는 이역에 향하면서도 어린 김양은 조곰도 무서워하지안코 안심하는 태도엿슴은 겻헤 사랑하는 애인 정군이 이섯기 때문이다. 상해에 이르러서부터 그들은 몹시 고생햇섯다. 더구나 김양은＜72＞ 더구나 동정하지 안을 수 업는 비참한 생활을 게속하고 잇섯슴으로 민족운동의 거두인 <index type="이름">여운형</index>(呂運亨)의 소개로 전과 갓치 백합영법공사(百合影法合司)-중국인 영화 대촬영소에 드러가서 조선역사의 한페-지를 차지하고 잇는 <index type="이름">안중근</index>(安重根)를 모델노 한 「XX魂」에 전과 갓치 출연하엿섯슴으로 그들의 일홈은 조선영화게에서보다 중국영화게서 더 알게 되엿다.</paragraph>
+					<paragraph> 그 외에도 김양은(녀해도」 女海盜(九卷)에 주연하야 중국에 배우를 압도하엿으며 매일 드러오는 려-브레타와 푸레센트는 놀낼만하엿다. 상해에 가서 김양은 정 이외에 사랑하는 사람이 업섯으며 품행도 단정하엿슴으로 상해 동포들은 무한히 칭찬햇다고 한다.</paragraph>
+					<paragraph> 그러나 정군은 김양과는 반대의 방향을 껄고 잇섯슴니다. 밤늣게 「하이아라-」=노름터=에서 밤늣게 도라오기가 일수엿고 혹 도라오지 안는 때도 잇섯스니 일송은 기-ㄴ 한 밤을 홀노서 새일 때가 만엇슴니다. 이역에서 이러한 고적을 늣기게 된 일송의 신세가 얼마나 가련함닛가? 그 우에도 정군은 일송을 때리고 박대를 햇슴으로 그은 밤이나 낫이나 압은 매의 설음을 엇지할 줄 몰낫슴니다.</paragraph>
+					<paragraph> 일송에기도 사랑을 요구하는 자들이 만헛슴니다. 백합촬영공사-사장인 주수묘(朱秀苗)을 위시하야 중국의 영화인들이 만히 갈망햇섯으나 일송은 단연히 거절햇섯다.</paragraph>
+					<paragraph> 설상에 가상이라 단이는 촬영소가 해산되자 일송에게는 또 경제적 고통까지 심하엿다. 그 후 얼마잇다가 정군과 함께 영화회사에 드러갓섯다 만은 부부사이에 싸홈만 점점 자저슬 뿐이니 일에 성과가 낫타날 리치가 잇겟는가? 그들은 거기에 못잇게 되엿다.</paragraph>
+					<paragraph> 매일갓치 밀여오든 생활골난을 엇지할 수 업서서 일송양은 북서천로(北西川路)에 잇는 파비론-땐쓰홀(일본인 경영)에 땐사-로 드러갓섯다. 거기서 조선녀자만이 십여 인이 된다.</paragraph>
+					<paragraph> 그의 스타일 좃코 얼골 잘난 데는 상해의 모뽀나 도야지 것치 살진 뿌르들이 돈으로 수단으로 그를 꾀일어고 햇으나 일송은 「나는 남편 잇는 몸이라」고 단연 거절햇다는 것이다. 만은 이 사정도 모르고 정은 도박장 땐쓰홀 등을 모조리 거처서 도라단엿섯다.</paragraph>
+					<paragraph> 여기서 일송은 실망이 생겻든지 사랑하든 애인도 버리고 1930년 8월에 상해에서 종적을 감첫다고 하드니 요새 소식을 들으니 서울 평화(平和) 카페-에서 웨드레쓰 노릇한다고.</paragraph>
+					<paragraph> 순진하고 얌전하든 일송은 이러케도 작고만 흘으고＜73＞ 흘러서 캅페-까지 왓섯다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>(2) <index type="이름">李月華</index>孃</pTitle>
+					</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>決算하니 戀人이 38명?</pTitle>
+					</paragraph>
+					<paragraph>
+						<index type="이름">리월화</index>(李月華)라면 누구든지 그 일름을 긔억하고 잇스리라. 그는 서울 출생이다. 나히도 만치 못하다 만은 아직도 그는 이리로 저리로 부평초 모양으로 바람부는 대로 물결 흔들니는 대로 작고만 흔들린다. 십년 봄-<index type="이름">윤백남</index>씨 감독 하에서 「月下의 맹세」에 출연하야 아름다운 그의 용모와 재조를 발휘한 후 <index type="이름">김도산</index>의 일행에도 잠간 잇섯다.</paragraph>
+					<paragraph> 여러분도 긔억에 남어잇으리라. 土月會 첫 공연(復活)의 가슈-사로 안적영(安夕影) 군과 합께 출연해서 일반 팬의 가슴을 몹시도 울렁거리게 하엿다는 것을!</paragraph>
+					<paragraph> 어릴 때부터 월화! 월화! 월화는 엡버하고 화제가 되엿섯다. 얼골 엡분 그것이 월화를 오늘날가튼 생활에 끄러너헛는지도 몰으겟다.</paragraph>
+					<paragraph> 그에게 첫재 애인은 학생이엿다. 둘재는 김x산...엇더튼 일일이 여기에 다-소개하기 어려우나 바람난 조선의 부호의 자제들 월화로 해서 마음을 썩이지 안는 이가 업섯슬 것이며 돈쓰지 안은 자가 업슬 것이다.</paragraph>
+					<paragraph>
+						<index type="단체">土月會</index>에서 성적이 적어지기는 조선키네마에서의 「海의 秘曲」에 출연하여서 부터이겟다. 미인도 한 때엿나바!</paragraph>
+					<paragraph> 미모의 소유자로 인긔를 한 몸에 집중햇든 월화양도 시들기 시작햇섯다. 영화게에 <index type="이름">신일선</index>양이 나오고 극게에 <index type="이름">석금성</index>이 나오자 그를 찻는 사람은 적어지게 되엿섯다.</paragraph>
+					<paragraph> 여기에서 그는 아츰 이슬과 가튼 인생의 애달픈 행로를 깨닷게 되엿다. 그의 하는 일은 돈 잇는 사람을 겨오 꾀여서 돈 xxx는 것이엿다고.</paragraph>
+					<paragraph> 1930년 -상해에 가기 전까지의 애인을 헤여 본다면 설흔 여덜명이나 된다고 하니 정말인가-그 중에도 전부가 부호에 자식이엿다고.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>五洋歌劇團해산후 許某와 上海행</pTitle>
+					</paragraph>
+					<paragraph> 파토론의 돈 먹기도 쉬운 일은 안이엿슴으로 그는 또 五洋가극단이란 것을 조직해 가지고 남선지방으로 순회햇섯다 만은 뜻하는 대로 되지 안엇슴으로 진주에까지 가서 가극단을 해산시키고 도라오든 길에 김해(金海)에＜74＞ 잇는 부호의 아들 許모를 꾀가지고 그 길로 상해로 도망햇섯다. 許모는 물론 돈 잇는 아들이다마는 돈 잇는 반면에 사람이 똑똑치 못해서 월화의 유혹밧기에는 너무나 적당한 인물이엿다.</paragraph>
+					<paragraph> 그는 임이 결혼한 지 몃 달 안되는 새 신랑이엿섯다 만은 새 신부의 가련한 정상도 돌보지 안코 월화와 함께 떠낫섯다 만은 돈은 얼마가서 벌서 손에 쥐여잇지 안엇스니 그 때부터 그는 돈 만는 월화로 부터 버림밧게 되엿섯다. 버림밧는 그는 고국에 발을 돌릴여니 참아 부끗럽고 거기 잇스랴니 수중에 돈 한 푼 업스니 살 길이 막연해서 병들어 죽엇다고도 하고 또 살햇다고 하는 말도 들린다. 바람마즌 못난이 許모의 반생도 비참하거니와 버리고 떠나간 남편을 기다리고 잇는 許모의 새로운 안해의 신세는 얼마나 가엽스냐? 그래도 돌아오리라고 기다리든 안해! 그의 부모는 남편이-죽엇다는 소식을 듯고 미칠 듯이 날뛰엿다. 얼마나 악착한 사실이며 얼마나 비참한 현상이냐.</paragraph>
+					<paragraph> 월화는 이러한 악착한 사실을 낫게 하엿다. 그뿐일가? 그는 조선의 부호의 절문 자제를 시작해서 가엽슨 절문 생명을 만히 죽엿다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>韓某의 안해의 학생생활?</pTitle>
+					</paragraph>
+					<paragraph> 許씨의 절문 안해는 아직 스므살도 못되는 나 어린 녀성이다. 그가 許모에게 싀집갈 제는 보통학교만 겨우 마칠 뿐이엿다. 돈 잇는 부호의 며느리로 또 안해로 신부의 하로하로 생활에 몹시도 꼿을 피우드니 신의 작난은 무섭게도 피이려는 꼿송이를 모조리 짓밟어 버렷다.</paragraph>
+					<paragraph> 월화가 남편을 빼아서 가지고 숨어버린 후 오래동안 싀댁에 잇스면서 인형 노릇을 햇섯다 만은 어린 그에게도 어떠한 뜻이 잇섯든지 싀댁에서 뛰여 나와섯다. 그리하여 그는 무엇보다 배워야 한다고 배운다는 것보다도 알어야 한다고 뜻을 품고 서울에 와섯다.</paragraph>
+					<paragraph> 서울에 학교가 만헛건만 그는 모 실업학교에 입학하게 되엿스니 그 것은 경제적으로 독입하자는 결심에서 이러난 생각이라고 한다.</paragraph>
+					<paragraph> 구든 결심과 큰 뜻을 가지고 학창에서 배움을 닥고 잇는 그이지만 때때로는 옛날에 사랑의 보금자리를 그리워하는 한편 또 남편을 빼앗은 죽인-월화의 멀리-보이지 안는 그림자는 무섭게 노려보는 때도 잇다고 한다.-(以下 次號 續)-＜75＞</paragraph>
+					<paragraph> ＜70-75＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0290">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>香불</mainTitle>
+						<alternative lang="kor">향불</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>파인</name>
+							<name lang="kor">파인</name>
+						</author>
+					</creator>
+					<subjectClass code="ma11" scheme="madoc">시</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0084" end="ma_019_0010_0084"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">香불 (향불)</pTitle>
+						<name role="필자">파인</name>
+					</paragraph>
+					<paragraph> 佛國寺 多寶塔은</paragraph>
+					<paragraph> 누가 싸엇기</paragraph>
+					<paragraph> 놉흐고 또 놉하서</paragraph>
+					<paragraph> 츩넝쿨도 못오르오</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 츩넝쿨 못올나도</paragraph>
+					<paragraph> 香불만은 피어잇소</paragraph>
+					<paragraph> 가신이 오시라고</paragraph>
+					<paragraph> 어느 각씨 피고갓소</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 香불이 부터부터</paragraph>
+					<paragraph> 돌기둥까지 부터부터</paragraph>
+					<paragraph> 그래도 안오신다면</paragraph>
+					<paragraph> 부처님의 罪라오.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 올 가을에 佛國寺를 차저갓드니 多寶塔이란 놉다란 돌탑우에 향불이 한가달 피여오르고 잇섯다. 이 불은 이 절간의 스님이 피운 것 갓지 안코 꼭 신라 각씨가 피워노고 간 것 가치 생각된다. 저무는 날 佛國寺의 梵鐘소리 드르면서 나는 이러케 노래불너 본 것이다.＜76＞</paragraph>
+					<paragraph> ＜76＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0300">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>누이를 부른다</mainTitle>
+						<alternative lang="kor">누이를 부른다</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>尹石重</name>
+							<name lang="kor">윤석중</name>
+						</author>
+					</creator>
+					<subjectClass code="ma11" scheme="madoc">시</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0084" end="ma_019_0010_0085"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">누이를 부른다 (누이를 부른다)</pTitle>
+						<name role="필자">尹石重</name>
+					</paragraph>
+					<paragraph>
+						<pTitle>1</pTitle>
+					</paragraph>
+					<paragraph> 누이여＜76＞</paragraph>
+					<paragraph> 그대도 보앗는가 등불업는 이 거리</paragraph>
+					<paragraph> 으, 아, 나오라</paragraph>
+					<paragraph> 횃불을 내여 두르며 어여 다들 나오라.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>2</pTitle>
+					</paragraph>
+					<paragraph> 누이여</paragraph>
+					<paragraph> 그대도 보앗는가 졸고잇는 이 거리</paragraph>
+					<paragraph> 으, 아, 나오라</paragraph>
+					<paragraph> 둥둥둥 북을 울리며 어여 다들 나오라</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>3</pTitle>
+					</paragraph>
+					<paragraph> 누이여</paragraph>
+					<paragraph> 그대도 보앗는가 우슴업는 이 거리</paragraph>
+					<paragraph> 으, 아, 나오라</paragraph>
+					<paragraph> 꼿다발 한아름 안고 어여 다들 나오라 ＜77＞</paragraph>
+					<paragraph> ＜76-77＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0310">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>梨花詩帖</mainTitle>
+						<alternative lang="kor">리화시첩</alternative>
+					</title>
+					<subjectClass code="ma11" scheme="madoc">시</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0085" end="ma_019_0010_0087"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">梨花詩帖 (리화시첩)</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>戀慕</pTitle>
+					</paragraph>
+					<paragraph> 梨專 <index type="이름">姜安息</index>
+					</paragraph>
+					<paragraph> 落葉聲 힌 달 아래 울고 예는 저 기럭아</paragraph>
+					<paragraph> 蒼空 九萬里에 소리소리 斷腹聲을</paragraph>
+					<paragraph> 님그린 一片丹心이 불타는 듯 하여라</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 그 무슨 병이길래 우리 님을 괴롭힌고</paragraph>
+					<paragraph> 食不甘 寢不安은 쉬나음즉 하 것마는</paragraph>
+					<paragraph> 骨髓에 더친 병이라 가슴터저 하옵네</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 三更밤 깁흔 밤에 그 알는양 오작하리</paragraph>
+					<paragraph> 병도 대신 알는다면 이 몸으로 밧고지고</paragraph>
+					<paragraph> 님대신 식컨 알타가 고대죽다 어떠리</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>乞人</pTitle>
+					</paragraph>
+					<paragraph> 트르게네프 원작, 梨專 李景淑 譯</paragraph>
+					<paragraph> 거리를 거닐든 내 발길은 한 수척한 걸인압헤 멈추어 젓다. 진물러 뻘거케 된 눈 푸르른 입설 람루한 의복 골마터진 상처-아! 가난에 뜻기운 불상한 인간이어! 그는 더럽고 퉁퉁분 손을 내밀며 중얼거렷다. 도아달라 하던 것이엇다. 나는 주머니마다 찻어 보앗스나 지갑도 시게도 심지어 손수건 한 개도 업섯다. 힘 업시 부들부들 떨리는 손을 들고 걸인은 아직도 나를 바라고잇다.＜77＞</paragraph>
+					<paragraph> 나는 엇지할 바를 몰낫다. 그래 「섭섭히 생각하지 마시오. 맛츰 아모 것도 가진 것이 업소이다.」하고 그의 손을 힘껏 쥐엿다. 그는 햇슥한 입술에 미소를 띄우고 「이 선물만도 고맙습니다.」 하며 내 손을 힘잇게 쥐어주든 것이엇다. 나도 그에게서 선물 바든 줄을 나는 알엇던 것이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>떠남</pTitle>
+					</paragraph>
+					<paragraph> 윌손 깁손 作, 梨專 <index type="이름">李順姬</index> 譯</paragraph>
+					<paragraph> 그는 떠나갓다</paragraph>
+					<paragraph> 나는 아모 것도 모른다</paragraph>
+					<paragraph> 그러나 오직 알기는</paragraph>
+					<paragraph> 그가 갈여고 도라스며</paragraph>
+					<paragraph> 그의 손을 흔들 때</paragraph>
+					<paragraph> 절문 그의 눈에 한 광채 비최이고</paragraph>
+					<paragraph> 나의 눈은 지는 해빗에 부시엿다</paragraph>
+					<paragraph> 그리고 그는 떠나갓다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>그리운 넷얼골(時調로 意譯한 것임니다.)</pTitle>
+					</paragraph>
+					<paragraph> 챠-ㄹ스, 램 原作 梨專 <index type="이름">李善姬</index> 譯</paragraph>
+					<paragraph> 내 어려 놀든 동무 가치 배든 그 친구들</paragraph>
+					<paragraph> 지금에 어대잇노 맛날 길 아득하니</paragraph>
+					<paragraph> 오늘도 그들 그리며 한 숨 짓고 섯노라</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 우스며 노래하며 그 시절 즐겻노라</paragraph>
+					<paragraph> 맘 친구 밤 깁도록 동거동락 하엿노라</paragraph>
+					<paragraph> 지금에 그들 업스니 그를 서러 하노라</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 어엽분 그 녀자를 사랑할 때 잇섯노라</paragraph>
+					<paragraph> 지금에 볼 수 업고 나의 길 막혓스니</paragraph>
+					<paragraph> 오늘도 그를 그리며 눈물겨워 하노라</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 녯날에는 나의게도 맘친구 잇써 것만</paragraph>
+					<paragraph> 박정이 차버리고 나는 길떠낫노라</paragraph>
+					<paragraph> 오늘에 그릴줄 알면 하마 아니할 것을</paragraph>
+					<paragraph> 오래된 그 녯날에 것든 길 다시보니</paragraph>
+					<paragraph> 쓸쓸한 비인 터는 적막한 사막갓타</paragraph>
+					<paragraph> 녯날에 그들 그리워 더욱 서러하노라＜78＞</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 절친한 내 친구여 형제보다 더한 친구</paragraph>
+					<paragraph> 엇지타 그 형제는 우리 집에 안낫던고</paragraph>
+					<paragraph> 지금에 업는 그 사람 구지 그려 하노라</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 못옷길 간 친구들 날 떠나간 친구들</paragraph>
+					<paragraph> 말하든 그 친구들 다 떠나간 곳 업네</paragraph>
+					<paragraph> 지금에 그를 업스니 더욱 섭섭하여라</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>오늘</pTitle>
+					</paragraph>
+					<paragraph> 토마스 카-랄일 原作 梨專 <index type="이름">趙貞順</index> 譯</paragraph>
+					<paragraph> 그대여</paragraph>
+					<paragraph> 헛되히 흘려보내려는가?</paragraph>
+					<paragraph> 또 다시 밝어오는</paragraph>
+					<paragraph> 오늘의 새날을.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 永劫에서 흘너온</paragraph>
+					<paragraph> 이 새 날!</paragraph>
+					<paragraph> 그리고 다시</paragraph>
+					<paragraph> 永劫으로 도라갈 이날이어니.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 보아라</paragraph>
+					<paragraph> 일즉이 아모도 못 보앗든</paragraph>
+					<paragraph> 그러케 빨니 그리고 영원히</paragraph>
+					<paragraph> 모-든 눈에서</paragraph>
+					<paragraph> 살아저바리는 이 날을!</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 그대여</paragraph>
+					<paragraph> 헛되히 흘려보내려나</paragraph>
+					<paragraph> 또 다시 밝어오는</paragraph>
+					<paragraph> 오늘의 새 날을. ＜79＞</paragraph>
+					<paragraph> ＜77-79＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0320">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>京城中國人學校에서 敎鞭잡는 吳惠友女史, 조선녀성으로 중국자제를 교육, 부인기자 방문기</mainTitle>
+						<alternative lang="kor">경성중국인학교에서 교편잡는 오혜우녀사, 조선녀성으로 중국자제를 교육, 부인기자 방문기</alternative>
+					</title>
+					<subjectClass code="ma02" scheme="madoc">대담·좌담</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0088" end="ma_019_0010_0092"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">京城中國人學校에서 敎鞭잡는 吳惠友女史, 조선녀성으로 중국자제를 교육, 부인기자 방문기 (경성중국인학교에서 교편잡는 오혜우녀사, 조선녀성으로 중국자제를 교육, 부인기자 방문기)</pTitle>
+					</paragraph>
+					<paragraph> 명랑한 가을날과 함께 내 맘도 명랑햇젓다. 오랫동안 소식이 격조햇든 親友 맛날 것도 깃벗스려니와 憧憬하든-알고 십허햇스며 보고 십허하든 그들의 생활 일면이라도 엿볼 수 잇슬 것을 생각하니 내 발은 몹시 가볍게 옴겨젓다.</paragraph>
+					<paragraph> 그러나 가벼운 발거름이 언제까지 게속되지 안코 멈처진 곳이 잇섯스니 그 곳은 民國總領事舘 압히엿섯다. 문직에게 온 뜻을 말하고 문안에 드러서니 수풀이 빽빽한 속에 칙칙한 중국식의 큼직한 건물들이 웃둑웃둑 서 잇슴이 보혓섯다. 그리고 나무 사이로서 그윽히 보히는 넓은 마당에 와 나무그늘 아래에는 短髮孃의 중국소녀들의 귀염성스런 자태가 어렴푸시 바라보엿다. 나는 꼭 녯날 이야기에 듯든 龍宮에나 드러온 듯 십흔 늣김이 머리끗까지 치밧처 올낫섯다. 내가 임이 중국을 조와햇섯든 까닭인지는 몰으나 한참이나 멍하고 서서 이리저리 살피다가 깜짝 정신을 돌려서 나는 동무부터 먼저 차즈려고 햇섯다. 낫 모르는 중국 청년에게 명함을 듸려보냇드니 한참 되여서 저-쪽 어둠침침한 골목으로부터 뛰여나오는 힌 옷 입은 여성이 보엿다. 나도 딸어갓섯지 그가 틀림업는 나의 동무인 줄 알고서!</paragraph>
+					<paragraph> 서로 손을 마조 잡은 후 그는 내게 이거 얼마만이냐는 말을 얼는 던지엿스나 나는 동무에게 무엇이라고 말햇스면 조흘지 몰낫다. 조코도 언잔은 듯 십흔 그 속에서 사는 동무엿기 때문에.＜80＞</paragraph>
+					<paragraph> 나는 내 동무가 멀리서 뛰여나옴을 보게 되자 지금까지의 조왓든 긔분은 말색이 소멸되고 말엇섯다.</paragraph>
+					<paragraph> 나는 멀리 보이는 그가 까닭업시 녯이야기 속에 나오는 히로인 가튼 녀자와도 가트게 생각되여젓섯기 때문이엿다.</paragraph>
+					<paragraph> 나는 동무에게 끌려서 가는 곳까지 이르럿다. 거기서 동무가 사는 집이엿섯다. 즉 民國總領事舘官舍엿다. 밧게서 보기엔 너무도 음산해 보이길네 안에까지 드러가고 십흔 생각이 업섯다만은 친한 동무의 살고 잇는 집이라 안드러 갈 수 업서 室內에 발을 듸려 노앗다.</paragraph>
+					<paragraph> 실내는 커다란 房 둘노 난호엿는데 어느 것이나 온돌은 아니고 마루방으로 되엿섯다. 압뒤에 유리창이 달렷스나 그다지 밝지 못햇스며 엇전지 가을 긔분이 농후하다기보담 겨울바람이 서늘하게 부는 것 가탯다. 한쪽 방은 應接室겸 家事室인 듯 햇다.</paragraph>
+					<paragraph> 이 쪽 저 쪽 유난스럽게 살피는 내 태도에 눈치챈 셈인지</paragraph>
+					<paragraph> 「이사온 지 아직 두 주일도 못됏기 때문에 아직 모-든 준비가 안되여서 이러케 음산하단다.」하며 언제나 순하게 보이는 얼골에 우슴을 띄운다. 그제야 나는</paragraph>
+					<paragraph> 「그러게 엇전지 가즈 이사해 온 집 갓구나. 하면서 소위 관사라고 일홈하는 집이 이 모양인가 십헛다. 거기서 나는 그들 중국인들의 생활 정도를 대강 엿볼 수 잇섯슴니다.</paragraph>
+					<paragraph> 동무는 테불에서 잡지를 읽고 잇든 자기의 夫君을 소개해주엇다.(사진은 夫君과 吳여사)</paragraph>
+					<paragraph> 오혜우 부부 사진</paragraph>
+					<paragraph>
+						<illustration>
+							<image src="man0165301" type="gif"/>
+						</illustration> 셋이 테불을 둘르고 안젓스나 惠友동무와 나만이 지난 이야기 동무 이야기에 한참이나 신이 낫섯다. 惠友동무가 동무 소식을 듯고 십허하는 만침 나도 소식드른지 오랜 동무들의 소식이 궁금햇다만은 내가＜81＞ 알고 십흔 것은 그 것보다도 또 다른 것이엿기 때문에 나는 말끗을 달리 돌려서</paragraph>
+					<paragraph> 「惠友야! 너 異國 아동을 가라치든 자미가 엇더냐?」</paragraph>
+					<paragraph> 「글세 엇더타고할가. 엇잿든 幼稚園 보모보다는 자미잇서.」</paragraph>
+					<paragraph> 「그래? 애들이 선생을 따루지?」</paragraph>
+					<paragraph> 「그럼 잘 따른단다. 아직 두시간 밧게 가라치지 못햇서도 엇더케 애들이 고맙게 따르는지 몰으겟다.」</paragraph>
+					<paragraph> 「교실에 척 드러서는 때에 감상이 엇대?」</paragraph>
+					<paragraph> 「아직 몃 시간 안햇스니까 잘 몰으긴 하겟지만 이국아동들인 만큼 늘 엇던 호기심을 가지고 잇게 됨으로 참조와.」</paragraph>
+					<paragraph> 「시간에 애들이 말 잘 듯니?」</paragraph>
+					<paragraph> 「조선애들처럼 얌전친느 못해 시간 중에도 저이끼리 이야기하고 십흐면 얼마든지 이야기 하고 떠들지만은 선생의 말만은 잘 듯는단다.」</paragraph>
+					<paragraph> 「그런데 惠友가 중국어를 몰으는데 엇더케 애들을 가르켜?)</paragraph>
+					<paragraph> 「그 것이 힘들기는 하지만 학생중에 한 애만은 조선말을 잘하기 때문에 정 모를 말이면 그 애가 이러서서 번역을 한단다.」</paragraph>
+					<paragraph> 「교과서로 가르키나?」</paragraph>
+					<paragraph> 「아니야. 요새는 한글책을 가지고 하는데 장차는 교과서로 한데. 요 먼저 시간에는 책상, 철필, 연필, 유리창 등등의 명사만 가르켜 주엇드니 조선 말이 이상하다고 우수워 죽겟데.」</paragraph>
+					<paragraph> 「한 주일에 몃 시간 식하나?」</paragraph>
+					<paragraph> 「두 시간인데 수요일하고 토요일이야.」</paragraph>
+					<paragraph> 「뵈워준 것을 다음시간에 밧치라면 잘 밧치나?」</paragraph>
+					<paragraph> 「그래. 잘 밧치는 애도 잇지만 모르는 애도 잇서 모르면 「워디 부디다오」하고 말해 버린단다.」</paragraph>
+					<paragraph> 「그런데 中國兒들의 특장이 무엇이드냐?」</paragraph>
+					<paragraph> 「나는 여러 나라 애들을 경험 못해봣스니 알 수는 업지만 조쩐애들에게 비하면 퍽 자유스럽다고할가」＜82＞</paragraph>
+					<paragraph> 「오늘은 上學하는 時間에 工夫하는 것을 見學할 수 업슬가?」</paragraph>
+					<paragraph> 「지금 네시니까 인제 곳 나가면 될 수 잇지」라는 대답을 황급히 맛추고 惠友동무는 夫君에게 교섭해 달나는 부탁으로 한다. 그의 夫君은 현재 中華民國 주 京城總領事舘 朝鮮文 秘書로 게신 <index type="이름">金楨弼</index>씨 엿섯다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>漢城華僑小學校와 手工時間 見學</pTitle>
+					</paragraph>
+					<paragraph> 김씨의 소개롤 漢城華僑小學校를 전부 구경하게 되엿다. 중국인 王霆如선생의 안내로 사무실 겸 응접실로 된 방으로서 부터 시작해서 정원 운동장 농원까지 모조리 구경햇섯다.</paragraph>
+					<paragraph> 교실내부라든가 기타 여러 가지 설치가 불완전한 것 만은 사실이엿스나 성의잇게 안내 해주는 王씨의 뜻이 고마워서 끗까지 따라다니면서 구경햇다. 왕씨의 설명에 의하면 그 학교의 정신은 「忠信篤敬」이라고 하며 어듸까지든지 손중산씨를 敬仰하야 그의 뜻을 밧드러 나간다고 한다.</paragraph>
+					<paragraph> 복도 랑하처럼 생긴 학생집회실에 손중산씨 사진이 걸려잇스며 정면으로 보이는 벽에는 忠信篤敬」이라고 크게 씨워잇다.</paragraph>
+					<paragraph> 교수하는 광경을 좀 보려고 햇드니 시간이 지나서 겨우 5, 6학년 생도들의 수공시간 밧게는 남지 안엇슴으로 유감스런 일이엿스나 수공時만 보게 되었다. 생도는 한 15명 밧게 되지 안는데 남녀 아동이 따로 자리를 하지 안코 한자리에 안젓슴으로 처음 보는 나로서는 그저 지나뵈우지를 안엇다.</paragraph>
+					<paragraph> 그리고 더욱히 조와 보이는 것은 여자들의 단발이엿다. 머리가 간 것보다 짧어서 활발해 보이고 간단해 보엿다. 手工은 그림책에 잇는 포도를 오려서 색칠해서 도화지에 부치는 것이엿다. 중에는 정말 포도처럼 먹음즉스럽게 맨드는 학생도 잇섯지만 무엇인지 알어보기 어려웁게 맨드는 학생도 잇다.</paragraph>
+					<paragraph> 교실구경은 끗나고 운동장에 나갓다. 만은 운동장에 잇는 학생들의 광경은 보이지 못햇다. 農園에 이르니 얼마 넓지 못한 蔬菜바테 배추가 퍼러케 서잇슬 뿐이고 다른 것은 볼 수가 업섯다. 王씨의 말에 의하면＜83＞ 작년에는 보리도 심고 콩도 심엇다고 한다. 순전히 그 어린 소년소녀들 손에서 타작되는 타작물을 선생들이 볼제 얼마나 귀엽고 아름다울가 부냐고 생각되엿다</paragraph>
+					<paragraph> 農園을 둘너서 교정에 이르럿을 때 종소리가 땡땡 울려오드니 이리저리로 생도들이 쭉 모젓혀다. 지금 생도들의 토론회가 잇으니 마즈보고 감이 엇더냐고 王씨의 말에 나는물론 승락햇섯다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>生徒들의 討論會</pTitle>
+					</paragraph>
+					<paragraph> 會場에 모힌 후 생도들은 선생의 지시에 따라서 서로 엄숙한 태도로 침묵을 직힌다.</paragraph>
+					<paragraph> 제일 먼저 교가(?)를 소리놉히 긔운차게 부르고 세 번 경례를 한다. 그 것은 허공에 함이 아니고 孫中山씨의 사진을 부처논 곳을 향해서 한다. 그리고 또 선생이 아페 나섯서 孫中山씨의 遺言을 읽을 때 전부가 머리를 숙이고 묵고하고 잇다.</paragraph>
+					<paragraph> 선생의 개회사가 잇슨 담에 소년 하나가 교단에 올나서드니 한 10분 간이나 무엇이라고 분주히 연설을 맛치고 나려온다. 그리고 또 다른 생도가 올나간다. 이러케 5, 6명의 생도가 선생이 이름 부르면 나가서 연설하고 드려왓섯다.</paragraph>
+					<paragraph> 연설이 시작될 때보다 끗맛칠 때에 박수는 몹시도 힘잇섯다. 오래되엿다. 그만 그들의 하는 이야기는 자미잇고 뜻잇는 이야기인 듯 십헛다만은 중국어는 「부지다워」도 모르는 나로서는 소 귀에 경문 외우는 격이 될 뿐이엿다.</paragraph>
+					<paragraph> 會가 끗나기는 오후 6시 경이엿다. 회장에서 나왓슬 때는 가을날의 저녁빗치 領事舘 뜰 안을 간엷흐게 빗처주고 잇섯슬 뿐이엿다. 정문까지 바래다주는 惠友동무와 그의 부근의 친절을 감사하면서 석양의 길을 분주히 걸엇섯다. ＜84＞</paragraph>
+					<paragraph> ＜80-84＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0330">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>性의 解放을 부르짓는 中國 女學生</mainTitle>
+						<alternative lang="kor">성의 해방을 부르짓는 중국 녀학생</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>上海 吳恩淑</name>
+							<name lang="kor">상해 오은숙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma04" scheme="madoc">소식</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0093" end="ma_019_0010_0097"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">性의 解放을 부르짓는 中國 女學生 (성의 해방을 부르짓는 중국 녀학생)</pTitle>
+						<name role="필자">上海 吳恩淑</name>
+					</paragraph>
+					<paragraph> 학기말이면 「남녀공학은 학생의 경쟁심을 자극하야 학업을 장려함」이라는 광고로 생도를 모집한다.</paragraph>
+					<paragraph> 상해에는 국립대학이 두 개요. 사립, 省立, 外人의 경영까지 20校가 잇다. 그 중에 좀 우수한 학교를 든다면 復旦, *大, 東亞, 文化, 交大, 中公, 兩江, 商船, 同濟, 大夏, 光華 등이다.</paragraph>
+					<paragraph> 이 여러 학교가 전부 남녀공학이다. 입학하기 쉬움으로 각지로부터 학생은 운집한다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 쩌른 스카-드, 파-마넨토웨-부, 코테-香水 날니며 중국 여학생 그들은 순백의 白蘭花, 진홍 장미를 가삼에 부치고 하이히-ㄹ 구즈를 뻬부멘트 우에 달니고 잇다.</paragraph>
+					<paragraph> 그들의 왼손에는 핸드빽, 바른편 팔노는 남학생을 낀다. 베레-모에 따볼부레스트고리 랏마즈본을 입은 남학생과 함께 그 여자들은 자기들의 카렛지라이푸를 향락한다.</paragraph>
+					<paragraph> 황색 인테리 아가씨들 그러나 그 아가씨는 화장을 한다-크라라, 보. 짜네트, 게-나-. 데이트릿트. 구레다갈보. 와 가튼 얼골을 흉내내는 것은 조선의 첨단적 아가씨들과 조금도 틀님업다. 또 그리고 어느 아가씨들은 메이, 윙그의 피카지리, 프린치라고 하는 압 머리를 바람에 한들거리며 활보들을 한다.＜85＞</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> -당신 땐스 할 줄 알지?</paragraph>
+					<paragraph> -조금은</paragraph>
+					<paragraph> 그들의 싸인 이윽코 두 사람은 로-드, 스타일의 씨-트에 흔들니면서 佛租界의 싯크한 땐스홀로 간다. 물론 학교에서 도라 가는 남녀 학생이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 波止場 압 稅關所의 大시계 벌서 오전 한 시를 5분이나 지냇다. 캐바레-에서 나오는 여학생 그의 팔은 취한 남학생이 붓들엇다.</paragraph>
+					<paragraph> -괴로와요. 관게치 아느면 우리 집에 쉬여도 조와요.</paragraph>
+					<paragraph> -응 O.K!</paragraph>
+					<paragraph> 그리하야 교외 아파-트로-물론?</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 남녀 학생의 군사훈련-旗隊가 날닌다. 水牛가 뒷둥뒷둥 물 속에서 헴을 친다. 課業이 끗나면 軍裝한 남녀학생이 쌍쌍히 짝을 지어 나무그늘 풀숩 사히에서 논다. 그곳에는 새롭고 뜨거운 키스의 課業이 아무에게도 제재가 업시 그야말노 서정적으로 여러 지는 것이다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 학교에 다-각각 女王이 잇다. 그는 전교 학생이 선거한다. 그것은 푸로마이트가 되여서 팔닌다. 아름답지 아는 女王이 잇는 학교의 학생은 기를 펴지 못하고 새로운 학생이 입학하지도 안는다.</paragraph>
+					<paragraph> -얘-XX로 가자!</paragraph>
+					<paragraph> -응 거기 M은 괜찬어.</paragraph>
+					<paragraph> -여기 것은 맹숭이 머-아주머니</paragraph>
+					<paragraph> 그리하야 학생 떼를 지어 轉校한다. 그리고 또는 女王이 인기가 업서 고만 재선되는 悲喜劇도 일어난다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 독립된 여학교에 마크다이야 스쿨이라는 귀족적 여학교가 잇다. 이곳에 浙江, 廣東, 上海 一流 財閥의 令孃들만이 모히엿다.</paragraph>
+					<paragraph> 이 곳의 기숙사는 호텔이라고 할 만한 늣김이 일어난다. 體鏡, 三面鏡, 衣裳欌, 소파, 藤椅子, 寢椅子, 따불, 벳드, 코히의 은세트, 그리고 창에는 멋진 레-스의 까-덴이 흔들닌다.</paragraph>
+					<paragraph> 책상에는 洋書 짬북 싸엿다. 그러나 중국 문자의 서적은 보히지 안는다. 그들은 고국의 책은 학교 책상에 노아 두고 보지 안는 것이다.</paragraph>
+					<paragraph> 벽에는 「밤마다 당신의 얼골에 꿈에 보인다」 라는 것을 영어로 써서 모로부처 노앗다.</paragraph>
+					<paragraph> 이것이 그들의 自修室이다. 그리고 寄宿舍이다. 화장품도 피-우 코데르 피빠-가튼 외국 제품만을 쓴다. 그러고 자국인 경영의 데파-트에서는 사지 안코＜86＞ 英人 경영의 데-파트에서 사는 것을 크다란 자랑으로 안다. 그들의 생활은 이것만으로도 충분히 상상된다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>性해방운동과 여학생</pTitle>
+					</paragraph>
+					<paragraph> 靑磁의 鞋子를 신는 힌 織紋이 잇는 淡紫色의 의상 그 外 가슴에는 翡翠의 나븨 眞珠의 귀고리 그리고 이마에는 劉海라고 부르는 前髮을 납풀거리는 纏足의 支那 미인 바람에 쓰러질듯한 蓮步의 佳人 그러한 녯 風貌는 오늘 중국의 여학생들 손으로 한 역사적 거림자로 抹殺될 것이다.</paragraph>
+					<paragraph> 이가튼 美는 忍從와 辛慘한 생활을 말하는 것이다. 그것이 세기의 怒濤에 흐므러지기 시작할 때 支那 근대여성들은 녯날 玩迷한 유교의 垣壁을 壓潰하고 반동적 강열한 힘으로 전진을 시작하얏다. 그것은 어느 때는 狂症에 갓가운 자태를 보이여 만은 비극을 번복하면서도 자유와 해방의 노래를 부르며 열정과 환희를 품고 전통과 싸호지 아느면 안 된다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 民國 16년 3월 4일 漢口에서 國際婦人解放運動이 이러낫다. 그 「三八節大會」 석상에서 국민당 대표자 詹大悲는 부녀해방을 위하야 다음과 가튼 열변을 토하얏다.</paragraph>
+					<paragraph> 「婦人의 解放은 모름직이 부인 신체를 束縛한 사슬을 解除하지 아느면 안 된다. 纏足과 가튼 것이 그 하나이다. 蓄髮하고 매일 머리를 비스며 거울을 드려다 보는 데만은 시간을 낭비하는 것도 또 하나이다. 諸姉妹는 모름직이 단발하고 자기 해방에 적응하지 아느면 안 된다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 그 다음 17년 여성해방운동이 상해 여학생들 손으로 南京서 敢行되엿다.</paragraph>
+					<paragraph> 어느 때나 先進者는 괴로운 것 가티 그들의 길도 그다지 平坦하지는 못하얏다. 운동은 조고만 반향도 업고 때로는 거진 조소와 罵言의 갓가운 소리가 들닌다. 영원히 잠들 것 가튼 여성들은 냉정한 눈을 그들에게 향하얏다.</paragraph>
+					<paragraph> 幹部에 C라고 부르는 소녀가 잇섯다. 그는 순진한 확신과 타오르는 의지를 가지고 꼭 이 데모, 스트레슌을 성공식히려고 하얏섯다.</paragraph>
+					<paragraph> 그 날이 왓다. 여성해방의 행열은 조고만 소리도 업고 거진 거진 비우슴으로 笑殺되는 듯 하얏다. 그때 별안간 C가 되어 나왓다.</paragraph>
+					<paragraph> 실오라기 한개 걸치지 안는 전나체 어린 사슴가튼 처녀의 육체를 아무런 미련도 업시 내어노코 그는 대중을 향하야 부르지젓다.＜87＞</paragraph>
+					<paragraph> -제군! 나의 육체를 5분이라도 응시할 수 잇겟슴니까. 부녀해방은 이와 가티 성의 해방에서부터 시작되지 아느면 안됨니다.</paragraph>
+					<paragraph> 거리의 사람 또 사람 그는 방울가튼 말소리와 가티 그들의 그림자는 조금 움지기지 못하얏다. 대중은 그의 진격한 태도에 감동된 것이다.</paragraph>
+					<paragraph> 그들은 大擧되엿다. 그리고 그 다음 순간 남자의 浴湯을 습격하얏다. 그곳에 잇든 남자들은 엇질 줄을 모르고 악을 쓰고 다라나 버리엿다. 그리하야 대성공을 하얏다. 그러나 그 C라는 여학생은 고만 그것 때문에 파혼을 당하얏다. 엇젓다나하는 풍설까지 들니엿다. 그러나?</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 李汝珍이라는 소설가가 10년 동안을 허비하얏다는 「鏡花錄」이라고 하는 소설에는 女性이 얼만한 비참한 노예적 생활을 남성과 가정에 속박되여 사회적으로 인간으로서 취급하지 안는 애처러운 생활을 하는가 그 麗筆로 숨김 업시 그려내엿다.</paragraph>
+					<paragraph> 「전족을 처음 맨들 때는 여자는 너무나너무나 쓰라리고 압허서 땅을 치면서 우는 것이다. 심한 것은 피부도 살도 찌저지고 진물너 선혈이 줄줄 흘느는 것이다. 이런 때는 밤에 잠도 못 잔다. 밥이 모래 밥갓해서 목구먹으로 넘어가지는 안는다. 그나 그뿐이랴. 여러 가지 가지의 병이 또 나는 것이다.</paragraph>
+					<paragraph> -그러나 누구가 아름답다고 전족가튼 것을 시작한 것이냐. 만약 이것을 아름답다 하면 육체의 할 곳이 업스면 사람을 무어라 하겟는가. 페잔자(廢殘者)라고 하지 안켓는가. 두 발이 불구가 되여 거름까지 곤란하다면 엇더케 아름답다 하겟는가. 절세의 미인이라든 西施나 楊貴妃시대에는 이와 가튼 전족이 업섯든 것이 아니나 그러나 그 원인이 음탕 속에서 나왓다면 너무나 기괴하기 짝이 업지 아느냐.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 이러한 과거를 壓潰하고 支那 여성은 奔流와 가티 근대문명의 길을 그리고 자기의 해방의 과도기를 살어 나가는 것이다.</paragraph>
+					<paragraph> 「三從四德」적 支那 여성 도덕으로부터 友愛結婚에 코론타이주의에 미국주의 공산주의 도덕에 돌진하고 잇다.</paragraph>
+					<paragraph> 그러나 그들의 아메리카적은 너무나 우숩고도 자미스러운 이야기를 남기여 놋는다. 그러나 그것은 우슴으로 지나칠 것이 아니다. 여성해방운동 도상에 眞劒한 발자최가 아닐가 한다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>學生의 秘密</pTitle>
+					</paragraph>
+					<paragraph> 상해의 四馬路로부터 불란서 조계 大馬路에 향하야＜88＞ 野雞(야-치-)의 무리들이 에트란제를 향하야 몰려온다.</paragraph>
+					<paragraph> 그곳에 우리들은 여학생을 차저낼 수 잇다. 아니 일류 호텔에서도 여학생이 살그머니 賣淫하는 일이 잇다. 그리햐아 시네마 데파-트 레스토란에 출입하는 것이다. 학교 교실에서 강의를 듯는 소녀들이 상해의 기괴한 하날 미테서 일류호텔 벳드룸에서 그 방자한 자태를 외국인들의 음탕한 눈초리 미테서 꼼지락거린다면 너무나 놀날 일이다.</paragraph>
+					<paragraph> XX示威에 참가하고 오는 길!</paragraph>
+					<paragraph> 남학생들이 소윈드를 기웃거리며 종알거린다.</paragraph>
+					<paragraph> -에구 죽겟다.-얘 그런데 저 모자 좃치.</paragraph>
+					<paragraph> -얘 이쪽 뻬러가 좃타-어구머니 이거 머냐 분이 지여젓다!</paragraph>
+					<paragraph> -애구 정말 그러케 거럿스니깐 인젠 난 데모에는 안 갈난다.</paragraph>
+					<paragraph> -나는 뭘 발이 모다 부르터 죽겟는데.</paragraph>
+					<paragraph> -얘 저것 좀 보아. 저-파렐가티 나에게 윙크 햇다.</paragraph>
+					<paragraph> -그래 엇더케.</paragraph>
+					<paragraph> -나 말이지 그 사람과 K,O햇다.</paragraph>
+					<paragraph> -흥, 기숙사 가면 무얼하나 엇던 것이든지 하나 처야지-</paragraph>
+					<paragraph> 어느 宴會의 석상 산데리야 밋</paragraph>
+					<paragraph> -저 그이 일본 사람</paragraph>
+					<paragraph> 그리하야 그 아가씨는 갓가히 온다.</paragraph>
+					<paragraph> -당신 나하고 맛반주해요. 나는 XX대학생이에요.</paragraph>
+					<paragraph> 귀여운 단발 원피스는 궁둥이까지 XXX잇다.</paragraph>
+					<paragraph> 당신 왜 出征 안해요. 남자이면서.</paragraph>
+					<paragraph> 나는 兵役에 관계 업서.</paragraph>
+					<paragraph> 뭘 무서우니깐 겁쟁이.</paragraph>
+					<paragraph> 그의 論鉾은 퍽으나 호전적이다.</paragraph>
+					<paragraph> 나 가트면 단연 출정할거야.</paragraph>
+					<paragraph> 출정하면 에로틕 大隊라도 編成할려고 핸드캡으로 무장하고.</paragraph>
+					<paragraph> 호, 호호 뭐요. 나는 모젤노 무장하고 그대로 닷는 대로 쏘아 버리겟서.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 상해의 여학생-그것은 우리의 理解 以上의 것이다. 그만콤 그들의 생활은 구로테스크하면서도 근대적이다. 교실도 酒場도 침대도 一切 교차되여 그들에게 요리된다. 그러나 그곳에는 행동이 잇다. 무엇을 하든지 상해의 여학생에는 무엇이든지 실제적 행동이 잇다. 그야말노 전통과 극열한 투쟁을 하면서 해방의 길을 걸어나가는 중국 여성의 特長이 아닐가.＜89＞ ＜85-89＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0340">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>푸레찬의 배노래</mainTitle>
+						<alternative lang="kor">푸레찬의 배노래</alternative>
+					</title>
+					<subjectClass code="ma12" scheme="madoc">소설</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0098" end="ma_019_0010_0099"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">푸레찬의 배노래 (푸레찬의 배노래)</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>配役</pTitle>
+					</paragraph>
+					<paragraph> 졸제 - 알베-ㄹ 푸례잔氏</paragraph>
+					<paragraph> 마리우쓰 - 집 제라-ㄹ氏</paragraph>
+					<paragraph> 카르멘 - 로리타 베나그데孃</paragraph>
+					<paragraph>  대통미미</paragraph>
+					<paragraph> 말세유港에서 긔젹소리가 들엿다. 화물선의 水夫 죨제와 마리우쓰는 각각 자기들의 행복된 가정에서 사랑하는 안해와 앗가운 이별을 고하다.</paragraph>
+					<paragraph> 두 쌍의 부부는 리별의 셀음에 가슴이 꼭 차섯다.＜90＞</paragraph>
+					<paragraph> 언제나 이러한 리별에 습관된 그 여자들은 이것이 당연한 일닌 줄만 알고 평범하게 생각햇다.</paragraph>
+					<paragraph> 죨제와 마리우쓰의 둘은 선실 침대에서 그 안해 마리이와 가도리이누의 사진을 걸어 노앗다.</paragraph>
+					<paragraph> 그래서 해가 지고 밤이 지나면 배는 최초의 기항지에 닷는다.</paragraph>
+					<paragraph> 선원들은 항구에서 「나는 당신을 사랑함니다」 라는 말만 각국어를 죄다 알고 잇는 여인들과 또 다시 맛날 것을 생각하고 잇다.</paragraph>
+					<paragraph> 물론 마리우쓰와 죨제도 처음갓치 카도리누와 마리이를 생각지 안케 되엇섯다. 두 사람은</paragraph>
+					<paragraph> 엇든 항구에서 카르면</paragraph>
+					<paragraph> 이라는 정열의 무용가</paragraph>
+					<paragraph> 때문에 서로 사이가 좃치 못하게 되엿다만은 마리우쓰와 죨제는 넷날부터 몹시 친한 동무엿다.</paragraph>
+					<paragraph> 다음 항구에서 죨제는 자기 호의를 가진 막크쓰를 마리우쓰에게 양도햇섯다. 여기서 카르멘 때문에 이러낫든 악의는 어름 녹듯이 두 사람 가슴에서 슬슬도 풀여 나갓다.</paragraph>
+					<paragraph> 집 떠날제 가젓든 두 안해의 란 사진은 눈에 보이지 안엇섯다.</paragraph>
+					<paragraph> 그러나 배는 말세유에 도라가는 날이 잇섯다. 그 밤에 갑판에는 처랑한 노래소리가 들엿다.</paragraph>
+					<paragraph>  배는 몰느는 사에 말세유에 갓가히 이르럿다. 죨제와 마리우쓰는 점점 마리이와 카도리누의 생각을 하게 되엿다. 집어 너엇든 두 장의 사진은 다시 끄집내어젓다. 죨제는 마리이를 맛날 것을 저버하고 마리우쓰는 카도리누 맛날 것을 즐거워 햇다.</paragraph>
+					<paragraph> 여러 항구의 여인들의 자태는 어느듯 눈 압헤서 사라저서 기억에조차 멀어젓다.</paragraph>
+					<paragraph> 배는 예정보다 더 빨니 말세유에 이른다. 죨제와 마리우쓰는 유쾌햇다. 카도리우와 마리이를 불의로 놀내게 할 것을 생각하고 가삼을 뛰엿섯다.</paragraph>
+					<paragraph> 두 사람은 배에서 나려서 자기 집으로 향햇다. 층대를 발고 2층에 올나가서 가만히 방안을 엿보니 마리이 방에도 카도리누 방에도 그들은 보지 안코 히 테불 우에 졀문 병사의 사진만 노혀 잇섯다. 죨제와 마우리쓰는 각각 자기들의 불행을 늣기면서 항구의 카페-에 달여 갓섯다.</paragraph>
+					<paragraph> 그들은 밤을 새우면서 먹그 마셧다. 「단 한 장의 사진 때문에...그것이 비극될 것 뭐 잇나?」 마리우쓰가 말햇다. 죨제도 「그러타」고 대답햇섯다. 두 사람은 비애와 우울을 쓰러바리고 카트리누와 마리이를 위하야 情狀酌盃를 드럿다.</paragraph>
+					<paragraph> 그들에겐 죄가 엄다. 또 한 잔 드러라.</paragraph>
+					<paragraph> 두 사람은 몹시 취햇다. 그들은 도라가는 길에 푸레센트를 만히 사삿다.</paragraph>
+					<paragraph> 두 번재 도라와서 방을 엿밧을 때는 카도리누와 미리이가 고로히 잠자고 잇섯다. 그리고</paragraph>
+					<paragraph> 버개 머리 테불 우에</paragraph>
+					<paragraph> 노혓든 水兵의 사진도 별서 업젓다.</paragraph>
+					<paragraph> 그들은 퍽으나 즐거윗다. 그들은 서로 苦笑를 爆發식히면서 힘 잇게 껴 안엇다.＜91＞ ＜90-91＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0350">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>발</mainTitle>
+						<alternative lang="kor">발</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>李泰俊</name>
+							<name lang="kor">이태준</name>
+						</author>
+					</creator>
+					<subjectClass code="ma14" scheme="madoc">문예기타</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0100" end="ma_019_0010_0101"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">발 (발)</pTitle>
+						<name role="필자">李泰俊</name>
+					</paragraph>
+					<paragraph> 아파 누엇스니 성한 사람들의 왓다 갓다 하는 발들이 별로 이상스럽게 눈에 걸린다. 그 눈도 코도 업는 다섯 대가리가 한 몸에 부튼 것이 성큼 성큼 다니는 것을 어찌 보면 괴물가치 무섭기도 하다.</paragraph>
+					<paragraph> 그리고 저러케 보기실케 생긴 것이 사람의 발인가 생각하니 좀 서글프기도 하다.</paragraph>
+					<paragraph> 발은 정말 사람의 어느 부분보다 제일 보기 실케 생겻다. 아모리 미인이라도 그의 발은 그의 얼골만 못할 것이오. 또 손이나 가슴이나 허리나 다리만 아조 못할 것이다. 사람의 발만은 확실히 잘 생기지 못햇다. 즘성의 것만도 못한 것 갓다. 개를 보아도 발은 그의 얼골보다 훨신 잘 생겻다. 불국사에 잇는 석사자를 보아도 발은 그의 어느 부분보다도 더 보기 조핫다.</paragraph>
+					<paragraph> 생각하면 사람의 발은 못 생긴 것 뿐 아니라 제일 불상한 것도 그것이다.</paragraph>
+					<paragraph> 나도 그럿치만 안해를 보아도 제일 깍끼지 안코 다스리지 안는 것이 발이다. 그래서 몸 가운데 제일 나이 만히 먹어 보히는 부분이 발이다. 힘줄이 두드러진 것. 주름살이 굵은 것. 발은 손보다도 훨신 먼저 늙는다.</paragraph>
+					<paragraph> 발은 불상하니만치 제일 고맙다. 눈이나 입처럼 그다지 아수운 것은＜92＞ 아닐넌지 몰으나 제일 나즌 곳에서 제일 힘들게 모든 것을 밧들고 다니는 생각하면 눈보다 입보다 멧 배 더 고맙다. 어떤 때는 돌뿌리를 차고 어떤 때는 가시에 찔리고, 찬물에 풀 숩페 먼저 드러서고 얼어도 먼저 얼고 배암에게도 먼저 물리고 참말 눈물겨웁게 고마운 것이 발이다.</paragraph>
+					<paragraph> 어떤 사람은 발 때문에 먹고도 살고 발 때문에 功名도 세운다. 편지 도르는 사람. 솜틀 쟁이. 이런 사람들은 발의 덕으로 먹고사는 것이며 요즘 세계적으로 야단인 올림픽의 경주선수들은 발의 덕으로 자기 일 개인 뿐 아니라 일 국가의 功名까지 세운다.</paragraph>
+					<paragraph> 이런 이들의 발들은 특별히 고마운 발들이거니와 그 중에도 솜틀쟁이의 발은 눈물겨웁게 고맙다. 올림픽 선수의 발은 조곰만 부상하여도 의학박사가 덤벼들고 즉시 무선전신으로 모국에 비보가 전달되어 「名譽의 負傷」이라 하고 온통 동정의 눈물 위문의 전보가 야단이지만 솜틀쟁이 그의 발은 그러케 굉장하지 못한다. 저녁이면 자개풍이 일도록 진종일 일을 하고도 한 번 어루만저 주는 사람도 업시 벗어 바린 보선짝과 함께 누더기 이불 속에서 쓸쓸히 밤을 쉬는 것뿐이다. 어떤 때는 솜반을 짓노라고 홍두께를 밟고 굴리다가 삐끗하고 관절을 삐인다. 치드라도 그 발에는 5전 10전짜리 銅針 한 대면 아조 厚待다. 하나는 한 나라의 명예을 마튼 것이오. 하나는 한 집안의 끼니를 마튼 것이니 이만한 차이도 으레 잇슬 법 하지만 솜틀쟁의 발은 올림픽 선수의 발에 비기여 그의 노력이 너머나 쓸쓸한 것 갓다. 그래서 솜틀쟁이의 발이 더 동정이 되고 더 고마운 발이거니 생각된다.</paragraph>
+					<paragraph> 쓸슬한 노력! 드러나지 안는 활약! 陰德! 그것처럼 눈물나게 고마운 것은 업슬 것이다.</paragraph>
+					<paragraph> 발이 이아기가 참 복잡해젓다. -8월 26일 病床에서-＜93＞</paragraph>
+					<paragraph> ＜92-93＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0360">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>笑話</mainTitle>
+						<alternative lang="kor">소화</alternative>
+					</title>
+					<subjectClass code="ma15" scheme="madoc">잡저</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0100" end="ma_019_0010_0101"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">笑話 (소화)</pTitle>
+					</paragraph>
+					<paragraph>
+						<pTitle>卽効</pTitle>
+					</paragraph>
+					<paragraph> 「좃치안은 놈들을 맛나서 주소가 어듸냐고 물으면 거저 시외라고 대답하는 것이 좃치.」</paragraph>
+					<paragraph> 「아- 그것 참 조흔 대답일세. 그래 자네 지금 어듸서 사는가?」</paragraph>
+					<paragraph> 「시외에 살지.」</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>顔色</pTitle>
+					</paragraph>
+					<paragraph> 「웨 그럿케 얼골 색이 좃치 못한가?」</paragraph>
+					<paragraph> 「사실인즉 의사가 내 안해를 피서지에 보내라고 하는데 내가 섭섭한 얼골을 해야 안심하고 속히 갈 것이니 하로래도 안해의 얼골을 속히 안보는 방책으로서 이러케 하는 걸세.」</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>平壤</pTitle>
+					</paragraph>
+					<paragraph> 「나는 平壤에 안 나기를 잘햇네.」</paragraph>
+					<paragraph> 「웨?」</paragraph>
+					<paragraph> 「거기는 아는 사람이 하나 업스닛까.」</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>新婚旅行</pTitle>
+					</paragraph>
+					<paragraph> 「야- 어듸 가는가?」</paragraph>
+					<paragraph> 「신혼여행일세.」＜92＞</paragraph>
+					<paragraph> 「신부는?」</paragraph>
+					<paragraph> 「집에서 집 직히고 잇네.」</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>물에 빠진 남자</pTitle>
+					</paragraph>
+					<paragraph> 「야- 이겻 좀 견저 조- 헴 칠줄 몰나서-」</paragraph>
+					<paragraph> 「좃치 헴치는 연습도 할 겸.」</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>前後</pTitle>
+					</paragraph>
+					<paragraph> 안해  「여보세요. 잔등이 가려워 죽겟서요. 무에 드러 갓는지 몰나.」</paragraph>
+					<paragraph> 남편  「보기 실혀. 그런 말은 결혼 전 연애시대에 할 말이지.」</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>순서</pTitle>
+					</paragraph>
+					<paragraph> 「이 사람 미안하지만 급히 쓸 일 잇는데 천원만 취해 주게.」</paragraph>
+					<paragraph> 「응 취해 주지. 여행갓다 와서.」</paragraph>
+					<paragraph> 「오- 언제 간단 말인가.」</paragraph>
+					<paragraph> 「그거야 돈이 생겨야지.」</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph>
+						<pTitle>一理</pTitle>
+					</paragraph>
+					<paragraph> 안해가 뜨거운 물에 어린애를 너을여고 할 제</paragraph>
+					<paragraph> 남편  「안돼. 정신잇나? 45도나 되는 뜨거운 물에.」</paragraph>
+					<paragraph> 안해  「그럿치만 어린애가 뜨거운 줄 아는가?」＜93＞</paragraph>
+					<paragraph> ＜92-93＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0370">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(小說) 절눔바리 戀愛</mainTitle>
+						<alternative lang="kor">(소설) 절눔바리 련애</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>洪九</name>
+							<name lang="kor">홍구</name>
+						</author>
+					</creator>
+					<subjectClass code="ma12" scheme="madoc">소설</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0102" end="ma_019_0010_0104"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">(小說) 절눔바리 戀愛 ((소설) 절눔바리 련애)</pTitle>
+						<name role="필자">洪九</name>
+					</paragraph>
+					<paragraph> 먹고 자고 또 일고 그리고 아이들이나 내부드트리면 그만 일 것이다.</paragraph>
+					<paragraph> 그것이 인간이라는 동물의 전부이라면-</paragraph>
+					<paragraph> 덜컥 덜컥 어슬프시 눈이 잠긴 일환의 귀에 부다트린다.</paragraph>
+					<paragraph> 『선생님! 선생님!』 퍼구나 숨이 찬 말소리엿다.</paragraph>
+					<paragraph> 『누구요?』 일환이는 벌덕 자리에서 일어나 그 소리의 주인공을 구별하려 하엿다.</paragraph>
+					<paragraph> 『저에요. 영순이에요.』 박게 잇는 사람은 분명이 녀자엿다.</paragraph>
+					<paragraph> 『이 밤에 왜 왓서요. 가요! 오지 말나니깐!</paragraph>
+					<paragraph> 어서 가시요.』 일환이는 귀치 아는 드시 응소리를 질느고 다시 이불을 머리까지 뒤집어쓰고 두러 누어 버린다.</paragraph>
+					<paragraph> 『아니! 아니! 선생님! 꼭 한 마듸만 할 말이 잇서요.』</paragraph>
+					<paragraph> 거진 울듯한 말소리엿다.</paragraph>
+					<paragraph> 『할 말이 잇스면 거기서 하고 가시요.』 어두운 천정을 치어다 보면서 던저버리드시 픽 쏘아버리엿다. 그러나 박게서는 애걸하드시 떨니는 목소리로 똑가튼 말을 연복하얏다.</paragraph>
+					<paragraph> 『왜 그랴 가라니깐 듯기 실여 가-』</paragraph>
+					<paragraph> 일환이의 말소리는 조금 놉하지고 얼골에는 알 수 업는 매지근한 슯흔 빗이 띄인 노기가 올낫다.</paragraph>
+					<paragraph> 『아니! 아니! 저- 일환씨...』＜94＞</paragraph>
+					<paragraph> 말끗이 사라저 버리고 가벼운 울음이 들닌다.</paragraph>
+					<paragraph> 「에이-』 일환이는 전등을 다시 키고 허리띄를 매면서 박그로 나왓다.</paragraph>
+					<paragraph> 『왜! 이 밤중에 와서 성가시게 구는 거요.』 영순이는 고개를 들어 한참 일환이를 치여다 보앗다. 금방 금방 무슨 말을 할드시 입술을 비죽비죽 하다가 왈칵 일환이에게로 달녀들엇다.</paragraph>
+					<paragraph> 『엇더케 해요. 일환씨.』 영순이는 일환이의 목에 매여 달니여 할닥할닥 울어버린다.</paragraph>
+					<paragraph> 『이것이 밋첫나.』 일환이는 한편으로 무섭기도 하고 무슨 영문인지도 몰낫다.</paragraph>
+					<paragraph> 『무엇을 엇더케 하란 말요.』 자긔 목에 매여 달닌 영순이의 팔을 풀면서 악을 썻다.</paragraph>
+					<paragraph> 『일환씨! 정말 어떠케 해요. 일환씨는 일환씨는 래일이면...』 말끗을 아무리지도 못하고 늣기여 버린다. 일환이는 영순이의 태도가 무서워젓다. 미처서 이것이 헛소리를 하는 것이 아닌가. 정말 실성을 하얏다 하면 이 밤중에 어떠케 하나. 그러타고 때리여 쪼차 버릴 수도 업고 이런 줄을 알엇드면 문이나 열지 말 것을 그리하얏다. 만약 지금 섯불니 뛰여 들어갓다가는 나종에 또 무슨 일이 날 줄 아나! 일환이는 이러한 생각을 하면서 될 수 잇스면 약속 빨니 쪼차 버리는 수밧게 업섯다.</paragraph>
+					<paragraph> 『영순이 실성을 하얏서 이것이 뭬야.』</paragraph>
+					<paragraph> 『안요.』 영순이는 고개를 흔들어 버린다.</paragraph>
+					<paragraph> 『그럼 왜 이래! 자- 무슨 이야기든지 해-</paragraph>
+					<paragraph> 얼마쯤이든지 들어줄께.』 일환이는 정말 실성이나 한 사람에게 대하드시 나즉한 말소리로 정답게 말하얏다. 될 수 잇는 대로 얼는 안위를 식히여 쪼차 버릴 작정이엿다.</paragraph>
+					<paragraph> 『저-』 영순이는 자기 몸을 내던지드시 일환이에게로 안키여 버리엿다.</paragraph>
+					<paragraph> 『저는 정말-정말-』 일환이는 반쯤 쓰러지게 된 영순이를 끄러 안엇다.</paragraph>
+					<paragraph> 『이거 왜 이래요! 자- 얼는 집이 가 보아였&#148;.</paragraph>
+					<paragraph> 어머니가 찻지 아느시겟소.』 영순이의 볼눅한 가슴은 사나운 물결가티 발낙거린다. 그리고 빨가케 타오른 두 볼에는 눈물 방울이 대굴대굴 굴는다.</paragraph>
+					<paragraph> 『무엇 때문에 그러는 거요.』 일환이는 영순이를 으슬어지게 꽉 끼여안고 눈물에 저진 뺨을 비비엿다.</paragraph>
+					<paragraph> 『저- 일환씨를- 이번 일의 주모자라고 잡어간대요.』 영순이는 말을 마치고 일환의 가슴에다 고개를 드러박고 뒤흔들엇다.</paragraph>
+					<paragraph> 『하하하- 그것 때문에!』 놀날줄 알엇든 일환이는 도리여 아무러치도 안타는드시 우서버린다.</paragraph>
+					<paragraph> 『그럼 괜찬어요.』 일환이의 얼골을 치어다 보앗다.＜95＞</paragraph>
+					<paragraph> 『그럼!』 일환이는 무관하다는 드시 영순이 입술에다 키쓰를 던젓다.</paragraph>
+					<paragraph> 『자! 가요. 다 아럿스니.』</paragraph>
+					<paragraph> 『그럼 곳 피신하세요.』</paragraph>
+					<paragraph> 『응』 일환이는 태연하게 대답을 한다. 그러나 일환이의 가슴은 쉴사히 업시 날뛰엇다. 이번 일도 또 랑패구나 어느 놈이 또 갓다 팔어 먹엇구나. 예이. 일환이는 입살 악물엇다.</paragraph>
+					<paragraph> 『곳 어데로 가세요! 머뭇거리지 마시고.』</paragraph>
+					<paragraph> 『나는 염려 말아요. 곳 어떠케 할 테이니.』 영순이는 자긔 할 일을 다 하얏다는 드시 방긋 우스며 달어낫다.</paragraph>
+					<paragraph> 『가만이 잇서.』 영순이는 그 말소리에 전기침을 맛는 드시 앗질하얏다.</paragraph>
+					<paragraph> 『일환이는 어데로 쫏차 버리엇서-』 소리 업시 나타난 사람들은 물론 일환이를 다리여 온 그이들이엿다.</paragraph>
+					<paragraph> 『안요!』 영순이는 정신을 밧삭 차리엿지만 자긔 목소리가 엇전지 적고 떨니는 것 갓햇다.</paragraph>
+					<paragraph> 『응 그래-』 그 사람들은 아무 말 업시 일환이 집으로 간다. 영순이는 엇절줄을 모르고 벌벌 떨면서 우둑허니 서 잇섯다.</paragraph>
+					<paragraph> 한참 잇다가 일환이는 그들을 따라서 나온다. 아무 일도 업는 드시 그 사람들과 중얼거리며 거러오는 것이엿다.</paragraph>
+					<paragraph> 『앗...』 영순이는 앗가 벌벌 떨든 그러한 겁도 업서진 드시 일환에게로 달려간다.</paragraph>
+					<paragraph> 『일환씨는 아무 일 업서요. 일환씨를 대려가시려면 저를 대려가세요.』 영순이는 그들의 한 사람을 붓들고 몸부림을 한다. 그러나 그들에게 영순이의 몸부림과 우름이 무슨 소용이 잇느냐!</paragraph>
+					<paragraph> 『요년의 게집애가』 영순이의 머리채를 붓들어 낫구어 버리엿다. 영순이는 땅바닥에 여지 업시 나가 둥그럿다.</paragraph>
+					<paragraph> 『일환씨! 일환씨!』 영순이는 몃 번인지 불너 보앗다. 그러나 그것이 무슨 소용이 잇겟느냐!</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 『얘 정신 좀 차려서 무엇을 좁 먹어라.』 영순이가 아직 잠이 깨지 안엇는데 어머니는 고히 몸을 흔들엇다.</paragraph>
+					<paragraph> 『네! 아무 생각이 업서요.』 영순이가 눈을 슬그머니 떳다.』</paragraph>
+					<paragraph> 『그럼 어떠케 하니』</paragraph>
+					<paragraph> 『아버지 안들어 오셋서요.』</paragraph>
+					<paragraph> 『글세 왜! 그러니 아버지를 맛나면 무얼하니』 어머니는 한 숨을 쉬면서 딸의 얼골을 정신 업시 들려다 보앗다.</paragraph>
+					<paragraph> -(이하 次號에 續)-＜96＞</paragraph>
+					<paragraph> ＜94-96＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0380">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>눈물의 俳優 申銀鳳</mainTitle>
+						<alternative lang="kor">눈물의 배우 신은봉</alternative>
+					</title>
+					<creator>
+						<author>
+							<name>申不出</name>
+							<name lang="kor">신불출</name>
+						</author>
+					</creator>
+					<subjectClass code="ma15" scheme="madoc">잡저</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0105" end="ma_019_0010_0107"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">눈물의 俳優 申銀鳳 (눈물의 배우 신은봉)</pTitle>
+						<name role="필자">申不出</name>
+					</paragraph>
+					<paragraph> 신은봉 사진</paragraph>
+					<paragraph>
+						<illustration>
+							<image src="man0166901" type="gif"/>
+						</illustration> 굶은 사람더러 일하란 말하고 무식한 사람더러 글쓰란 말은 모두 한 줄에 역거놀 질색할 노릇이외다.</paragraph>
+					<paragraph> K형!</paragraph>
+					<paragraph> 너무나 무책임한 말이지만 이왕 잡은 붓이니 써지는 대로 써보기는 하지만 지금 내가 급한 볼일노 해서 인천행 차를 탓는데 원고 마감이 오늘까지라는 성화가튼 분부니 엇더케 하우. 차중에서라도 덥허 노코 쓸 밧게-</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 경성역에서부터 울며 차를 탄 엇던 여인이 지금도 남 붓그러운 줄 모르고 작구 울고 갑니다. 그 엽헤 人肉장사가튼 녀석 하나이 안젓고-</paragraph>
+					<paragraph> K형!</paragraph>
+					<paragraph> 지금 내 눈 압헤 별안간 눈물 홍수가 밀녀 드러오기 시작함니다.</paragraph>
+					<paragraph> 눈물! 눈물!</paragraph>
+					<paragraph> 十尺-</paragraph>
+					<paragraph> 百尺-</paragraph>
+					<paragraph> 千尺-</paragraph>
+					<paragraph> 『억울한 눈물 모혀</paragraph>
+					<paragraph> 큰 바다 되엇노라.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 풍파 이는 날에</paragraph>
+					<paragraph> 왼 천지가 덥피리니</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 사람아 돗을 달어리＜97＞</paragraph>
+					<paragraph> 어서 그리 저어 가.』</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 典當도 안잡는 눈물-집행도 못해 가는 눈물-그러타고 눈물 백화점을 할 수도 업고- 눈물은 지금 작구 범람하면서 잇슴니다.</paragraph>
+					<paragraph> 시대가 복잡해 갈사록 눈물도 多端해 가는 모양인가 보외다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 눈물은 사람을 지배할 수 잇스되</paragraph>
+					<paragraph> 인류를 대표할 자격은 업는 데라고요-또</paragraph>
+					<paragraph> 눈물을 지배하는 지배자를 지배하는 눈물은 여성의 눈물이라고요-</paragraph>
+					<paragraph> 따는 그럴 뜻도 하지만 그럿타고 작구 울기만 해선 넙적한 떡이외다 그려.</paragraph>
+					<paragraph> 목메인 가슴을 흐득여 우는 눈물을 버리고 벅찬 벨늠에 용소슴치는 빗치나는 눈물이라야 될 게 겟지요.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 하픔 끗테 나오는 눈물은 주책 업는 눈물이요.</paragraph>
+					<paragraph> 꼬챙이에 찔녀서 나오는 눈물은 명색 업는 눈물이랄 밧게--</paragraph>
+					<paragraph> 웃는 사람들 틈에 끼여서 멋모르고 따러 웃는 녀석이나 초상집 가서 눈물 업시 우는 게집가튼 것은 한 푼에 둘식 경매나 부칠 일이지만-</paragraph>
+					<paragraph> 佳人의 최후 눈물은 너무나 애처러울 뿐이고</paragraph>
+					<paragraph> 惡人의 최후 눈물은 너무나 비장한 것이라고요-</paragraph>
+					<paragraph> 자살자의 눈물가치 더러운 눈물은 업고</paragraph>
+					<paragraph> 반역자의 눈물가치 참된 눈물은 업사외다.</paragraph>
+					<paragraph> 짠발짠을 잡으려고 하든 짜벨트의 눈물을 동정하고 십소.</paragraph>
+					<paragraph> 도야지의 눈물은 암흑에서 암흑으로 흐르고</paragraph>
+					<paragraph> 사람의 눈물은 암흑에서 광명을 찻는 것이외다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 눈물 이야기가 낫스니 <index type="이름">申銀鳳</index>양이 생각이 남니다. <index type="이름">申銀鳳</index>p양은 조선이 가진 귀여운 여배우 중에 하나이외다. 그는 책 읽기 조와하기로도 유명하거니와 또 울기 잘하기로도 유명하지요. 엇잿든 그는 퍽 『多感』한 사람이외다.</paragraph>
+					<paragraph> 무대의 <index type="이름">申銀鳳</index>이를 아는 이 만흐되 인간으로의 <index type="이름">申銀鳳</index>이를 아는 이 그리만치 못할 것 갓소이다. 원래 그는 팜프(妖婦) 역으로 일홈 난 여배우외다. 또 그는 체격이 조와서 청년(남자역)으로 분장하고 무대에 나스면 가튼 여성이라도 안 반하는 사람이 업다고 어데를 가도 듯는 이야기외다. 무엇보다도 妖婦역은 정말로 남 못 따를 特長을 빗내고 잇슴니다.＜98＞</paragraph>
+					<paragraph> 그래서 세상은 그를 毒婦가튼 본성을 가진 게집이라고 연상도 하리다. 그러나 인간으로의 <index type="이름">申銀鳳</index>은 한업시 『多情多恨』한 게집이외다. 그리고 그는 눈물 만흔 사람이외다. 홀노 눈물을 흘니고 홀노 눈물을 거두는 그늘진 여인이지요.</paragraph>
+					<paragraph> 『내가 밤낫 妖婦역을 해서 辱을 먹다가 이 다음에 만일 배우생활을 떠난다면 악독한 년이라고 누가 말도 안 부처주면 엇더케 해요.』</paragraph>
+					<paragraph> 『그럴리야 업겟지- 성격 배우는 아니니까 원래 여배우가 넉넉지 못한 조선인지라 배역이 무리로 도라가는 것이 <index type="이름">申銀鳳</index>이로 하여금 연기상 결정적 변화를 가저오게 된 것이라고 할까-또 누구보다도 잘하니까 작구 식히게만 되지.』</paragraph>
+					<paragraph> 『내 맘은 그럿케 독하지가 아는데 왜 그런게 잘 되는지 모르겟서요.』</paragraph>
+					<paragraph> 『-그것은 <index type="이름">申銀鳳</index>을 싸고도는 현실생활이 맛츰내 <index type="이름">申銀鳳</index>으로 하여금 무대를 몸부림치는 獨白處로 맨드러 주는 까닭이라고 하겟지-』</paragraph>
+					<paragraph> 그는 다시 움니다! 그러나 그의 눈물 그늘에는 새로운 엇던 벨늠을 보힙니다. 그의 교양 그의 의지 그것은 필연코 기구한 환경을 찌저 버리고 새로운 압날을 내다보며 나아가는 세기의 여인이 될 것을 주저치 안소이다. 混成旅團가튼 조선극계에서 새로운 명맥올 찻는 여배우가 되거라! 사명은 크다!</paragraph>
+					<paragraph> 銀鳳! 만흔 사람들은 너를 기대된다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> K형!</paragraph>
+					<paragraph> 쓰다가 보니까 너무나 脫線이외다. 자- 이만큼 쓰지요. 그래서 이번 文責은 이걸노 엉벙뗍 넹겨 버리고 다음은 『여배우론』이나 쓰기로 하겟서요. -中車에서-＜99＞</paragraph>
+					<paragraph> ＜97-99＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0390">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>어머니 죽인 두 姉妹의 그 後 消息</mainTitle>
+						<alternative lang="kor">어머니 죽인 두 자매의 그 후 소식</alternative>
+					</title>
+					<subjectClass code="ma15" scheme="madoc">잡저</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0107" end="ma_019_0010_0107"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">어머니 죽인 두 姉妹의 그 後 消息 (어머니 죽인 두 자매의 그 후 소식)</pTitle>
+					</paragraph>
+					<paragraph> 咸北 城津港에서 이러난 사건. 딸을 밀고햇다고 어머니를 죽여 버린 두 처녀의 진상은 임이 신문지상에 게재된 바니 길게 쓸 필요 업겟지만 그 두 처녀들은 그 후에 엇더케 되여는고?</paragraph>
+					<paragraph> 참새 방송실에 날여드러온 소식에 의하면 그들은 지금 淸津刑務所에 잇는데 아직 豫審中이라 한다.</paragraph>
+					<paragraph> 그런데 진정한 사건 진상을 알어 보니 신문에 보도된 것과는 좀 달너.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 어머니가 딸을 밀고한 것이 안이고 큰딸의 애인인 사회운동자-모씨가 밀고한 것이라고.</paragraph>
+					<paragraph> 아모리 악독한 어머닌들 자기 딸이야 밀고햇을가?</paragraph>
+					<paragraph> 어머니를 움물에 집어 너은 딸들은 애정문제를 떠나서 순전히 嚴正한 계급적 입장에서 판단을 내리워 가지고 한 일인지는 몰으지만, 혹 뒤에 리-더가 잇지나 안는가 하는 세상풍설도 떠든단니 어느 것이 사실인지!? ＜98＞</paragraph>
+					<paragraph> ＜98＞</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_019_0010_0400">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯後記</mainTitle>
+						<alternative lang="kor">편집후기</alternative>
+					</title>
+					<subjectClass code="ma09" scheme="madoc">사고·편집후기</subjectClass>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_019_0010_0108" end="ma_019_0010_0110"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯後記 (편집후기)</pTitle>
+					</paragraph>
+					<paragraph> 여러분께서 오래동안 두고 기대려 주시든 『만국부인』은 황국단퐁 무르녹는 이 절긔에 깨긋한 내용을 가지고 나타낫슴니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 처음에는 여러 가지 기사를 실으려 하엿다가 처음이니만치 미처 준비가 되지 못하여 이 다음으로 미룬 것이 만슴니다.</paragraph>
+					<paragraph> 가령 육아에 대한 것 産兒에 대한 것 그 박게 婦人에게 필요한 衣服가음 外地에 유행되는 모든 사조-이것을 모다 이 다음 호에 너케슴니다. 그래서 이 잡지는 여학생과 가정의 신부인들의 조흔 동무가 되려고 하옵니다.</paragraph>
+					<paragraph>
+                        <br/>
+                    </paragraph>
+					<paragraph> 압흐로 신진 여성의 투고를 만히 긔대함니다. 아름다운 로-맨스 문예작품 등-</paragraph>
+					<paragraph> 그리고 「만국부인」을 압흐로 엇더케 편집하여 가라고 비평과 충고를 주섯스면 감사하겟슴니다.＜100＞</paragraph>
+					<paragraph> ＜100＞</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+</level1>
