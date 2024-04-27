@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="ma_092">
+	<front>
+		<biblioData type="목차제공잡지">
+			<title>
+				<mainTitle>현계단</mainTitle>
+			</title>
+			<binderPeriod begin="1928-07-00" end="1929-04-00"/>
+		</biblioData>
+	</front>
+	<level2 id="ma_092_0010">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제1호">현계단 제1호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1928-07-15">1928년 7월 15일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_092_0010_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>宣言</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">宣言</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0010_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>現下의 國際情勢에 對하야</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>須奪隣</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">現下의 國際情勢에 對하야</pTitle>
+						<name role="필자">須奪隣</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0010_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>批判의 折衷主義-朴文秉君에게 答함</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>R生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">批判의 折衷主義-朴文秉君에게 答함</pTitle>
+						<name role="필자">R生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0010_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮運動 發刊宣言의 批判</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金榮斗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮運動 發刊宣言의 批判</pTitle>
+						<name role="필자">金榮斗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0010_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮은 어디로 가나?</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>車太形</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮은 어디로 가나?</pTitle>
+						<name role="필자">車太形</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0010_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>靑年運動의 敎育코오스에 對하야</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李斗初</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">靑年運動의 敎育코오스에 對하야</pTitle>
+						<name role="필자">李斗初</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0010_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>맑스主義 史的發展의 特性에 對한 若干의 考察</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">맑스主義 史的發展의 特性에 對한 若干의 考察</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0010_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>日本의 支那XX에 對한 凡太平洋勞動組合書記局의 抗議</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">日本의 支那XX에 對한 凡太平洋勞動組合書記局의 抗議</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0010_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯後記</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯後記</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_092_0020">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제2호">현계단 제2호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1929-04-05">1929년 4월 5일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_092_0020_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>現段階에 朝鮮맑스主義者의 任務</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>黃鍾漢</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">現段階에 朝鮮맑스主義者의 任務</pTitle>
+						<name role="필자">黃鍾漢</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>무엇으로부터 始作할 것인가? - 工場의 中으로</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>南海明</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">무엇으로부터 始作할 것인가? - 工場의 中으로</pTitle>
+						<name role="필자">南海明</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>支配階級의 XXX한 彈壓에 鬪爭하라!!</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">支配階級의 XXX한 彈壓에 鬪爭하라!!</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國際日誌</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國際日誌</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>러시아勞動者黨의 發生過程</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">러시아勞動者黨의 發生過程</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮民族XX運動의 發展과 現狀</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮民族XX運動의 發展과 現狀</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>改良主義와 鬪爭하라!! - 元山爭議에 對하야 全朝鮮勞動者大衆에게</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金榮斗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">改良主義와 鬪爭하라!! - 元山爭議에 對하야 全朝鮮勞動者大衆에게</pTitle>
+						<name role="필자">金榮斗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>讀者諸君의게!!</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">讀者諸君의게!!</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>基金 一千圓 募集 압흐로 八百圓이다!!</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">基金 一千圓 募集 압흐로 八百圓이다!!</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社友及同人募集</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社友及同人募集</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯餘戰</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯餘戰</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>現段階에 朝鮮맑스主義者의 任務</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>黃鍾漢</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">現段階에 朝鮮맑스主義者의 任務</pTitle>
+						<name role="필자">黃鍾漢</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>무엇으로부터 始作할 것인가? - 工場의 中으로</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>南海明</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">무엇으로부터 始作할 것인가? - 工場의 中으로</pTitle>
+						<name role="필자">南海明</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>支配階級의 XXX한 彈壓에 鬪爭하라!!</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">支配階級의 XXX한 彈壓에 鬪爭하라!!</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國際日誌</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國際日誌</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>러시아勞動者黨의 發生過程</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">러시아勞動者黨의 發生過程</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮民族XX運動의 發展과 現狀</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮民族XX運動의 發展과 現狀</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>改良主義와 鬪爭하라!! - 元山爭議에 對하야 全朝鮮勞動者大衆에게</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金榮斗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">改良主義와 鬪爭하라!! - 元山爭議에 對하야 全朝鮮勞動者大衆에게</pTitle>
+						<name role="필자">金榮斗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>讀者諸君의게!!</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">讀者諸君의게!!</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>基金 一千圓 募集 압흐로 八百圓이다!!</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">基金 一千圓 募集 압흐로 八百圓이다!!</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社友及同人募集</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社友及同人募集</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_092_0020_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯餘戰</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯餘戰</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+</level1>

@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="ma_041">
+	<front>
+		<biblioData type="목차제공잡지">
+			<title>
+				<mainTitle>신사조</mainTitle>
+			</title>
+			<binderPeriod begin="1950-05-01" end="1951-11-10"/>
+		</biblioData>
+	</front>
+	<level2 id="ma_041_0010">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1950년 5월(통권 1호, 제1권 제1호)">신사조 1950년 5월(통권 1호, 제1권 제1호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1950-05-01">1950년 5월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_041_0010_0001" end="ma_041_0010_0112"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_041_0010_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(卷頭言)創刊辭</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0008" end="ma_041_0010_0008"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명"/>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>原子力의 構造와 그 文化的 哲學的 意義</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金龍培</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0077" end="ma_041_0010_0085"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">原子力의 構造와 그 文化的 哲學的 意義</pTitle>
+						<name role="필자">金龍培</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>사르트르의 實存主義</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>로버트·쟘펠, 梁秉植 譯</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0009" end="ma_041_0010_0020"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">사르트르의 實存主義</pTitle>
+						<name role="필자">로버트·쟘펠, 梁秉植 譯</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>앓아 누워</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金永郞</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0090" end="ma_041_0010_0090"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">앓아 누워</pTitle>
+						<name role="필자">金永郞</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>山上의 니히체</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>구우루몽</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0091" end="ma_041_0010_0092"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">山上의 니히체</pTitle>
+						<name role="필자">구우루몽</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>켈 케고오르 抄</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0093" end="ma_041_0010_0094"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">켈 케고오르 抄</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>戰後 世界思潮論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金三奎</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0028" end="ma_041_0010_0033"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">戰後 世界思潮論</pTitle>
+						<name role="필자">金三奎</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>戰後 國內思潮論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>吳宗植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0071" end="ma_041_0010_0076"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">戰後 國內思潮論</pTitle>
+						<name role="필자">吳宗植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美術界動向(短評)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李快大</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0086" end="ma_041_0010_0087"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美術界動向</pTitle>
+						<name role="필자">李快大</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>音樂界動向(短評)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金聖道</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0088" end="ma_041_0010_0089"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">音樂界動向</pTitle>
+						<name role="필자">金聖道</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>偶然性의 硏究(小說에 있어 偶然性의 虛構面과 眞實面에 對한 考察)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金東里</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0034" end="ma_041_0010_0040"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">偶然性의 硏究</pTitle>
+						<name role="필자">金東里</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>孤獨의 哲學(文豪와 孤獨)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金晋燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0041" end="ma_041_0010_0048"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">孤獨의 哲學</pTitle>
+						<name role="필자">金晋燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>反自然主義 小說(「부-루제」의 「弟子」에 對하여)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>趙演鉉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0049" end="ma_041_0010_0060"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">反自然主義 小說</pTitle>
+						<name role="필자">趙演鉉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>월터·휫트맨 論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓黑鷗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0061" end="ma_041_0010_0070"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">월터·휫트맨 論</pTitle>
+						<name role="필자">韓黑鷗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>續 一代의 遺業</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>廉想涉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0095" end="ma_041_0010_0112"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">續 一代의 遺業</pTitle>
+						<name role="필자">廉想涉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0010_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>現代文化와 印度思想</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金基錫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_041_0010_0021" end="ma_041_0010_0027"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">現代文化와 印度思想</pTitle>
+						<name role="필자">金基錫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_041_0020">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1951년 11월(통권 5호, 제2권 제2호)">신사조 1951년 11월(통권 5호, 제2권 제2호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1951-11-10">1951년 11월 10일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_041_0020_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(卷頭言)知性의 倫理</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명"/>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>民主韓國의 反省</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>愼道晟</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">民主韓國의 反省</pTitle>
+						<name role="필자">愼道晟</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>亞細亞諸民族의 革命運動(1次大戰에서 2次大戰後의 動向)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪鍾仁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">亞細亞諸民族의 革命運動</pTitle>
+						<name role="필자">洪鍾仁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美蘇極東政策의 再檢討</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李健赫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美蘇極東政策의 再檢討</pTitle>
+						<name role="필자">李健赫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>「民主日本」에 무엇을 求하는가?(하나의 序論的 敍述에 代하여)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李軒求</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">「民主日本」에 무엇을 求하는가?</pTitle>
+						<name role="필자">李軒求</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>民主主義의 道德(敎養講座)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金基錫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">民主主義의 道德</pTitle>
+						<name role="필자">金基錫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>建設과 自己反省(敎養講座)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓晶東</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">建設과 自己反省</pTitle>
+						<name role="필자">韓晶東</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新時代·新戀愛(敎養講座)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李璇求</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新時代·新戀愛</pTitle>
+						<name role="필자">李璇求</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>蘇聯의 內臟을 切開함(21個月間 蘇聯에 駐在한 佛記者의 手記)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>S·간즈부르구</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">蘇聯의 內臟을 切開함</pTitle>
+						<name role="필자">S·간즈부르구</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>偶像스타린 管見</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金民洙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">偶像스타린 管見</pTitle>
+						<name role="필자">金民洙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>街頭有感</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>許栢年</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">街頭有感</pTitle>
+						<name role="필자">許栢年</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>벙어리의 辯</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴咲里</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">벙어리의 辯</pTitle>
+						<name role="필자">朴咲里</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>베르레-느와 램보의 同性戀愛</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>南祐石</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">베르레-느와 램보의 同性戀愛</pTitle>
+						<name role="필자">南祐石</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>매카니즘에의 警戒</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>趙演鉉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">매카니즘에의 警戒</pTitle>
+						<name role="필자">趙演鉉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>까뮤와 싸르트르와 마르로(苦憫하는 佛蘭西文壇)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>桂明勳</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">까뮤와 싸르트르와 마르로</pTitle>
+						<name role="필자">桂明勳</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>「인터내셔내리즘」과 두 개의 世界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>許宇成</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">「인터내셔내리즘」과 두 개의 世界</pTitle>
+						<name role="필자">許宇成</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>民生과 白財政</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>裵成龍</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">民生과 白財政</pTitle>
+						<name role="필자">裵成龍</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>從軍 2題</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴和穆</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">從軍 2題</pTitle>
+						<name role="필자">朴和穆</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>밤</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>毛允淑</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">밤</pTitle>
+						<name role="필자">毛允淑</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>나루터의 脫走</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安壽吉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">나루터의 脫走</pTitle>
+						<name role="필자">安壽吉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>서울에 두고온 무덤을 찾아서</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金珖燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">서울에 두고온 무덤을 찾아서</pTitle>
+						<name role="필자">金珖燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>새 世代의 倫理를 말함(鼎談)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>徐恒錫, 金東里, 金后今</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">새 世代의 倫理를 말함</pTitle>
+						<name role="필자">徐恒錫, 金東里, 金后今</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>文化春秋</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">文化春秋</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_041_0020_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>短波放送</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">短波放送</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+</level1>

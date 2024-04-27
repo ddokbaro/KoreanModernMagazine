@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="ma_046">
+	<front>
+		<biblioData type="목차제공잡지">
+			<title>
+				<mainTitle>향토</mainTitle>
+			</title>
+			<binderPeriod begin="1946-07-16" end="1948-06-15"/>
+		</biblioData>
+	</front>
+	<level2 id="ma_046_0010">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1946년 7월(통권 1호, 제1권 제1호)">향토 1946년 7월(통권 1호, 제1권 제1호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1946-07-16">1946년 7월 16일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_046_0010_0001" end="ma_046_0010_0040"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_046_0010_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>李朝實錄의 成立에 就하여(1)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李在郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0010_0002" end="ma_046_0010_0022"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">李朝實錄의 成立에 就하여</pTitle>
+						<name role="필자">李在郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0010_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>李朝의 圖畵署雜攷</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>尹喜淳</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0010_0023" end="ma_046_0010_0032"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">李朝의 圖畵署雜攷</pTitle>
+						<name role="필자">尹喜淳</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0010_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>李朝實錄刊行에 對하여</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0010_0038" end="ma_046_0010_0038"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">李朝實錄刊行에 對하여</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0010_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學界消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0010_0032" end="ma_046_0010_0032"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學界消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0010_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>司畜洞雜錄</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔暎海</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0010_0039" end="ma_046_0010_0040"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">司畜洞雜錄</pTitle>
+						<name role="필자">崔暎海</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0010_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>中國 古代醫學에의 雜記</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪以燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0010_0033" end="ma_046_0010_0038"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">中國 古代醫學에의 雜記</pTitle>
+						<name role="필자">洪以燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_046_0020">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1946년 8월(통권 2호, 제1권 제2호)">향토 1946년 8월(통권 2호, 제1권 제2호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1946-08-30">1946년 8월 30일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_046_0020_0001" end="ma_046_0020_0048"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_046_0020_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>李朝實錄의 成立에 就하여(2)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李在郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0020_0022" end="ma_046_0020_0048"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">李朝實錄의 成立에 就하여</pTitle>
+						<name role="필자">李在郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0020_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>覺睡襍史(民談資料)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0020_0010" end="ma_046_0020_0016"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">覺睡襍史</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0020_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>兒名考</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>石宙明</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0020_0016" end="ma_046_0020_0016"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">兒名考</pTitle>
+						<name role="필자">石宙明</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0020_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>思想鬼考(主로 成文說話에서)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>姜永壽</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0020_0004" end="ma_046_0020_0009"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">思想鬼考</pTitle>
+						<name role="필자">姜永壽</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0020_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>鬼山堂由來記</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>石宙明</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0020_0017" end="ma_046_0020_0021"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">鬼山堂由來記</pTitle>
+						<name role="필자">石宙明</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_046_0030">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1946년 12월(통권 3호, 제1권 제3호)">향토 1946년 12월(통권 3호, 제1권 제3호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1946-12-15">1946년 12월 15일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_046_0030_0001" end="ma_046_0030_0036"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_046_0030_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>九黃里 三層石塔內 發見品</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李弘稙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0030_0002" end="ma_046_0030_0010"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">九黃里 三層石塔內 發見品</pTitle>
+						<name role="필자">李弘稙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0030_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>여자가(女子歌)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0030_0011" end="ma_046_0030_0018"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">여자가</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0030_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>柳訸의 「麗代山陵考」와 M·TCHANG의 「梁代諸陵考」(TOMBEAU DES LIANG)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪以燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0030_0023" end="ma_046_0030_0028"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">柳訸의 「麗代山陵考」와 M·TCHANG의 「梁代諸陵考」</pTitle>
+						<name role="필자">洪以燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0030_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>村談解頣</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>姜希孟</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0030_0019" end="ma_046_0030_0022"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">村談解頣</pTitle>
+						<name role="필자">姜希孟</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0030_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>汲古隨錄</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪淳赫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0030_0031" end="ma_046_0030_0036"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">汲古隨錄</pTitle>
+						<name role="필자">洪淳赫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0030_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學界消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0030_0029" end="ma_046_0030_0030"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學界消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_046_0040">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1947년 4월(통권 4호, 제2권 제1호)">향토 1947년 4월(통권 4호, 제2권 제1호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1947-04-15">1947년 4월 15일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_046_0040_0001" end="ma_046_0040_0020"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_046_0040_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>배뱅이굿의 緖說</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>柳寅暎</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0040_0002" end="ma_046_0040_0015"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">배뱅이굿의 緖說</pTitle>
+						<name role="필자">柳寅暎</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0040_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>도깨비 雜考</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>姜永壽</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0040_0016" end="ma_046_0040_0020"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">도깨비 雜考</pTitle>
+						<name role="필자">姜永壽</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_046_0050">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1947년 7월(통권 5호, 제2권 제2호)">향토 1947년 7월(통권 5호, 제2권 제2호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1947-07-15">1947년 7월 15일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_046_0050_0001" end="ma_046_0050_0032"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_046_0050_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮語의 精神醫學的 觀察</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔臣海</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0050_0002" end="ma_046_0050_0008"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮語의 精神醫學的 觀察</pTitle>
+						<name role="필자">崔臣海</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0050_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>13道의 由來</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李瑄根</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0050_0013" end="ma_046_0050_0022"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">13道의 由來</pTitle>
+						<name role="필자">李瑄根</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0050_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮語法</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>南宮檍</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0050_0023" end="ma_046_0050_0032"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮語法</pTitle>
+						<name role="필자">南宮檍</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0050_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>燕行攷</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金聖七</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0050_0009" end="ma_046_0050_0012"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">燕行攷</pTitle>
+						<name role="필자">金聖七</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0050_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>꿈의 語源</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0050_0022" end="ma_046_0050_0022"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">꿈의 語源</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_046_0060">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1947년 10월(통권 6호, 제2권 제3호)">향토 1947년 10월(통권 6호, 제2권 제3호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1947-10-15">1947년 10월 15일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_046_0060_0001" end="ma_046_0060_0040"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_046_0060_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>장승</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李在郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0060_0031" end="ma_046_0060_0032"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">장승</pTitle>
+						<name role="필자">李在郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0060_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>六村說話 小考</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金相述</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0060_0002" end="ma_046_0060_0010"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">六村說話 小考</pTitle>
+						<name role="필자">金相述</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0060_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國文學 雜記(慕竹旨郞歌를 中心으로)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>池憲泳</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0060_0011" end="ma_046_0060_0023"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國文學 雜記</pTitle>
+						<name role="필자">池憲泳</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0060_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>唐人記錄에 나타난 蓋世英雄 泉蓋蘇文</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李鐸</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0060_0033" end="ma_046_0060_0035"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">唐人記錄에 나타난 蓋世英雄 泉蓋蘇文</pTitle>
+						<name role="필자">李鐸</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0060_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>燕行攷(2)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金聖七</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0060_0027" end="ma_046_0060_0030"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">燕行攷</pTitle>
+						<name role="필자">金聖七</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0060_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>汲古隨錄(2)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪淳赫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0060_0024" end="ma_046_0060_0026"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">汲古隨錄</pTitle>
+						<name role="필자">洪淳赫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0060_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>오입쟁이 격식</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0060_0036" end="ma_046_0060_0038"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">오입쟁이 격식</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0060_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>負商人事</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0060_0039" end="ma_046_0060_0040"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">負商人事</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_046_0070">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1948년 1월(통권 7호, 제3권 제1호)">향토 1948년 1월(통권 7호, 제3권 제1호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1948-01-15">1948년 1월 15일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_046_0070_0001" end="ma_046_0070_0020"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_046_0070_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>韓露交涉雜話의 一齣</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪以燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0070_0002" end="ma_046_0070_0008"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">韓露交涉雜話의 一齣</pTitle>
+						<name role="필자">洪以燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0070_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>八道邑誌歌</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0070_0014" end="ma_046_0070_0020"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">八道邑誌歌</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0070_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>燕行攷(3)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金聖七</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0070_0009" end="ma_046_0070_0013"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">燕行攷</pTitle>
+						<name role="필자">金聖七</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_046_0080">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1948년 3월(통권 8호, 제3권 제2호)">향토 1948년 3월(통권 8호, 제3권 제2호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1948-03-15">1948년 3월 15일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_046_0080_0001" end="ma_046_0080_0020"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_046_0080_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>壬辰倭亂과 遺日使節</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金永鍵</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0080_0003" end="ma_046_0080_0006"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">壬辰倭亂과 遺日使節</pTitle>
+						<name role="필자">金永鍵</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0080_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>麗末 李光의 遣墟傳說</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>柳寅晩</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0080_0007" end="ma_046_0080_0010"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">麗末 李光의 遣墟傳說</pTitle>
+						<name role="필자">柳寅晩</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0080_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>辭典編纂室 餘話</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>柳烈</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0080_0016" end="ma_046_0080_0019"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">辭典編纂室 餘話</pTitle>
+						<name role="필자">柳烈</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0080_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>女容國傳</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>宋申用</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0080_0011" end="ma_046_0080_0013"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">女容國傳</pTitle>
+						<name role="필자">宋申用</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0080_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮古今笑叢(新刊評)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪淳赫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0080_0014" end="ma_046_0080_0015"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮古今笑叢</pTitle>
+						<name role="필자">洪淳赫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0080_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社誌</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0080_0020" end="ma_046_0080_0020"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社誌</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_046_0090">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1948년 6월(통권 9호, 제3권 제3호)">향토 1948년 6월(통권 9호, 제3권 제3호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1948-06-15">1948년 6월 15일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_046_0090_0001" end="ma_046_0090_0040"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_046_0090_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮興籍分布의 地方的 考察과 歷代 藏書家</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>辛東燁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0090_0002" end="ma_046_0090_0021"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮興籍分布의 地方的 考察과 歷代 藏書家</pTitle>
+						<name role="필자">辛東燁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0090_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>낙엽(落葉)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>尹崑崗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0090_0038" end="ma_046_0090_0038"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">낙엽</pTitle>
+						<name role="필자">尹崑崗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0090_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>墳墓와 風水思想 起源考</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金源表</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0090_0022" end="ma_046_0090_0027"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">墳墓와 風水思想 起源考</pTitle>
+						<name role="필자">金源表</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0090_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>씨끝과 토씨의 피어남에 대해서</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>박지홍</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0090_0028" end="ma_046_0090_0033"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">씨끝과 토씨의 피어남에 대해서</pTitle>
+						<name role="필자">박지홍</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0090_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>談話雜筆</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪以燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0090_0034" end="ma_046_0090_0037"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">談話雜筆</pTitle>
+						<name role="필자">洪以燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0090_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>「가로쓰기 교본」(新刊評)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>柳烈</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0090_0038" end="ma_046_0090_0039"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">「가로쓰기 교본」</pTitle>
+						<name role="필자">柳烈</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_046_0090_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社誌</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_046_0090_0040" end="ma_046_0090_0040"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社誌</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+</level1>

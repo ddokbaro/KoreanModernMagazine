@@ -1,0 +1,3987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="ma_084">
+	<front>
+		<biblioData type="목차제공잡지">
+			<title>
+				<mainTitle>우라키</mainTitle>
+			</title>
+			<binderPeriod begin="1925-09-00" end="1936-09-00"/>
+		</biblioData>
+		<description>
+			<biblioExplanation groupID="02" groupName="일제시기 잡지 해제" id="ma_084_exp" name="우라키 The Rocky">
+				<content>
+					<paragraph>미국의 한국유학생조직인 북미조선인학생총회(The Korean Student Federation of North American)가 1925년부터 1936년까지 발간한 기관지이다. 1925년 9월 26일 창간호를 내고 이후 1926, 1928, 1930, 1931, 1933, 1936년에 이르기까지 통권 7호를 발간하였다. 북미조선인학생총회는 1919년 1월 1일 출범한 단체이다. 미국에는 1887년 서재필(徐載弼)과 서광범(徐光範)이 망명한 이래 1910년까지 약 30명 정도의 유학생이 거주하였는데 1918년말 오하이오(Ohio) 몇몇 대학 유학생들이 한인유학생회를 조직하기로 결의하여 3·1운동을 두달 앞두고 조직한 것이다. 이후 1923년 6월의 미주유학생대회에서 '학생보'를 발간하기로 결의한 것이 「우라키」의 발간으로 나타났다. 우라키는 록키(Rocky)산맥의 한글발음에서 나온것이라 한다. 우라키 제2호에서 "본지는 우라키 산과 같은 순결(純潔), 장엄(莊嚴), 인내(忍耐)등의 기상을 흠모한다는 말이다"라는 말로 잡지의 특성을 말하고 있다.  잡지의 편집은 유학생총회의 편집부가 담당하였는데, 편집부는 편집부장과 분야별 편집담당자로 구성 되어있었다. 편집부장(혹은 총편집, 주필)은 제4호까지 오천석(吳天錫)이었고 전영택(田榮澤, 5호), 정일형(鄭一亨, 6호), 김태선(金太線, 7호)으로 이어졌다. 편집진은 종교철학, 교육, 사회, 자연과학, 문예기사 등으로 분담 구성되었다. 미국에서 편집 간행된 우라키는 국내에도 전달되어 간행되었는데 총독부에 제출하여 사전검열을 얻은 뒤 발간하였다고 한다. 국내의 편집 겸 발행인은 제1호, 제2호 안동원(安東源, 이화여전 교수)이었고, 제3호는 도이명(都伊明, 미국인), 제4호 피시어(皮時漁, 미국인 연희전문학교), 제5호 방인근(方仁根), 제6호 오천석, 제7호 김명선(金明善, 세브란스의전)이었다. 인쇄는 제1호에서 제3호까지 조선기독교창문사 인쇄부, 제4호는 대동인쇄주식회사, 제5호부터 제7호는 한성도서주식회사였다.   우라키가 유학생들의 잡지요 기관지로서 출발하였으나 기관지의 성격보다는 국내 동포들에 대한 계몽적 성향을 더 강하게 가지고 있다. 창간호 권두언에는 이책을 "고향에 대한 정을 기록한 편지요", "부모형제에게 드리는 예물"이라고 밝히고 있으며 다수의 계몽적 성격의 논단, 유학예비자에 대한 정보제공 및 유학생계의 동향 소개 등이 내용의 주류를 이루고 있는데서 그 사정을 살필 수 있다. 이 잡지를 통하여 재미 한인유학생사회의 조직과 중심인물에 대한 기본적 정보를 확인할 수 있으며 나아가 한인들의 미주이민사(美洲移民史)와 미주동포사회의 모습을 살피는 데 중요한 자료라 하겠다.</paragraph>
+				</content>
+			</biblioExplanation>
+		</description>
+	</front>
+	<level2 id="ma_084_0010">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제1호">우라키 제1호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1925-09-26">1925년 9월 26일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_084_0010_0001" end="ma_084_0010_0194"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_084_0010_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮學生諸君에게</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>哲學博士 李承晩</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0016" end="ma_084_0010_0017"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮學生諸君에게</pTitle>
+						<name role="필자">哲學博士 李承晩</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>깃붐에 살음과 나의 두어마대 提議</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>法學博士 姜永昇</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0017" end="ma_084_0010_0020"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">깃붐에 살음과 나의 두어마대 提議</pTitle>
+						<name role="필자">法學博士 姜永昇</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國大學과 留學預備에 對하여</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>哲學博士 金麗植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0020" end="ma_084_0010_0028"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國大學과 留學預備에 對하여</pTitle>
+						<name role="필자">哲學博士 金麗植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>在美朝鮮學生의 現狀及將來</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>留美學生總會前會長 시카고大學博士院 廉光燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0028" end="ma_084_0010_0042"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">在美朝鮮學生의 現狀及將來</pTitle>
+						<name role="필자">留美學生總會前會長 시카고大學博士院 廉光燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>敎育學 見地에서 觀察하는 留美學生의 心理上 經驗</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>뜌북大學 張利郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0042" end="ma_084_0010_0055"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">敎育學 見地에서 觀察하는 留美學生의 心理上 經驗</pTitle>
+						<name role="필자">뜌북大學 張利郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮文化를 保存하여라</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>스타博士</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0056" end="ma_084_0010_0058"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮文化를 保存하여라</pTitle>
+						<name role="필자">스타博士</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮工業의 歷史的 硏究</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>經濟學士 白一圭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0059" end="ma_084_0010_0067"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮工業의 歷史的 硏究</pTitle>
+						<name role="필자">經濟學士 白一圭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>科學의 一隅에서 察悟한 宗敎의 一面</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>시카고大學 張世雲</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0068" end="ma_084_0010_0080"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">科學의 一隅에서 察悟한 宗敎의 一面</pTitle>
+						<name role="필자">시카고大學 張世雲</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>宗敎는 웨 枯息되나</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>보스톤神學校 柳瀅基</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0080" end="ma_084_0010_0083"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">宗敎는 웨 枯息되나</pTitle>
+						<name role="필자">보스톤神學校 柳瀅基</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>科學으로 엇은 今日의 人生觀</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>南加州大學 韓稚關</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0084" end="ma_084_0010_0091"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">科學으로 엇은 今日의 人生觀</pTitle>
+						<name role="필자">南加州大學 韓稚關</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社會와 敎育</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>보스톤大學 金惠蓮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0092" end="ma_084_0010_0096"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社會와 敎育</pTitle>
+						<name role="필자">보스톤大學 金惠蓮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>나의 信條</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>롤博士</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0096" end="ma_084_0010_0102"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">나의 信條</pTitle>
+						<name role="필자">롤博士</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>愛他主義의 裏面</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>吳楨洙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0103" end="ma_084_0010_0106"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">愛他主義의 裏面</pTitle>
+						<name role="필자">吳楨洙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>科學의 價値</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>理學士 李柄斗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0106" end="ma_084_0010_0110"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">科學의 價値</pTitle>
+						<name role="필자">理學士 李柄斗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>産業의 科學的 經營에 對한 考察</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>콜롬비아大學院經濟部 金度演</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0111" end="ma_084_0010_0116"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">産業의 科學的 經營에 對한 考察</pTitle>
+						<name role="필자">콜롬비아大學院經濟部 金度演</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>化學旅行談</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>일니노州大學 金正殷</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0117" end="ma_084_0010_0125"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">化學旅行談</pTitle>
+						<name role="필자">일니노州大學 金正殷</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國女學生의 生活</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>孫眞實</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0126" end="ma_084_0010_0130"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國女學生의 生活</pTitle>
+						<name role="필자">孫眞實</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國의 運動界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>雲庵 吳漢泳</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0130" end="ma_084_0010_0134"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國의 運動界</pTitle>
+						<name role="필자">雲庵 吳漢泳</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國禮節에 對하야</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>비르지니</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0135" end="ma_084_0010_0138"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國禮節에 對하야</pTitle>
+						<name role="필자">비르지니</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國大學生 生活費</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>記事部</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0139" end="ma_084_0010_0142"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國大學生 生活費</pTitle>
+						<name role="필자">記事部</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國 처음와서 시골사람 노릇하든 니야기</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>眼虫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0142" end="ma_084_0010_0145"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國 처음와서 시골사람 노릇하든 니야기</pTitle>
+						<name role="필자">眼虫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>鄕愁(詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>流暗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0146" end="ma_084_0010_0147"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">鄕愁</pTitle>
+						<name role="필자">流暗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>批評 美國의 最近 詩壇 紹介</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>바울</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0148" end="ma_084_0010_0152"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">批評 美國의 最近 詩壇 紹介</pTitle>
+						<name role="필자">바울</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>小說 東方博士의 禮物</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>天國</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0153" end="ma_084_0010_0159"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">小說 東方博士의 禮物</pTitle>
+						<name role="필자">天國</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>戱曲 솔로몬의 戀歌</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張利郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0159" end="ma_084_0010_0171"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">戱曲 솔로몬의 戀歌</pTitle>
+						<name role="필자">張利郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0260">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>留美學生統計表</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>記事部</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0172" end="ma_084_0010_0176"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">留美學生統計表</pTitle>
+						<name role="필자">記事部</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0270">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>留美卒業生一覽表</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>記事部</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0177" end="ma_084_0010_0179"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">留美卒業生一覽表</pTitle>
+						<name role="필자">記事部</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0280">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>留美學生總會任員</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0180" end="ma_084_0010_0180"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">留美學生總會任員</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0290">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>留美學生總會略史</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>國際靑年會朝鮮學生部總務 李柄斗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0180" end="ma_084_0010_0182"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">留美學生總會略史</pTitle>
+						<name role="필자">國際靑年會朝鮮學生部總務 李柄斗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0300">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>寄稿家紹介</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0182" end="ma_084_0010_0183"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">寄稿家紹介</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0310">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>雜記 消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0184" end="ma_084_0010_0192"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">雜記 消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0010_0320">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯餘言</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0010_0193" end="ma_084_0010_0194"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯餘言</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_084_0020">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제2호">우라키 제2호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1926-09-17">1926년 9월 17일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_084_0020_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>寫眞-留美學生地方會</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">寫眞-留美學生地方會</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우라키 에듸토리알</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우라키 에듸토리알</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>愚見으로 드리는 한말삼</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>法學博士 尹致昊</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">愚見으로 드리는 한말삼</pTitle>
+						<name role="필자">法學博士 尹致昊</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國留學生出身을 엇떠케 보는가</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金良洙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國留學生出身을 엇떠케 보는가</pTitle>
+						<name role="필자">金良洙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>솨기야모니(釋迦牟尼)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>哲學博士 白性郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">솨기야모니</pTitle>
+						<name role="필자">哲學博士 白性郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>宗敎와 人生과의 關係 特히 反基督敎運動에 對하야</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>시카고大學 文學士 廉光燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">宗敎와 人生과의 關係 特히 反基督敎運動에 對하야</pTitle>
+						<name role="필자">시카고大學 文學士 廉光燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>進化論을 是認하여야 할가</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>시카고大學 文學士 曹喜炎</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">進化論을 是認하여야 할가</pTitle>
+						<name role="필자">시카고大學 文學士 曹喜炎</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>科學과 理想界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>延禧專門學校 理學士 韓稚關</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">科學과 理想界</pTitle>
+						<name role="필자">延禧專門學校 理學士 韓稚關</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>水銀을 金으로 變質케 함이 可能한가</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>太平洋大學 許奎</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">水銀을 金으로 變質케 함이 可能한가</pTitle>
+						<name role="필자">太平洋大學 許奎</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>世界男子大學의 第一回의 哲學博士及졋번인女敎授 카발네브스키女史傳</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>시카고大學 理學士 張世雲 譯</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">世界男子大學의 第一回의 哲學博士及졋번인女敎授 카발네브스키女史傳</pTitle>
+						<name role="필자">시카고大學 理學士 張世雲 譯</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>結核病</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>京城回生病院長 醫學博士 尹治衡</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">結核病</pTitle>
+						<name role="필자">京城回生病院長 醫學博士 尹治衡</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>醫學과 民衆</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>뉴욕整形外科病院 李容卨</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">醫學과 民衆</pTitle>
+						<name role="필자">뉴욕整形外科病院 李容卨</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國中等敎育</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>콜롬비아大學 黃仁植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國中等敎育</pTitle>
+						<name role="필자">콜롬비아大學 黃仁植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國聯合準備銀行制度略述</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>시카고大學 黃昌夏</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國聯合準備銀行制度略述</pTitle>
+						<name role="필자">시카고大學 黃昌夏</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>世界의 綿花種類와 産出及朝鮮</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>뉴뻬드포드織造學校 李敬華</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">世界의 綿花種類와 産出及朝鮮</pTitle>
+						<name role="필자">뉴뻬드포드織造學校 李敬華</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>고무工業과 人造고무의 發達</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>켄터기웨슬레안大學 金瀅楠</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">고무工業과 人造고무의 發達</pTitle>
+						<name role="필자">켄터기웨슬레안大學 金瀅楠</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>幸福된 家庭에 對한 생각의 몃가지</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>뛰북大學 孫眞實</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">幸福된 家庭에 對한 생각의 몃가지</pTitle>
+						<name role="필자">뛰북大學 孫眞實</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國의 體育界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>오벌린大學 申基俊</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國의 體育界</pTitle>
+						<name role="필자">오벌린大學 申基俊</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>릉라도</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>동해수부 洪焉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">릉라도</pTitle>
+						<name role="필자">동해수부 洪焉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>일허진 벗(詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>松隱</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">일허진 벗</pTitle>
+						<name role="필자">松隱</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>隱秘(詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔應善 譯</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">隱秘</pTitle>
+						<name role="필자">崔應善 譯</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>모르는 나라로(小說)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張聖郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">모르는 나라로</pTitle>
+						<name role="필자">張聖郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>寫眞結婚의 悲哀</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安永道女史</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">寫眞結婚의 悲哀</pTitle>
+						<name role="필자">安永道女史</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國 처음와서 시골사람 노릇하든 니야기(其二)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>眼虫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國 처음와서 시골사람 노릇하든 니야기</pTitle>
+						<name role="필자">眼虫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>在美同胞實業狀況(其一)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">在美同胞實業狀況</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0260">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國留學의 主義事項</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>國際靑年會朝鮮學生部幹事 李柄斗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國留學의 主義事項</pTitle>
+						<name role="필자">國際靑年會朝鮮學生部幹事 李柄斗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0270">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>1925年度 卒業生一覽</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">1925年度 卒業生一覽</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0280">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>留美學生總會消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">留美學生總會消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0290">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>寄稿家紹介</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">寄稿家紹介</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0300">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>雜記 消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">雜記 消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0310">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>英文部</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">英文部</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0020_0320">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>印刷所로 보내면서</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">印刷所로 보내면서</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_084_0030">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제3호">우라키 제3호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1928-04-07">1928년 4월 7일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_084_0030_0001" end="ma_084_0030_0136"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_084_0030_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國留學生의 美國文明에 對한 感想</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0003" end="ma_084_0030_0013"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國留學生의 美國文明에 對한 感想</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>西洋文明의 特色을 論하야 朝鮮人의 將來에 及함</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>南加州大學 韓稚振</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0014" end="ma_084_0030_0019"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">西洋文明의 特色을 論하야 朝鮮人의 將來에 及함</pTitle>
+						<name role="필자">南加州大學 韓稚振</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>留美우리學生의 信仰生活 經路</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>콜롬비아大學 張利郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0020" end="ma_084_0030_0031"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">留美우리學生의 信仰生活 經路</pTitle>
+						<name role="필자">콜롬비아大學 張利郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>如是我觀</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>콜롬비아大學 金良洙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0031" end="ma_084_0030_0031"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">如是我觀</pTitle>
+						<name role="필자">콜롬비아大學 金良洙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>내눈에 빛왼얭키</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朱耀燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0032" end="ma_084_0030_0037"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">내눈에 빛왼얭키</pTitle>
+						<name role="필자">朱耀燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮女子와 職業問題</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>메큰웨슬리안大學 朴仁德</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0038" end="ma_084_0030_0041"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮女子와 職業問題</pTitle>
+						<name role="필자">메큰웨슬리안大學 朴仁德</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>故月南李商在翁</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>스타</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0042" end="ma_084_0030_0043"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">故月南李商在翁</pTitle>
+						<name role="필자">스타</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우라키主張-朝鮮靑年에 對한 우라키主張</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0044" end="ma_084_0030_0050"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우라키主張-朝鮮靑年에 對한 우라키主張</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>數理學의 基礎的 槪念의 現代革命</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>시카고大學 張世雲</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0051" end="ma_084_0030_0062"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">數理學의 基礎的 槪念의 現代革命</pTitle>
+						<name role="필자">시카고大學 張世雲</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>人類社會가 엇더케 發展되엿는가</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>캐나다 토론토 曹喜炎</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0063" end="ma_084_0030_0071"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">人類社會가 엇더케 發展되엿는가</pTitle>
+						<name role="필자">캐나다 토론토 曹喜炎</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>生産事業上 比準報酬二法則 의 連鎖作用</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>위스콘신州大學 李勳求</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0072" end="ma_084_0030_0076"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">生産事業上 比準報酬二法則 의 連鎖作用</pTitle>
+						<name role="필자">위스콘신州大學 李勳求</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>衰退되는 米國의 農村</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>西北大學 崔敬植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0077" end="ma_084_0030_0082"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">衰退되는 米國의 農村</pTitle>
+						<name role="필자">西北大學 崔敬植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>史料類別</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>예일大學 哲學博士 白樂濬</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0083" end="ma_084_0030_0085"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">史料類別</pTitle>
+						<name role="필자">예일大學 哲學博士 白樂濬</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>兒童營養不足과 그 原因</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>宋福信</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0086" end="ma_084_0030_0091"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">兒童營養不足과 그 原因</pTitle>
+						<name role="필자">宋福信</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>科學的 硏究의 基礎</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>뛰북大學 金鎭億</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0092" end="ma_084_0030_0099"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">科學的 硏究의 基礎</pTitle>
+						<name role="필자">뛰북大學 金鎭億</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國家庭에서 배울 것 몃가지</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>孫眞實</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0100" end="ma_084_0030_0104"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國家庭에서 배울 것 몃가지</pTitle>
+						<name role="필자">孫眞實</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>고국의 봄</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金松憶</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0105" end="ma_084_0030_0105"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">고국의 봄</pTitle>
+						<name role="필자">金松憶</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國映畵界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張聖郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0106" end="ma_084_0030_0111"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國映畵界</pTitle>
+						<name role="필자">張聖郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國大學巡歷記(其一)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>柳瀅基 白樂濬</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0112" end="ma_084_0030_0119"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國大學巡歷記</pTitle>
+						<name role="필자">柳瀅基 白樂濬</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國 처음와서 시골사람 노릇하든 니야기(其三)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>第二眼虫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0120" end="ma_084_0030_0122"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國 처음와서 시골사람 노릇하든 니야기</pTitle>
+						<name role="필자">第二眼虫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國서 듯고 보고</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>몽통구리</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0123" end="ma_084_0030_0125"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國서 듯고 보고</pTitle>
+						<name role="필자">몽통구리</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>留美學生總會消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0126" end="ma_084_0030_0127"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">留美學生總會消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>1926年 1927年條 卒業生一覽</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0128" end="ma_084_0030_0128"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">1926年 1927年條 卒業生一覽</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>雜記 消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0129" end="ma_084_0030_0131"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">雜記 消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>寄稿家紹介</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0132" end="ma_084_0030_0134"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">寄稿家紹介</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0030_0260">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯餘記</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0030_0135" end="ma_084_0030_0136"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯餘記</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_084_0040">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제4호">우라키 제4호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1930-06-14">1930년 6월 14일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_084_0040_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>北美留學生總會十週年紀念에 際하야-朝鮮學生에게 寄함</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李承晩</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">北美留學生總會十週年紀念에 際하야-朝鮮學生에게 寄함</pTitle>
+						<name role="필자">李承晩</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>北美留學生總會十週年紀念에 際하야-朝鮮의 將來</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>徐載弼</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">北美留學生總會十週年紀念에 際하야-朝鮮의 將來</pTitle>
+						<name role="필자">徐載弼</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>北美留學生總會十週年紀念에 際하야-過去十年을 回顧하면서</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>前北美學生總會長 張世雲</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">北美留學生總會十週年紀念에 際하야-過去十年을 回顧하면서</pTitle>
+						<name role="필자">前北美學生總會長 張世雲</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>北美留學生總會十週年紀念에 際하야-過去十年과 將來希望</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>前國際靑年會朝鮮學生部幹事 李柄斗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">北美留學生總會十週年紀念에 際하야-過去十年과 將來希望</pTitle>
+						<name role="필자">前國際靑年會朝鮮學生部幹事 李柄斗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>外國人이 觀察한 今日朝鮮의 要求-勇氣와 强作과 獨創이 무엇보다도</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>監督 월취</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">外國人이 觀察한 今日朝鮮의 要求-勇氣와 强作과 獨創이 무엇보다도</pTitle>
+						<name role="필자">監督 월취</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>外國人이 觀察한 今日朝鮮의 要求-農村經濟振興運動者가 第一必要</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>콜롬비아大學敎授 부르너</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">外國人이 觀察한 今日朝鮮의 要求-農村經濟振興運動者가 第一必要</pTitle>
+						<name role="필자">콜롬비아大學敎授 부르너</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>外國人이 觀察한 今日朝鮮의 要求-經濟 敎育 及 理智的 宗敎信仰</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>延禧專門敎授 빌링스</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">外國人이 觀察한 今日朝鮮의 要求-經濟 敎育 及 理智的 宗敎信仰</pTitle>
+						<name role="필자">延禧專門敎授 빌링스</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>無線電의 原論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>哲學博士 曹應天</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">無線電의 原論</pTitle>
+						<name role="필자">哲學博士 曹應天</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>人種差異와 成長</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>公衆衛生博士 宋福信</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">人種差異와 成長</pTitle>
+						<name role="필자">公衆衛生博士 宋福信</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>基督敎에 對한 誤解</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金松隱</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">基督敎에 對한 誤解</pTitle>
+						<name role="필자">金松隱</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社會心理上에서 觀察한 나</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>廉光燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社會心理上에서 觀察한 나</pTitle>
+						<name role="필자">廉光燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>在美國英語發音의 新硏究</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>哲學博士 曹應天</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">在美國英語發音의 新硏究</pTitle>
+						<name role="필자">哲學博士 曹應天</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國文明槪觀-美國의 哲學界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>콜롬비아大學 李哲源</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國文明槪觀-美國의 哲學界</pTitle>
+						<name role="필자">콜롬비아大學 李哲源</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國文明槪§&#128;-美國의 政治界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>콜롬비아大學 李東濟</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國文明槪§&#128;-美國의 政治界</pTitle>
+						<name role="필자">콜롬비아大學 李東濟</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國文明槪觀-美國의 宗敎界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>웨스턴神學校 宋昌根</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國文明槪觀-美國의 宗敎界</pTitle>
+						<name role="필자">웨스턴神學校 宋昌根</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國文明槪觀-美國의 實業界 特히 小賣商業에 對하야</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>시카고大學 韓昇寅</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國文明槪觀-美國의 實業界 特히 小賣商業에 對하야</pTitle>
+						<name role="필자">시카고大學 韓昇寅</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國文明槪觀-美國의 社會界 特히 都市生活에 對하야</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>시카고大學 崔敬植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國文明槪觀-美國의 社會界 特히 都市生活에 對하야</pTitle>
+						<name role="필자">시카고大學 崔敬植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國文明槪觀-美國의 敎育界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>콜롬비아師範大學 吳天錫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國文明槪觀-美國의 敎育界</pTitle>
+						<name role="필자">콜롬비아師範大學 吳天錫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國文明槪觀-美國의 音樂界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>신시내티音樂學校 朴敬浩</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國文明槪觀-美國의 音樂界</pTitle>
+						<name role="필자">신시내티音樂學校 朴敬浩</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>北美洲同胞實業界覇王 鄭安株式會社</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>柳基元</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">北美洲同胞實業界覇王 鄭安株式會社</pTitle>
+						<name role="필자">柳基元</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>在美黑人의 恩人 와싱톤과 터스키기學院</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>尹珹淳</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">在美黑人의 恩人 와싱톤과 터스키기學院</pTitle>
+						<name role="필자">尹珹淳</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>敎育學上 立場에서 朝鮮人의 將來性을 論함</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>인디아나大學 崔允鎬</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">敎育學上 立場에서 朝鮮人의 將來性을 論함</pTitle>
+						<name role="필자">인디아나大學 崔允鎬</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리의 死活問題</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金相敦</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리의 死活問題</pTitle>
+						<name role="필자">金相敦</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮을 産業化하자</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔晃</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮을 産業化하자</pTitle>
+						<name role="필자">崔晃</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우라키主張</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우라키主張</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0260">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>할머니(短篇)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>주요섭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">할머니</pTitle>
+						<name role="필자">주요섭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0270">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>釜山에 다다르면서(詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>송은</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">釜山에 다다르면서</pTitle>
+						<name role="필자">송은</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0280">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>安州의 淸川江(詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>許然</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">安州의 淸川江</pTitle>
+						<name role="필자">許然</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0290">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>同志들게 보내는(詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李廷斗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">同志들게 보내는</pTitle>
+						<name role="필자">李廷斗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0300">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>황국(詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金蕙蘭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">황국</pTitle>
+						<name role="필자">金蕙蘭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0310">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>마리아는 가다(詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>流暗</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">마리아는 가다</pTitle>
+						<name role="필자">流暗</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0320">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>그러한 봄은 도 왓는가(詩)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓世光</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">그러한 봄은 도 왓는가</pTitle>
+						<name role="필자">韓世光</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0330">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>北美大陸 放浪의 一年(紀行)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴仁德</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">北美大陸 放浪의 一年</pTitle>
+						<name role="필자">朴仁德</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0340">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>三稜鏡의 마음(短想)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>任幻</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">三稜鏡의 마음</pTitle>
+						<name role="필자">任幻</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0350">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學窓漫話</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>第二眼虫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學窓漫話</pTitle>
+						<name role="필자">第二眼虫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0360">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>奴隷의 몸에서(自敍傳)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>와싱톤</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">奴隷의 몸에서</pTitle>
+						<name role="필자">와싱톤</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0370">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國에서 맛본 달고 쓴 經驗</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國에서 맛본 달고 쓴 經驗</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0380">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國大學巡歷記(其二)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>廉光燮 寶乙生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國大學巡歷記</pTitle>
+						<name role="필자">廉光燮 寶乙生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0390">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>留學生會及留學生動靜</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">留學生會及留學生動靜</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0400">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>寄稿家紹介</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">寄稿家紹介</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0410">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>北美留學案內要覽</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>吳天錫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">北美留學案內要覽</pTitle>
+						<name role="필자">吳天錫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0420">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮對美國貿易十年史</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>哲學博士 李勳求</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮對美國貿易十年史</pTitle>
+						<name role="필자">哲學博士 李勳求</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0430">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國留學生博士論文題一覽</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國留學生博士論文題一覽</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0040_0440">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯餘錄</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯餘錄</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_084_0050">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제7호">우라키 제7호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1936-09-08">1936년 9월 8일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_084_0050_0001" end="ma_084_0050_0194"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_084_0050_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國際經濟的 危機와 展望</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>哲學博士 文章郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0009" end="ma_084_0050_0014"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國際經濟的 危機와 展望</pTitle>
+						<name role="필자">哲學博士 文章郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>土地經濟와 朝鮮現象略論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金壎</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0014" end="ma_084_0050_0026"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">土地經濟와 朝鮮現象略論</pTitle>
+						<name role="필자">金壎</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>消費經濟의 重大性</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>高凰京</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0027" end="ma_084_0050_0034"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">消費經濟의 重大性</pTitle>
+						<name role="필자">高凰京</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>漫畵世界</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>編輯局選</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0053" end="ma_084_0050_0056"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">漫畵世界</pTitle>
+						<name role="필자">編輯局選</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>所謂 科學哲學의 反動性</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>哲學博士 葛弘基</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0034" end="ma_084_0050_0041"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">所謂 科學哲學의 反動性</pTitle>
+						<name role="필자">哲學博士 葛弘基</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>敎育制度批判論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>曹承學</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0041" end="ma_084_0050_0047"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">敎育制度批判論</pTitle>
+						<name role="필자">曹承學</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>米國新聞의 販賣政策論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓世光</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0048" end="ma_084_0050_0052"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">米國新聞의 販賣政策論</pTitle>
+						<name role="필자">韓世光</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>北美留學에 對한 諸名士抱負</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>宋鎭禹 朴興植 裵成龍 李仁 金昶濟</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0057" end="ma_084_0050_0061"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">北美留學에 對한 諸名士抱負</pTitle>
+						<name role="필자">宋鎭禹 朴興植 裵成龍 李仁 金昶濟</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>빽테리오페지의 性狀</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李桂元</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0062" end="ma_084_0050_0072"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">빽테리오페지의 性狀</pTitle>
+						<name role="필자">李桂元</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>數字上으로 본 米國醫學界의 現狀態</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>米國인디아나洲立醫科大學病院 醫學博士 金昌洙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0072" end="ma_084_0050_0076"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">數字上으로 본 米國醫學界의 現狀態</pTitle>
+						<name role="필자">米國인디아나洲立醫科大學病院 醫學博士 金昌洙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>在米朝鮮學生訪問울 마치고</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>北美留學生會總務 許眞業</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0077" end="ma_084_0050_0081"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">在米朝鮮學生訪問울 마치고</pTitle>
+						<name role="필자">北美留學生會總務 許眞業</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>西洋音樂에 對하여</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安益泰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0081" end="ma_084_0050_0083"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">西洋音樂에 對하여</pTitle>
+						<name role="필자">安益泰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>歐米留學時代의 回顧</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李克魯 鄭仁果 金賢準 金東成 閔大植 朱耀燮 鄭錫泰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0084" end="ma_084_0050_0090"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">歐米留學時代의 回顧</pTitle>
+						<name role="필자">李克魯 鄭仁果 金賢準 金東成 閔大植 朱耀燮 鄭錫泰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>海外女流隨筆-南國의 가을(隨筆)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>月菊</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0091" end="ma_084_0050_0092"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">海外女流隨筆-南國의 가을</pTitle>
+						<name role="필자">月菊</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>海外女流隨筆-잭슨감옥을 訪問하고</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>極星</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0093" end="ma_084_0050_0097"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">海外女流隨筆-잭슨감옥을 訪問하고</pTitle>
+						<name role="필자">極星</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>海外女流隨筆-그리운 故鄕</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李順姬</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0098" end="ma_084_0050_0098"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">海外女流隨筆-그리운 故鄕</pTitle>
+						<name role="필자">李順姬</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國서 보그 드른대로</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>實話子</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0099" end="ma_084_0050_0107"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國서 보그 드른대로</pTitle>
+						<name role="필자">實話子</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>在米우리文人動態</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>風聞生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0099" end="ma_084_0050_0103"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">在米우리文人動態</pTitle>
+						<name role="필자">風聞生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>留學生界消息</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>一記者</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0103" end="ma_084_0050_0107"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">留學生界消息</pTitle>
+						<name role="필자">一記者</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>在米우리社會의 궁금한 消息들</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>千里鏡</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0108" end="ma_084_0050_0110"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">在米우리社會의 궁금한 消息들</pTitle>
+						<name role="필자">千里鏡</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>北米朝鮮人의 事業別(其一)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0110" end="ma_084_0050_0111"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">北米朝鮮人의 事業別</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國大學巡歷記(其五)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>一記者 CW生 OH生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0112" end="ma_084_0050_0116"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國大學巡歷記</pTitle>
+						<name role="필자">一記者 CW生 OH生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>英米文豪畵報</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>編輯局選</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0117" end="ma_084_0050_0120"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">英米文豪畵報</pTitle>
+						<name role="필자">編輯局選</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>米國文壇의 左翼文學과 其成長</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金時民</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0121" end="ma_084_0050_0130"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">米國文壇의 左翼文學과 其成長</pTitle>
+						<name role="필자">金時民</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>歐羅巴文壇現勢</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>伊太利 姜鏞訖</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0130" end="ma_084_0050_0137"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">歐羅巴文壇現勢</pTitle>
+						<name role="필자">伊太利 姜鏞訖</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0260">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>現代英國文壇의 趨勢</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓世光</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0138" end="ma_084_0050_0146"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">現代英國文壇의 趨勢</pTitle>
+						<name role="필자">韓世光</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0270">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>英米文壇漫話</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>時習生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0146" end="ma_084_0050_0150"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">英米文壇漫話</pTitle>
+						<name role="필자">時習生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0280">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>英米詩代表作選譯</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金太線 譯</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0151" end="ma_084_0050_0157"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">英米詩代表作選譯</pTitle>
+						<name role="필자">金太線 譯</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0290">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>英米創作選譯</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓黑鷗 金太線 時民 譯</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0158" end="ma_084_0050_0184"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">英米創作選譯</pTitle>
+						<name role="필자">韓黑鷗 金太線 時民 譯</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0300">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>英米文壇文藝家人名辭典(一)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>編輯局</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0185" end="ma_084_0050_0192"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">英米文壇文藝家人名辭典</pTitle>
+						<name role="필자">編輯局</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_084_0050_0310">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯後記</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_084_0050_0193" end="ma_084_0050_0194"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯後記</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+</level1>

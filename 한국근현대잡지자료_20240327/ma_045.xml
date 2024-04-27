@@ -1,0 +1,5689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="ma_045">
+	<front>
+		<biblioData type="목차제공잡지">
+			<title>
+				<mainTitle>학풍</mainTitle>
+			</title>
+			<binderPeriod begin="1948-10-01" end="1950-06-01"/>
+		</biblioData>
+	</front>
+	<level2 id="ma_045_0010">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1948년 10월(통권 1호, 제1권 제1호)">학풍 1948년 10월(통권 1호, 제1권 제1호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1948-10-01">1948년 10월 1일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_045_0010_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(卷頭言)學問의 權威를 爲하여</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명"/>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>科學的 精神과 積極的 態度</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李相佰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">科學的 精神과 積極的 態度</pTitle>
+						<name role="필자">李相佰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>우리 民族史의 性格</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李仁榮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">우리 民族史의 性格</pTitle>
+						<name role="필자">李仁榮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>光陵紀行</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>柳洪烈</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">光陵紀行</pTitle>
+						<name role="필자">柳洪烈</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>電話와 禮儀</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>呂尙玄</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">電話와 禮儀</pTitle>
+						<name role="필자">呂尙玄</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>骨董과 玩古</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>裵正國</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">骨董과 玩古</pTitle>
+						<name role="필자">裵正國</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>土地國有制의 基本的 矛盾에 關하여</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>全錫淡</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">土地國有制의 基本的 矛盾에 關하여</pTitle>
+						<name role="필자">全錫淡</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>鬱陵島紀行</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>鄭寅朝</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">鬱陵島紀行</pTitle>
+						<name role="필자">鄭寅朝</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>털보</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>近園</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">털보</pTitle>
+						<name role="필자">近園</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>나의 書齋生活</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李崇寧</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">나의 書齋生活</pTitle>
+						<name role="필자">李崇寧</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>山亭</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金基昶</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">山亭</pTitle>
+						<name role="필자">金基昶</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>詩의 韻律</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>徐廷柱</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">詩의 韻律</pTitle>
+						<name role="필자">徐廷柱</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>法律의 規範</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安浩相</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">法律의 規範</pTitle>
+						<name role="필자">安浩相</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>아메리카文化의 苦悶相</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>테인호올드·늬부, 朴術音 譯</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">아메리카文化의 苦悶相</pTitle>
+						<name role="필자">테인호올드·늬부, 朴術音 譯</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>民族文化에 對한 寄言</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金奎植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">民族文化에 對한 寄言</pTitle>
+						<name role="필자">金奎植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>選擧運動과 投票</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>죠오지·개럽, 윌리암·리드게이트</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">選擧運動과 投票</pTitle>
+						<name role="필자">죠오지·개럽, 윌리암·리드게이트</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>앙드레·지이드論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金秉逵</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">앙드레·지이드論</pTitle>
+						<name role="필자">金秉逵</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>I·A·리챠즈論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金起林</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">I·A·리챠즈論</pTitle>
+						<name role="필자">金起林</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>無窮花</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李敭河</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">無窮花</pTitle>
+						<name role="필자">李敭河</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>나의 長壽法</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>石宙明</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">나의 長壽法</pTitle>
+						<name role="필자">石宙明</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>令監家儈와 乭釗</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>廉尙燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">令監家儈와 乭釗</pTitle>
+						<name role="필자">廉尙燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>南新義州 柳洞 朴時逢方</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>白石</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">南新義州 柳洞 朴時逢方</pTitle>
+						<name role="필자">白石</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國의 學者와 學生(리포트)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>尹日善</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國의 學者와 學生</pTitle>
+						<name role="필자">尹日善</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮民族文化의 硏究(書評)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪以燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮民族文化의 硏究</pTitle>
+						<name role="필자">洪以燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮經濟年報(書評)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張壽吉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮經濟年報</pTitle>
+						<name role="필자">張壽吉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0260">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>經濟學入門(書評)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>全錫淡</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">經濟學入門</pTitle>
+						<name role="필자">全錫淡</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0270">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>19世紀初期 英詩集(書評)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李皓根</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">19世紀初期 英詩集</pTitle>
+						<name role="필자">李皓根</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0010_0280">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>出版部 消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">出版部 消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0020">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1948년 11월(통권 2호, 제1권 제2호)">학풍 1948년 11월(통권 2호, 제1권 제2호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1948-11-01">1948년 11월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_045_0020_0001" end="ma_045_0020_0136"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_045_0020_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮과 西歐交涉의 發端</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪以燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0035" end="ma_045_0020_0053"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮과 西歐交涉의 發端</pTitle>
+						<name role="필자">洪以燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮佛像의 光背에 對한 小考</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴敬源</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0054" end="ma_045_0020_0069"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮佛像의 光背에 對한 小考</pTitle>
+						<name role="필자">朴敬源</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>音硏究의 方法과 實際</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李崇寧</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0070" end="ma_045_0020_0084"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">音硏究의 方法과 實際</pTitle>
+						<name role="필자">李崇寧</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮의 舊樂譜</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金惠求</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0085" end="ma_045_0020_0096"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮의 舊樂譜</pTitle>
+						<name role="필자">金惠求</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>아메리카 通信(1)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金載元</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0097" end="ma_045_0020_0104"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">아메리카 通信</pTitle>
+						<name role="필자">金載元</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>幻想賦</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安東赫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0120" end="ma_045_0020_0122"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">幻想賦</pTitle>
+						<name role="필자">安東赫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>愛馬記</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金晟鎭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0122" end="ma_045_0020_0124"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">愛馬記</pTitle>
+						<name role="필자">金晟鎭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>誤植</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張萬榮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0124" end="ma_045_0020_0125"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">誤植</pTitle>
+						<name role="필자">張萬榮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>거짓말</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔載喜</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0125" end="ma_045_0020_0127"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">거짓말</pTitle>
+						<name role="필자">崔載喜</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>無題</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴木月</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0127" end="ma_045_0020_0127"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">無題</pTitle>
+						<name role="필자">朴木月</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>科學的 生活</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朱耀燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0127" end="ma_045_0020_0130"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">科學的 生活</pTitle>
+						<name role="필자">朱耀燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>民主主義大臣과 金豊德</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金東成</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0130" end="ma_045_0020_0131"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">民主主義大臣과 金豊德</pTitle>
+						<name role="필자">金東成</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>貧弱한 庭園</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李永哲</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0131" end="ma_045_0020_0131"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">貧弱한 庭園</pTitle>
+						<name role="필자">李永哲</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>싸포오의 抒情詩</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>林學洙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0112" end="ma_045_0020_0115"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">싸포오의 抒情詩</pTitle>
+						<name role="필자">林學洙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>黎明</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>申石艸</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0116" end="ma_045_0020_0119"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">黎明</pTitle>
+						<name role="필자">申石艸</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>아리스토파네스</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>趙義卨</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0105" end="ma_045_0020_0111"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">아리스토파네스</pTitle>
+						<name role="필자">趙義卨</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>出版部 消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0132" end="ma_045_0020_0136"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">出版部 消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學問論과 序說(特輯)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>孫明鉉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0012" end="ma_045_0020_0016"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學問論과 序說</pTitle>
+						<name role="필자">孫明鉉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學問과 政治(特輯)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李相佰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0016" end="ma_045_0020_0021"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學問과 政治</pTitle>
+						<name role="필자">李相佰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學問과 自由(特輯)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>全錫淡</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0021" end="ma_045_0020_0023"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學問과 自由</pTitle>
+						<name role="필자">全錫淡</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學問과 敎授(特輯)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李載壎</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0023" end="ma_045_0020_0027"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學問과 敎授</pTitle>
+						<name role="필자">李載壎</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學問과 學徒(特輯)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金秉逵</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0027" end="ma_045_0020_0031"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學問과 學徒</pTitle>
+						<name role="필자">金秉逵</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0020_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學問과 生産力(特輯)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>高承濟</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0020_0031" end="ma_045_0020_0034"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學問과 生産力</pTitle>
+						<name role="필자">高承濟</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0030">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1949년 1월(통권 3호, 제2권 제1호)">학풍 1949년 1월(통권 3호, 제2권 제1호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1949-01-01">1949년 1월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_045_0030_0001" end="ma_045_0030_0134"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_045_0030_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>近代 民主主義 理論의 成立</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張壽吉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0012" end="ma_045_0030_0029"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">近代 民主主義 理論의 成立</pTitle>
+						<name role="필자">張壽吉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>政治의 虛構性에 對하여</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李相佰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0030" end="ma_045_0030_0036"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">政治의 虛構性에 對하여</pTitle>
+						<name role="필자">李相佰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>三國遺事의 社會史的 考察</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>孫晋泰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0037" end="ma_045_0030_0057"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">三國遺事의 社會史的 考察</pTitle>
+						<name role="필자">孫晋泰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>아메리카 通信(2)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金載元</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0068" end="ma_045_0030_0076"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">아메리카 通信</pTitle>
+						<name role="필자">金載元</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>時調鑑賞1首</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李熙昇</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0084" end="ma_045_0030_0091"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">時調鑑賞1首</pTitle>
+						<name role="필자">李熙昇</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>私立大學과 財團理事(學風 時評)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0010" end="ma_045_0030_0011"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">私立大學과 財團理事</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>敬安堂의 꾀꼬리通信</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪鍾仁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0096" end="ma_045_0030_0098"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">敬安堂의 꾀꼬리通信</pTitle>
+						<name role="필자">洪鍾仁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國紀行</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>林元植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0100" end="ma_045_0030_0102"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國紀行</pTitle>
+						<name role="필자">林元植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>꿈아닌 꿈</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓龜東</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0102" end="ma_045_0030_0103"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">꿈아닌 꿈</pTitle>
+						<name role="필자">韓龜東</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>비누</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>全弘鎭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0103" end="ma_045_0030_0105"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">비누</pTitle>
+						<name role="필자">全弘鎭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>著書</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>成慶麟</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0105" end="ma_045_0030_0107"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">著書</pTitle>
+						<name role="필자">成慶麟</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>避難</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>丁來東</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0107" end="ma_045_0030_0108"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">避難</pTitle>
+						<name role="필자">丁來東</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>矛盾</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李健赫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0109" end="ma_045_0030_0109"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">矛盾</pTitle>
+						<name role="필자">李健赫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>歷史</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>蔡萬植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0112" end="ma_045_0030_0129"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">歷史</pTitle>
+						<name role="필자">蔡萬植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>햇볕살 따실때에</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴斗鎭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0092" end="ma_045_0030_0093"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">햇볕살 따실때에</pTitle>
+						<name role="필자">朴斗鎭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>아침</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>趙芝薰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0094" end="ma_045_0030_0094"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">아침</pTitle>
+						<name role="필자">趙芝薰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>옥피리</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴木月</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0095" end="ma_045_0030_0095"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">옥피리</pTitle>
+						<name role="필자">朴木月</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國政治學界 瞥見</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>徐王壽</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0077" end="ma_045_0030_0080"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國政治學界 瞥見</pTitle>
+						<name role="필자">徐王壽</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>現代의 考察(遭難期의 文學)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>다니엘·롶스</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0060" end="ma_045_0030_0067"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">現代의 考察</pTitle>
+						<name role="필자">다니엘·롶스</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0200">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>風蘭</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔永秀</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0098" end="ma_045_0030_0099"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">風蘭</pTitle>
+						<name role="필자">崔永秀</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0210">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>樂浪鼓</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0058" end="ma_045_0030_0059"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">樂浪鼓</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0220">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>愛蘭文豪예이쯔</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>皮千得</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0082" end="ma_045_0030_0083"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">愛蘭文豪예이쯔</pTitle>
+						<name role="필자">皮千得</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0230">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>爲堂·鄭寅普氏(學者群像)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0081" end="ma_045_0030_0081"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">爲堂·鄭寅普氏</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0240">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞記事로 본 濟州島</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>石宙明</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0110" end="ma_045_0030_0111"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞記事로 본 濟州島</pTitle>
+						<name role="필자">石宙明</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0030_0250">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>出版課消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0030_0130" end="ma_045_0030_0134"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">出版課消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0040">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1949년 3월(통권 4호, 제2권 제2호)">학풍 1949년 3월(통권 4호, 제2권 제2호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1949-03-01">1949년 3월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_045_0040_0001" end="ma_045_0040_0128"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_045_0040_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>아메리카 通信(3)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金載元</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0098" end="ma_045_0040_0105"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">아메리카 通信</pTitle>
+						<name role="필자">金載元</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>碁道講義</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>近園</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0106" end="ma_045_0040_0107"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">碁道講義</pTitle>
+						<name role="필자">近園</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>知性의 低調</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓相稷</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0107" end="ma_045_0040_0109"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">知性의 低調</pTitle>
+						<name role="필자">韓相稷</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>물방개가 돈벌이로 登壇</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>趙福成</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0109" end="ma_045_0040_0110"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">물방개가 돈벌이로 登壇</pTitle>
+						<name role="필자">趙福成</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞記事로 본 濟州島(2)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>石宙明</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0122" end="ma_045_0040_0128"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞記事로 본 濟州島</pTitle>
+						<name role="필자">石宙明</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>心情</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金東里</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0111" end="ma_045_0040_0121"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">心情</pTitle>
+						<name role="필자">金東里</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>祖國과 함께</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>兪鎭五</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0108" end="ma_045_0040_0109"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">祖國과 함께</pTitle>
+						<name role="필자">兪鎭五</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>詩話3題</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>曺南嶺</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0082" end="ma_045_0040_0087"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">詩話3題</pTitle>
+						<name role="필자">曺南嶺</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>燕岩의 熱河日記(解題)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金聖七</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0088" end="ma_045_0040_0091"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">燕岩의 熱河日記</pTitle>
+						<name role="필자">金聖七</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>맑쓰의 資本論(解題)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>許東</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0091" end="ma_045_0040_0097"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">맑쓰의 資本論</pTitle>
+						<name role="필자">許東</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學問의 길·學者의 길(學風時評)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0010" end="ma_045_0040_0011"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學問의 길·學者의 길</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮法의 構造와 性格</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>田鳳德</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0012" end="ma_045_0040_0032"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮法의 構造와 性格</pTitle>
+						<name role="필자">田鳳德</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>協同組合運動의 두가지 方向</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李辰永</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0033" end="ma_045_0040_0039"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">協同組合運動의 두가지 方向</pTitle>
+						<name role="필자">李辰永</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>古歌箋剳疑(上)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>梁柱東</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0055" end="ma_045_0040_0063"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">古歌箋剳疑</pTitle>
+						<name role="필자">梁柱東</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>三國遺事의 社會史的 考察</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>孫晋泰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0040" end="ma_045_0040_0054"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">三國遺事의 社會史的 考察</pTitle>
+						<name role="필자">孫晋泰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>인풀레슘에 對한 西歐洲의 攻擊</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金慶鎭 譯</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0064" end="ma_045_0040_0079"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">인풀레슘에 對한 西歐洲의 攻擊</pTitle>
+						<name role="필자">金慶鎭 譯</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>出版課 消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0122" end="ma_045_0040_0123"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">出版課 消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0040_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>樂浪鼓</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0040_0080" end="ma_045_0040_0081"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">樂浪鼓</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0050">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1949년 4월(통권 5호, 제2권 제3호)">학풍 1949년 4월(통권 5호, 제2권 제3호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1949-04-01">1949년 4월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_045_0050_0001" end="ma_045_0050_0128"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_045_0050_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>哲人政治의 由來(學風時評)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0008" end="ma_045_0050_0009"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">哲人政治의 由來</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>王陽明의 人間과 그 思想</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金一出</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0010" end="ma_045_0050_0024"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">王陽明의 人間과 그 思想</pTitle>
+						<name role="필자">金一出</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>古歌箋剳疑(下)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>梁柱東</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0069" end="ma_045_0050_0079"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">古歌箋剳疑</pTitle>
+						<name role="필자">梁柱東</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>奴隷制度辯護論攷</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>徐壬壽</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0025" end="ma_045_0050_0045"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">奴隷制度辯護論攷</pTitle>
+						<name role="필자">徐壬壽</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>自然主義와 超自然主義에 對하여</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李鍾雨</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0046" end="ma_045_0050_0053"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">自然主義와 超自然主義에 對하여</pTitle>
+						<name role="필자">李鍾雨</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>現代言語學의 發達</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>柳應浩</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0054" end="ma_045_0050_0068"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">現代言語學의 發達</pTitle>
+						<name role="필자">柳應浩</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>平凡한 提言</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李在郁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0106" end="ma_045_0050_0107"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">平凡한 提言</pTitle>
+						<name role="필자">李在郁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>大同江의 追憶</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪鍾仁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0107" end="ma_045_0050_0108"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">大同江의 追憶</pTitle>
+						<name role="필자">洪鍾仁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>「康熙字典」과 감투</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>黔驢</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0108" end="ma_045_0050_0110"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">「康熙字典」과 감투</pTitle>
+						<name role="필자">黔驢</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>回心記</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴榮濬</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0111" end="ma_045_0050_0121"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">回心記</pTitle>
+						<name role="필자">朴榮濬</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>C停車場</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>林學洙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0105" end="ma_045_0050_0105"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">C停車場</pTitle>
+						<name role="필자">林學洙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>矩鹿</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李相佰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0082" end="ma_045_0050_0084"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">矩鹿</pTitle>
+						<name role="필자">李相佰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國富論(아담·스미쓰)(解題)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>高承濟</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0085" end="ma_045_0050_0090"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國富論</pTitle>
+						<name role="필자">高承濟</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>노붐오르가눔(프란시스·빼이콘)(解題)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>孫明鉉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0090" end="ma_045_0050_0093"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">노붐오르가눔</pTitle>
+						<name role="필자">孫明鉉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>樂浪鼓</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0080" end="ma_045_0050_0081"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">樂浪鼓</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>歸路(아메리카 通信)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金載元</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0095" end="ma_045_0050_0104"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">歸路</pTitle>
+						<name role="필자">金載元</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>新聞記事로 본 濟州島(3)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>石宙明</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0122" end="ma_045_0050_0128"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">新聞記事로 본 濟州島</pTitle>
+						<name role="필자">石宙明</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>尹日善 博士(學者群像)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0094" end="ma_045_0050_0094"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">尹日善 博士</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0050_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>出版界 消息</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0050_0122" end="ma_045_0050_0123"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">出版界 消息</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0060">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1949년 5월(통권 6호, 제2권 제4호)">학풍 1949년 5월(통권 6호, 제2권 제4호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1949-05-20">1949년 5월 20일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_045_0060_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(卷頭言)經濟學 特輯을 내면서</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명"/>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>現代經濟學의 諸問題</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>高承濟</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">現代經濟學의 諸問題</pTitle>
+						<name role="필자">高承濟</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>케인즈貨幣理論의 性格</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>申泰煥</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">케인즈貨幣理論의 性格</pTitle>
+						<name role="필자">申泰煥</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社會의 經濟發展上의 沈滯性에 關하여</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>全錫淡</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社會의 經濟發展上의 沈滯性에 關하여</pTitle>
+						<name role="필자">全錫淡</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>케인즈의 生産物量 要因 決定論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李冕錫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">케인즈의 生産物量 要因 決定論</pTitle>
+						<name role="필자">李冕錫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>아메리카經濟學界의 動向</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>폴·T·호맨</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">아메리카經濟學界의 動向</pTitle>
+						<name role="필자">폴·T·호맨</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮社會經濟史硏究의 새로운 進展</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李辰永</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮社會經濟史硏究의 새로운 進展</pTitle>
+						<name role="필자">李辰永</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>統計學과 經濟學</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>鄭永述</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">統計學과 經濟學</pTitle>
+						<name role="필자">鄭永述</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>資本主義生産과 恐慌</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李奭範</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">資本主義生産과 恐慌</pTitle>
+						<name role="필자">李奭範</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>土地改革批判</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴鍾秀</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">土地改革批判</pTitle>
+						<name role="필자">朴鍾秀</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>經濟學史 硏究의 意義</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔文煥</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">經濟學史 硏究의 意義</pTitle>
+						<name role="필자">崔文煥</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>經濟學에 있어서의 理論과 政策</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓春燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">經濟學에 있어서의 理論과 政策</pTitle>
+						<name role="필자">韓春燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>企業統制의 經營學的 考察</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李容九</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">企業統制의 經營學的 考察</pTitle>
+						<name role="필자">李容九</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0060_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學徒의 回顧와 反省</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>최영철</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學徒의 回顧와 反省</pTitle>
+						<name role="필자">최영철</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0070">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1949년 7월(통권 7호, 제2권 제5호)">학풍 1949년 7월(통권 7호, 제2권 제5호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1949-07-01">1949년 7월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_045_0070_0001" end="ma_045_0070_0138"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_045_0070_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>文化人의 生活擁護(學風時評)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0010" end="ma_045_0070_0011"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">文化人의 生活擁護</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>彈劾制度論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴一慶</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0012" end="ma_045_0070_0024"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">彈劾制度論</pTitle>
+						<name role="필자">朴一慶</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>새말의 이모저모</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金起林</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0025" end="ma_045_0070_0039"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">새말의 이모저모</pTitle>
+						<name role="필자">金起林</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>露西亞文學과 푸쉬킨</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪曉民</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0117" end="ma_045_0070_0120"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">露西亞文學과 푸쉬킨</pTitle>
+						<name role="필자">洪曉民</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國人과 社會主義</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓春燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0121" end="ma_045_0070_0123"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國人과 社會主義</pTitle>
+						<name role="필자">韓春燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>世界人權宣言의 成立에 對하여</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李相佰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0040" end="ma_045_0070_0048"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">世界人權宣言의 成立에 對하여</pTitle>
+						<name role="필자">李相佰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>李朝文人畫論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴敬源</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0049" end="ma_045_0070_0070"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">李朝文人畫論</pTitle>
+						<name role="필자">朴敬源</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社會主義의 自由像과 奴隷像</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金恩雨</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0089" end="ma_045_0070_0096"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社會主義의 自由像과 奴隷像</pTitle>
+						<name role="필자">金恩雨</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>演秦論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴殷用</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0097" end="ma_045_0070_0101"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">演秦論</pTitle>
+						<name role="필자">朴殷用</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>著作權과 文化秩序</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金斗洪</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0104" end="ma_045_0070_0107"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">著作權과 文化秩序</pTitle>
+						<name role="필자">金斗洪</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美洲의 學者들</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金載元</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0108" end="ma_045_0070_0116"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美洲의 學者들</pTitle>
+						<name role="필자">金載元</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>歷史와 社會學</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李之東</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0071" end="ma_045_0070_0088"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">歷史와 社會學</pTitle>
+						<name role="필자">李之東</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>古靑頌</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>裵正國</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0124" end="ma_045_0070_0124"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">古靑頌</pTitle>
+						<name role="필자">裵正國</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>盆梅記</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>申石艸</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0124" end="ma_045_0070_0126"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">盆梅記</pTitle>
+						<name role="필자">申石艸</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>달을 쏘다</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>尹東柱</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0126" end="ma_045_0070_0126"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">달을 쏘다</pTitle>
+						<name role="필자">尹東柱</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>樂浪鼓</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0102" end="ma_045_0070_0103"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">樂浪鼓</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>名著解題, 神들은 목마르다(아나톨 프랑스)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金秉逵</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0127" end="ma_045_0070_0132"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">名著解題, 神들은 목마르다</pTitle>
+						<name role="필자">金秉逵</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>大衆哲學(書評)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔英澈</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0133" end="ma_045_0070_0134"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">大衆哲學</pTitle>
+						<name role="필자">崔英澈</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0070_0190">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>뀌리부인(書評)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李敭河</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0070_0134" end="ma_045_0070_0138"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">뀌리부인</pTitle>
+						<name role="필자">李敭河</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0080">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1949년 10월(통권 8호, 제2권 제6호)">학풍 1949년 10월(통권 8호, 제2권 제6호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1949-10-01">1949년 10월 1일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_045_0080_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>養子制度論(身分法의 進化)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金安鎭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">養子制度論</pTitle>
+						<name role="필자">金安鎭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0080_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>歷史의 法則</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>프레스·E·허슈敎授, 朴琦俊 譯</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">歷史의 法則</pTitle>
+						<name role="필자">프레스·E·허슈敎授, 朴琦俊 譯</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0080_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>藏書에 對하여</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金晋燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">藏書에 對하여</pTitle>
+						<name role="필자">金晋燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0080_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>漢字語의 실상</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金起林</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">漢字語의 실상</pTitle>
+						<name role="필자">金起林</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0080_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>文章雜感</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金岸曙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">文章雜感</pTitle>
+						<name role="필자">金岸曙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0080_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>書翰</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>鄭飛石</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">書翰</pTitle>
+						<name role="필자">鄭飛石</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0080_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國樂壇 近況</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>林元植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國樂壇 近況</pTitle>
+						<name role="필자">林元植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0080_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>내 차라리 한 마리 부엉이가 되어 외롭고자 하노라</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李敭河</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">내 차라리 한 마리 부엉이가 되어 외롭고자 하노라</pTitle>
+						<name role="필자">李敭河</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0080_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>聖書(名著解題)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>孫膺祿</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">聖書</pTitle>
+						<name role="필자">孫膺祿</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0080_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>自然과 近代精神(新刊辭)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>趙演鉉</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">自然과 近代精神</pTitle>
+						<name role="필자">趙演鉉</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0090">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1950년 1월(통권 9호, 제3권 제1호)">학풍 1950년 1월(통권 9호, 제3권 제1호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1950-01-01">1950년 1월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_045_0090_0001" end="ma_045_0090_0128"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_045_0090_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>(卷頭言)政治와 그 哲學</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0006" end="ma_045_0090_0007"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명"/>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>政府形態論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴一慶</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0008" end="ma_045_0090_0019"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">政府形態論</pTitle>
+						<name role="필자">朴一慶</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>法治國家論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張厚永</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0020" end="ma_045_0090_0025"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">法治國家論</pTitle>
+						<name role="필자">張厚永</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國際政治學의 任務와 對象</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張撤壽</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0078" end="ma_045_0090_0087"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國際政治學의 任務와 對象</pTitle>
+						<name role="필자">張撤壽</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>選擧制度槪說</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>尹世昌</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0026" end="ma_045_0090_0031"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">選擧制度槪說</pTitle>
+						<name role="필자">尹世昌</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>英國憲政의 特徵</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金泰東</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0032" end="ma_045_0090_0039"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">英國憲政의 特徵</pTitle>
+						<name role="필자">金泰東</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>多數決 原則의 論理</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李相佰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0040" end="ma_045_0090_0046"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">多數決 原則의 論理</pTitle>
+						<name role="필자">李相佰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>無産政黨의 進出</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓春燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0047" end="ma_045_0090_0052"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">無産政黨의 進出</pTitle>
+						<name role="필자">韓春燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>勢力均衡과 國際聯合</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李東洲</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0053" end="ma_045_0090_0064"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">勢力均衡과 國際聯合</pTitle>
+						<name role="필자">李東洲</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>政治作用의 一種으로서의 國家財産</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李東旭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0065" end="ma_045_0090_0077"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">政治作用의 一種으로서의 國家財産</pTitle>
+						<name role="필자">李東旭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>政治學說史 序說</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>徐壬壽</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0088" end="ma_045_0090_0096"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">政治學說史 序說</pTitle>
+						<name role="필자">徐壬壽</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>李朝 黨爭論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>高在國</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0097" end="ma_045_0090_0104"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">李朝 黨爭論</pTitle>
+						<name role="필자">高在國</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>議會政治의 歷史的 回顧</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李相均</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0105" end="ma_045_0090_0112"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">議會政治의 歷史的 回顧</pTitle>
+						<name role="필자">李相均</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>라스키의 國家多元論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>閔丙台</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0113" end="ma_045_0090_0118"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">라스키의 國家多元論</pTitle>
+						<name role="필자">閔丙台</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0090_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社會學과 政治學</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李萬甲</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0090_0119" end="ma_045_0090_0128"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社會學과 政治學</pTitle>
+						<name role="필자">李萬甲</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0100">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1950년 2월(통권 10호, 제3권 제2호)">학풍 1950년 2월(통권 10호, 제3권 제2호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1950-02-01">1950년 2월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_045_0100_0001" end="ma_045_0100_0106"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_045_0100_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>民族과 國家</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金斗憲</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0100_0005" end="ma_045_0100_0042"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">民族과 國家</pTitle>
+						<name role="필자">金斗憲</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0100_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>行政官吏論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>徐壬壽</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0100_0043" end="ma_045_0100_0050"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">行政官吏論</pTitle>
+						<name role="필자">徐壬壽</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0100_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>著作權과 文化秩序</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金斗洪</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0100_0092" end="ma_045_0100_0096"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">著作權과 文化秩序</pTitle>
+						<name role="필자">金斗洪</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0100_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>詩人的 體驗</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金泰午</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0100_0057" end="ma_045_0100_0060"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">詩人的 體驗</pTitle>
+						<name role="필자">金泰午</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0100_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>돈과 敎育</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>成仁基</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0100_0060" end="ma_045_0100_0062"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">돈과 敎育</pTitle>
+						<name role="필자">成仁基</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0100_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>13級碁人 散筆</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>近園</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0100_0062" end="ma_045_0100_0064"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">13級碁人 散筆</pTitle>
+						<name role="필자">近園</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0100_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>이십오년</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>주요섭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0100_0097" end="ma_045_0100_0106"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">이십오년</pTitle>
+						<name role="필자">주요섭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0100_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>韓國과 그 이웃나라(名著解題)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪以燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0100_0075" end="ma_045_0100_0082"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">韓國과 그 이웃나라</pTitle>
+						<name role="필자">洪以燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0100_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>科學的 經驗論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金俊燮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0100_0051" end="ma_045_0100_0056"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">科學的 經驗論</pTitle>
+						<name role="필자">金俊燮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0100_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>歐羅巴의 東洋學者들</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金載元</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0100_0065" end="ma_045_0100_0074"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">歐羅巴의 東洋學者들</pTitle>
+						<name role="필자">金載元</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0100_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國寶古蹟巡察記</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李弘稙</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0100_0083" end="ma_045_0100_0091"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國寶古蹟巡察記</pTitle>
+						<name role="필자">李弘稙</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0110">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1950년 3월(통권 11호, 제3권 제3호)">학풍 1950년 3월(통권 11호, 제3권 제3호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1950-03-12">1950년 3월 12일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_045_0110_0001" end="ma_045_0110_0090"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_045_0110_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>今世紀 前半의 思潮(英文學에 反映된 것을 中心하여)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李仁秀</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0006" end="ma_045_0110_0030"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">今世紀 前半의 思潮</pTitle>
+						<name role="필자">李仁秀</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0110_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國際情勢 經濟動向</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張澈壽</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0031" end="ma_045_0110_0044"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國際情勢 經濟動向</pTitle>
+						<name role="필자">張澈壽</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0110_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>다음 50年間의 世界展望(20世紀 文明의 回顧와 展望)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>럿셀</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0037" end="ma_045_0110_0044"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">다음 50年間의 世界展望</pTitle>
+						<name role="필자">럿셀</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0110_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>國史와 世界史</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李仁榮</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0045" end="ma_045_0110_0051"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">國史와 世界史</pTitle>
+						<name role="필자">李仁榮</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0110_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>科學과 文學의 形象</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>劉漢徹</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0078" end="ma_045_0110_0079"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">科學과 文學의 形象</pTitle>
+						<name role="필자">劉漢徹</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0110_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>金可成論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金聲翰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0080" end="ma_045_0110_0090"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">金可成論</pTitle>
+						<name role="필자">金聲翰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0110_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>아내여, 그리고 蘭아</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>張瑞彦</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0076" end="ma_045_0110_0077"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">아내여, 그리고 蘭아</pTitle>
+						<name role="필자">張瑞彦</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0110_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>文化短信</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0004" end="ma_045_0110_0005"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">文化短信</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0110_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>讀書에 關한 設問 回答</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>申翼熙 外 10人</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0069" end="ma_045_0110_0073"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">讀書에 關한 設問 回答</pTitle>
+						<name role="필자">申翼熙 外 10人</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0110_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>甲骨學(中國 古代硏究의 根本資料)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李相佰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0052" end="ma_045_0110_0065"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">甲骨學</pTitle>
+						<name role="필자">李相佰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0110_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>럿셀의 빠이론論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金恩雨</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0066" end="ma_045_0110_0074"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">럿셀의 빠이론論</pTitle>
+						<name role="필자">金恩雨</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0110_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>酒色·愛慾·私生兒</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金安鎭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0110_0075" end="ma_045_0110_0077"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">酒色·愛慾·私生兒</pTitle>
+						<name role="필자">金安鎭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0120">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1950년 5월(통권 12호, 제3권 제4호)">학풍 1950년 5월(통권 12호, 제3권 제4호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1950-05-01">1950년 5월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_045_0120_0001" end="ma_045_0120_0126"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_045_0120_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>知性과 方向</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴鍾鴻</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0006" end="ma_045_0120_0022"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">知性과 方向</pTitle>
+						<name role="필자">朴鍾鴻</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>映畵 50年(20世紀 文明의 回顧와 展望)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金正革</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0023" end="ma_045_0120_0031"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">映畵 50年</pTitle>
+						<name role="필자">金正革</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>原子學의 展望(20世紀 文明의 回顧와 展望)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金勇虎</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0031" end="ma_045_0120_0038"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">原子學의 展望</pTitle>
+						<name role="필자">金勇虎</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>建築 50年(20世紀 文明의 回顧와 展望)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金重業</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0038" end="ma_045_0120_0049"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">建築 50年</pTitle>
+						<name role="필자">金重業</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國의 大學生活 一貌(20世紀 文明의 回顧와 展望)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李春寧</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0050" end="ma_045_0120_0053"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國의 大學生活 一貌</pTitle>
+						<name role="필자">李春寧</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>抗拒文學에 對하여</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>安應烈</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0090" end="ma_045_0120_0094"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">抗拒文學에 對하여</pTitle>
+						<name role="필자">安應烈</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>戰後의 佛蘭西文學과 思想</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>梁秉植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0069" end="ma_045_0120_0089"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">戰後의 佛蘭西文學과 思想</pTitle>
+						<name role="필자">梁秉植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>줄리앙·빵다의 知性</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>田昌植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0101" end="ma_045_0120_0110"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">줄리앙·빵다의 知性</pTitle>
+						<name role="필자">田昌植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>佛國寺의 봄</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>洪鍾仁</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0054" end="ma_045_0120_0059"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">佛國寺의 봄</pTitle>
+						<name role="필자">洪鍾仁</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>書評의 理</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>朴元植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0059" end="ma_045_0120_0060"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">書評의 理</pTitle>
+						<name role="필자">朴元植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0110">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>北極(作品)(戰後 佛蘭西文學 特輯)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>베트꼬오르 作, 李彙榮 譯</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0113" end="ma_045_0120_0126"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">北極</pTitle>
+						<name role="필자">베트꼬오르 作, 李彙榮 譯</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0120">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>自由地帶(戰後 佛蘭西文學 特輯)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>루이·아라공</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0096" end="ma_045_0120_0097"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">自由地帶</pTitle>
+						<name role="필자">루이·아라공</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0130">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>마치 奇蹟이 있었던 것처럼(戰後 佛蘭西文學 特輯)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>짝크·쁘레베르</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0098" end="ma_045_0120_0100"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">마치 奇蹟이 있었던 것처럼</pTitle>
+						<name role="필자">짝크·쁘레베르</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0140">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>不安과 憐憫</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0095" end="ma_045_0120_0100"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">不安과 憐憫</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0150">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>古木</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>一石</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0055" end="ma_045_0120_0057"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">古木</pTitle>
+						<name role="필자">一石</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0160">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>文化短信</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0066" end="ma_045_0120_0068"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">文化短信</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0170">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>내가 본 아메리카(戰後 佛蘭西文學 特輯)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>짱·콕토</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0111" end="ma_045_0120_0112"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">내가 본 아메리카</pTitle>
+						<name role="필자">짱·콕토</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0120_0180">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>名著解題「함렛트」</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>薛貞植</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0120_0061" end="ma_045_0120_0065"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">名著解題「함렛트」</pTitle>
+						<name role="필자">薛貞植</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_045_0130">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="1950년 6월(통권 13호, 제3권 제5호)">학풍 1950년 6월(통권 13호, 제3권 제5호)</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1950-06-01">1950년 6월 1일</dateIssued>
+				</publication>
+			</biblioData>
+			<illustGroup>
+				<illustration begin="ma_045_0130_0001" end="ma_045_0130_0134"/>
+			</illustGroup>
+		</front>
+		<level3 id="ma_045_0130_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>秩序와 進步</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李相佰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0130_0004" end="ma_045_0130_0021"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">秩序와 進步</pTitle>
+						<name role="필자">李相佰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0130_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>戰爭末期와 戰後의 美國社會學</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>탈코트·파아손즈, 바아나아드·바아버어</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0130_0022" end="ma_045_0130_0029"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">戰爭末期와 戰後의 美國社會學</pTitle>
+						<name role="필자">탈코트·파아손즈, 바아나아드·바아버어</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0130_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>宗敎社會學攷</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金宗洽</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0130_0030" end="ma_045_0130_0036"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">宗敎社會學攷</pTitle>
+						<name role="필자">金宗洽</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0130_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>家族起源論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>李萬甲</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0130_0037" end="ma_045_0130_0044"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">家族起源論</pTitle>
+						<name role="필자">李萬甲</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0130_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>知識人의 社會的 役割</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>裵龍光</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0130_0052" end="ma_045_0130_0063"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">知識人의 社會的 役割</pTitle>
+						<name role="필자">裵龍光</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0130_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>文化와 社會</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>邊世鎭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0130_0072" end="ma_045_0130_0080"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">文化와 社會</pTitle>
+						<name role="필자">邊世鎭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0130_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>美國社會心理學의 新傾向</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0130_0045" end="ma_045_0130_0051"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">美國社會心理學의 新傾向</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0130_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>學說中心 社會學者 群像(附錄)</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0130_0089" end="ma_045_0130_0134"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">學說中心 社會學者 群像</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0130_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>兩班制度論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>高在國</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0130_0064" end="ma_045_0130_0071"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">兩班制度論</pTitle>
+						<name role="필자">高在國</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_045_0130_0100">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>藝術社會學의 諸問題</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓相鎭</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+				<illustGroup>
+					<illustration begin="ma_045_0130_0081" end="ma_045_0130_0088"/>
+				</illustGroup>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">藝術社會學의 諸問題</pTitle>
+						<name role="필자">韓相鎭</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+</level1>

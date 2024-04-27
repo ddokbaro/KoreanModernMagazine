@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="ma_085">
+	<front>
+		<biblioData type="목차제공잡지">
+			<title>
+				<mainTitle>이론투쟁</mainTitle>
+			</title>
+			<binderPeriod begin="1927-02-00" end="1927-08-00"/>
+		</biblioData>
+	</front>
+	<level2 id="ma_085_0010">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제2호">이론투쟁 제2호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1927-04-25">1927년 4월 25일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_085_0010_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>黨이란 무엇인가?</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>지노비에프</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">黨이란 무엇인가?</pTitle>
+						<name role="필자">지노비에프</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0010_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>思想團體解體論</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>崔益翰</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">思想團體解體論</pTitle>
+						<name role="필자">崔益翰</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0010_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>單一民族黨結成에 對하야</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>韓林</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">單一民族黨結成에 對하야</pTitle>
+						<name role="필자">韓林</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0010_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>中國 國民革命運動의 特質과 前衛의 當面任務</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>譚平山</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">中國 國民革命運動의 特質과 前衛의 當面任務</pTitle>
+						<name role="필자">譚平山</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0010_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>方向轉換의 自己批判</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金均</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">方向轉換의 自己批判</pTitle>
+						<name role="필자">金均</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0010_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮新興運動의 組織問題에 關한 俗學的 一考察</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮新興運動의 組織問題에 關한 俗學的 一考察</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0010_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>金萬圭의 論文을 評함(一)</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>佐木君</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">金萬圭의 論文을 評함</pTitle>
+						<name role="필자">佐木君</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0010_0080">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>唯物史觀 硏究方法의 批判</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>福本和夫</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">唯物史觀 硏究方法의 批判</pTitle>
+						<name role="필자">福本和夫</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0010_0090">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯後記</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯後記</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_085_0020">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제3호">이론투쟁 제3호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1927-08-15">1927년 8월 15일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_085_0020_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>妥協은 絶對로 排斥할 것인가?</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>레닌</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">妥協은 絶對로 排斥할 것인가?</pTitle>
+						<name role="필자">레닌</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0020_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>맑스主義理論上 組織問題의 地位와 우리의 當面課題</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>金左民</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">맑스主義理論上 組織問題의 地位와 우리의 當面課題</pTitle>
+						<name role="필자">金左民</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0020_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>社會主義活敎論을 論駁함</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>姜徹</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">社會主義活敎論을 論駁함</pTitle>
+						<name role="필자">姜徹</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0020_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>中國革命軍의 發展과 其指導勢力</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>아 말치노푸</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">中國革命軍의 發展과 其指導勢力</pTitle>
+						<name role="필자">아 말치노푸</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0020_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>資料-中國革命軍의 現勢</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">資料-中國革命軍의 現勢</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0020_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>資料-蔣介石令息의 義書</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">資料-蔣介石令息의 義書</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0020_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯餘言</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯餘言</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+	<level2 id="ma_085_0030">
+		<front>
+			<biblioData>
+				<title>
+					<mainTitle volume="제5호">이론투쟁 제5호</mainTitle>
+				</title>
+				<publication>
+					<publisher/>
+					<dateIssued date="1928-03-15">1928년 3월 15일</dateIssued>
+				</publication>
+			</biblioData>
+		</front>
+		<level3 id="ma_085_0030_0010">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>協同戰線과 勞動階級에 對하야</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">協同戰線과 勞動階級에 對하야</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0030_0020">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮運動의 現段階의 序論 - 아울너 모든 民族主義理論을 一蹴함</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>汪太初</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮運動의 現段階의 序論 - 아울너 모든 民族主義理論을 一蹴함</pTitle>
+						<name role="필자">汪太初</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0030_0030">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>朝鮮맑스主義者의 當面한 決定的 任務에 對하야 - 張日星氏商會 特製『特殊朝鮮』의 理論 新型民族主義는 如何히 克服될 것인가?</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>KH生</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">朝鮮맑스主義者의 當面한 決定的 任務에 對하야 - 張日星氏商會 特製『特殊朝鮮』의 理論 新型民族主義는 如何히 克服될 것인가?</pTitle>
+						<name role="필자">KH生</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0030_0040">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>中國革命의 現段階 - 廣東소비에트 樹立과 그 意義</mainTitle>
+					</title>
+					<creator>
+						<author>
+							<name>PDR</name>
+						</author>
+					</creator>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">中國革命의 現段階 - 廣東소비에트 樹立과 그 意義</pTitle>
+						<name role="필자">PDR</name>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0030_0050">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>資料 - 反帝國主義國際聯盟 總評議會의 政策方針의 決議</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">資料 - 反帝國主義國際聯盟 總評議會의 政策方針의 決議</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0030_0060">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>資料 - 全北社會運動者 懇親會 討議案</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">資料 - 全北社會運動者 懇親會 討議案</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+		<level3 id="ma_085_0030_0070">
+			<front>
+				<biblioData>
+					<title>
+						<mainTitle>編輯餘言</mainTitle>
+					</title>
+					<subjectClass code="ma00"/>
+				</biblioData>
+			</front>
+			<text>
+				<content>
+					<paragraph>
+						<pTitle type="기사명">編輯餘言</pTitle>
+					</paragraph>
+				</content>
+			</text>
+		</level3>
+	</level2>
+</level1>
