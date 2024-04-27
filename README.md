@@ -1,17 +1,28 @@
 # KoreanModernMagazine
 
-국사편찬위원회 근현대잡지자료 
+**국사편찬위원회 근현대잡지자료**
 
-기준일: 2024년 03월 27일
+**본 데이터는 국사편찬위원회에서 제공한 한국사데이터베이스 구축 근현대잡지자료 RAW DATA임.**
 
-건수: 83건
+*   출처: 국사편찬위원회 
+*   데이터 : 24.03.27. 기준 한국사데이터베이스 구축 근현대잡지자료 RAW DATA (메타데이터 + 본문텍스트 XML 등 관련 파일 일체)
+* 이용 범위: 신청 목적(비영리적 학술연구)에 한하여 활용 가능
+* 기타: 일제강점기 간행된 잡지의 경우 일부 기사의 저작권 소멸 시효가 남아 있을 수 있으므로 유의 필요
 
-메인URL:https://db.history.go.kr/modern/level.do?itemId=ma
+* 메인URL:https://db.history.go.kr/modern/level.do?itemId=ma
 
-소개URL:https://db.history.go.kr/introduction/modern/intro_ma.html
+* 소개URL:https://db.history.go.kr/introduction/modern/intro_ma.html
+
+---
+
+* 근현대잡지자료 XSD 개념도(made by http://www.xml-tools.net/)
+
+[![XSD](https://github.com/ddokbaro/KoreanModernMagazine/blob/main/XSD_%ED%95%9C%EA%B5%AD%EA%B7%BC%ED%98%84%EB%8C%80%EC%9E%A1%EC%A7%80%EC%9E%90%EB%A3%8C.png?raw=true)](https://github.com/ddokbaro/KoreanModernMagazine/blob/main/XSD_%ED%95%9C%EA%B5%AD%EA%B7%BC%ED%98%84%EB%8C%80%EC%9E%A1%EC%A7%80%EC%9E%90%EB%A3%8C.png)
 
 
-내용:
+---
+
+* 내용:
 
 자료ID	잡지명	URL
 
