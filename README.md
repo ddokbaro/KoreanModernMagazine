@@ -15,7 +15,7 @@
 
 ---
 
-* 근현대잡지자료 XSD 개념도(made by http://www.xml-tools.net/)
+* 근현대잡지자료 XSD 개념도(using http://www.xml-tools.net/)
 
 [![XSD](https://github.com/ddokbaro/KoreanModernMagazine/blob/main/XSD_%ED%95%9C%EA%B5%AD%EA%B7%BC%ED%98%84%EB%8C%80%EC%9E%A1%EC%A7%80%EC%9E%90%EB%A3%8C.png?raw=true)](https://github.com/ddokbaro/KoreanModernMagazine/blob/main/XSD_%ED%95%9C%EA%B5%AD%EA%B7%BC%ED%98%84%EB%8C%80%EC%9E%A1%EC%A7%80%EC%9E%90%EB%A3%8C.png)
 
