@@ -19,6 +19,15 @@
 
 [![XSD](https://github.com/ddokbaro/KoreanModernMagazine/blob/main/XSD_%ED%95%9C%EA%B5%AD%EA%B7%BC%ED%98%84%EB%8C%80%EC%9E%A1%EC%A7%80%EC%9E%90%EB%A3%8C.png?raw=true)](https://github.com/ddokbaro/KoreanModernMagazine/blob/main/XSD_%ED%95%9C%EA%B5%AD%EA%B7%BC%ED%98%84%EB%8C%80%EC%9E%A1%EC%A7%80%EC%9E%90%EB%A3%8C.png)
 
+---
+
+Github: https://github.com/ddokbaro/KoreanModernMagazine
+
+공공데이터 관련 문건 모음: https://github.com/ddokbaro/KoreanModernMagazine/tree/main/00_%EB%AC%B8%EA%B1%B4%EB%AA%A8%EC%9D%8C_%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0
+
+---
+
+made by: 김바로/Baro(한국학중앙연구원/AKS) / ddokbaro@gmail.com
 
 ---
 
