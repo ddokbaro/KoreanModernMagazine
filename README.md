@@ -13,6 +13,8 @@
 
 * 소개URL:https://db.history.go.kr/introduction/modern/intro_ma.html
 
+* 한국근현대잡지자료_데이터탐색.ipynb : https://colab.research.google.com/drive/1bK1zoo_ezIxk7fOPE1tvo4o75eH6-BXk?usp=sharing
+* 
 ---
 
 * 근현대잡지자료 XSD 개념도(using http://www.xml-tools.net/)
